@@ -1,4 +1,4 @@
-﻿![logo](https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif)
+﻿![logo](https://raw.githubusercontent.com/dzh0ni/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif)
 
 # iPTV-FREE-LIST
 
@@ -15,12 +15,12 @@ necesidad de una suscripción paga.
 ## :satellite: Tipo de lista
 Lista de reproducción de iPTV para `todo publico` 😎😉😁😏🧐
 ```bash
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/iPTV-Free-List_TV.m3u
+https://raw.githubusercontent.com/dzh0ni/iPTV-FREE-LIST/master/iPTV-Free-List_TV.m3u
 ```
 
 Lista de reproducción de iPTV para `adultos` 😳😨🥵😵🥴
 ```bash
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/master/iPTV-Free-List_XXX.m3u
+https://raw.githubusercontent.com/dzh0ni/iPTV-FREE-LIST/master/iPTV-Free-List_XXX.m3u
 ```
 
 **Microsoft Store Windows - IPTV Player**
@@ -501,7 +501,6 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 Las contribuciones son bienvenidas. Si tienes ideas para mejorar este repositorio o encuentras algún problema, siéntete libre de abrir un *pull request* o *issue*.
 
 ## :email: Contacto 
-* :busts_in_silhouette: **illuminati Dev Team**: [Telegram](https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ) - Actualización de Repositorio
 * :busts_in_silhouette: **dZh0ni**: [Telegram](https://t.me/iPTV_Free_List) - Mantenedor de Repositorio
 
 ## :dollar: Donaciones por PayPal
@@ -511,4 +510,4 @@ a mantener este proyecto en marcha. ¡Gracias por tu apoyo!
 
 [![Paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QQ9A4UFHSP5TC)
 
-☆ https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ ☆
+☆ dZh0ni ☆
