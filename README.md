@@ -30,7 +30,6 @@ https://raw.githubusercontent.com/dzh0ni/iPTV-FREE-LIST/master/iPTV-Free-List_XX
 * [Descarga de IPTVnator](https://www.videohelp.com/software/IPTVnator) para lista M3U y M3U8 Windows
 * [Descarga de IPTV Smarters Pro](https://iptv-smarters-pro.en.uptodown.com/windows/download) para cuentas xTream 
 * [Descarga de IPTV Stream Player Official](https://iptv-stream-player.en.uptodown.com/windows) para cuentas xTream Codes Windows
-* [Descarga de IPTV Stream Player : Watch TV](https://apps.microsoft.com/detail/9pmrbqz7824h?hl=en-US&gl=ES) para cuentas xTream Codes Windows
   
 **Play Store Android - IPTV Player**
 * [Descarga de Smarters Player Lite](https://smarters-player-lite.en.uptodown.com/android) para cuentas xTream Codes Windows 
