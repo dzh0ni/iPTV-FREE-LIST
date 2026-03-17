@@ -40,7 +40,7 @@ https://raw.githubusercontent.com/dzh0ni/iPTV-FREE-LIST/master/iPTV-Free-List_XX
 * [GitHub](https://github.com/iptv-org/iptv) - Proyecto Oficial 
 
 <details>
-<summary>Expandir</summary>
+<summary>Expandir para ver lista de enlaces</summary>
 <br>
 
 Lista de reproducción principal 
@@ -70,7 +70,7 @@ https://iptv-org.github.io/iptv/languages/spa.m3u
 * [Pagina web](https://m3u.cl) - Proyecto Oficial 
 
 <details>
-<summary>Expandir</summary>
+<summary>Expandir para ver lista de enlaces</summary>
 <br>
 
 Listas de reproducción:
@@ -106,7 +106,7 @@ https://m3u.cl/lista/total.m3u
 * [Referencia](https://community.getchannels.com/t/non-docker-source-for-plutotv-m3u-playlists-and-epg/29308) - Community GetChannels
 
 <details>
-<summary>Expandir</summary>
+<summary>Expandir para ver lista de enlaces</summary>
 <br>
 
 Listas de reproducción:
@@ -136,7 +136,7 @@ https://nocords.xyz/stirr/epg.xml
 ## 📺 Contenido en línea de iPTV
 
 <details>
-<summary>Expandir</summary>
+<summary>Expandir para ver lista de enlaces</summary>
 <br>
 
 ## 📡 iPTV Online
@@ -163,7 +163,7 @@ https://nocords.xyz/stirr/epg.xml
 ## 🎞️ Películas, Series, Anime y Más
 
 <details>
-<summary>Expandir</summary>
+<summary>Expandir para ver lista de enlaces</summary>
 <br>
 
 🎬 **Pelisplus**
@@ -238,7 +238,7 @@ https://nocords.xyz/stirr/epg.xml
 **Es aconsejable visualizar este contenido en navegadores como [LibreWolf](https://librewolf.net/) o [Firefox](https://www.mozilla.org/es-cl/firefox/new/), y se sugiere utilizar e instalar las extensiones (complementos) que bloquean molestos anuncios emergentes para una mejor experiencia de navegación. Además, se recomienda abrir los enlaces en una nueva ventana o pestaña, haciendo clic con el botón derecho del mouse y seleccionando "Abrir enlace en una nueva pestaña" o "Abrir enlace en una nueva ventana", dependiendo de tu navegador.**
 
 <details>
-<summary>Expandir</summary>
+<summary>Expandir para ver lista de extenciones</summary>
 <br>
 
 **ADD-ONS Principal** 
@@ -266,7 +266,7 @@ https://nocords.xyz/stirr/epg.xml
 ## :desktop_computer: Aplicaciones y avanzado
 
 <details>
-<summary>Expandir</summary>
+<summary>Expandir para ver aplicaciones y avanzado</summary>
 <br>
 
 ## 🌐 Web
