@@ -261,6 +261,7 @@ PlutoTV EPG
 ```bash
 https://nocords.xyz/stirr/epg.xml
 ```
+</details>
 
 ## :desktop_computer: Aplicaciones y avanzado
 
