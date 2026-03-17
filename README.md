@@ -43,7 +43,7 @@ https://raw.githubusercontent.com/dzh0ni/iPTV-FREE-LIST/master/iPTV-Free-List_XX
 ## 📺 Contenido en línea de iPTV
 
 <details>
-<summary>Expandir para ver lista de enlaces</summary>
+<summary>Expandir para ver lista de enlaces y contenido</summary>
 <br>
 
 ## 📡 iPTV Online
@@ -70,7 +70,7 @@ https://raw.githubusercontent.com/dzh0ni/iPTV-FREE-LIST/master/iPTV-Free-List_XX
 ## 🎞️ Películas, Series, Anime y Más
 
 <details>
-<summary>Expandir para ver lista de enlaces</summary>
+<summary>Expandir para ver lista de enlaces y contenido</summary>
 <br>
 
 🎬 **Pelisplus**
@@ -174,7 +174,7 @@ https://raw.githubusercontent.com/dzh0ni/iPTV-FREE-LIST/master/iPTV-Free-List_XX
 * [GitHub](https://github.com/iptv-org/iptv) - Proyecto Oficial 
 
 <details>
-<summary>Expandir para ver lista de enlaces</summary>
+<summary>Expandir para ver lista de enlaces y contenido</summary>
 <br>
 
 Lista de reproducción principal 
@@ -204,7 +204,7 @@ https://iptv-org.github.io/iptv/languages/spa.m3u
 * [Pagina web](https://m3u.cl) - Proyecto Oficial 
 
 <details>
-<summary>Expandir para ver lista de enlaces</summary>
+<summary>Expandir para ver lista de enlaces y contenido</summary>
 <br>
 
 Listas de reproducción:
@@ -240,7 +240,7 @@ https://m3u.cl/lista/total.m3u
 * [Referencia](https://community.getchannels.com/t/non-docker-source-for-plutotv-m3u-playlists-and-epg/29308) - Community GetChannels
 
 <details>
-<summary>Expandir para ver lista de enlaces</summary>
+<summary>Expandir para ver lista de enlaces y contenido</summary>
 <br>
 
 Listas de reproducción:
