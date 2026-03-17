@@ -492,11 +492,4 @@ Las contribuciones son bienvenidas. Si tienes ideas para mejorar este repositori
 ## :email: Contacto 
 * :busts_in_silhouette: **dZh0ni**: [Telegram](https://t.me/iPTV_Free_List) - Mantenedor de Repositorio
 
-## :dollar: Donaciones por PayPal
-Si este recurso te ha sido útil, considera hacer una donación a través de PayPal. 
-Cualquier contribución, por pequeña que sea, es muy apreciada y ayuda 
-a mantener este proyecto en marcha. ¡Gracias por tu apoyo!
-
-[![Paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QQ9A4UFHSP5TC)
-
 ☆ dZh0ni ☆
