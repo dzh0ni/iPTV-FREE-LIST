@@ -1,6 +1,6 @@
 ﻿![logo](https://raw.githubusercontent.com/dzh0ni/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif)
 
-# iPTV-FREE-LIST
+# iPTV-Free-List
 
 ## :information_source: Descripción
 
@@ -28,6 +28,7 @@ https://raw.githubusercontent.com/dzh0ni/iPTV-FREE-LIST/master/iPTV-Free-List_XX
 * [Descarga de IPTVnator](https://www.videohelp.com/software/IPTVnator) para lista M3U y M3U8 Windows
 * [Descarga de IPTV Smarters Pro](https://iptv-smarters-pro.en.uptodown.com/windows/download) para cuentas xTream 
 * [Descarga de IPTV Stream Player Official](https://iptv-stream-player.en.uptodown.com/windows) para cuentas xTream Codes Windows
+* [Descarga de IPTV Stream Player : Watch TV](https://apps.microsoft.com/detail/9pmrbqz7824h?hl=en-US&gl=ES) para cuentas xTream Codes Windows
   
 **Play Store Android - IPTV Player**
 * [Descarga de Smarters Player Lite](https://smarters-player-lite.en.uptodown.com/android) para cuentas xTream Codes Windows 
@@ -483,18 +484,6 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 ## :file_folder: Proyectos útiles 
 
 - xTream-UI-r22f: [Ver Repositorio](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/tree/master/xTream-UI-r22f)
-
-## :open_file_folder: Estructura del Repositorio
-
-| Icono            | Nombre         | Descripción                                   |
-|------------------|------------------------|---------------------------------------|
-| :file_folder:    | Imagenes               | Carpeta para imágenes                 |
-| :file_folder:    | Recopilacion           | Carpeta para archivos de recopilacion |
-| :file_folder:    | xTream-UI-r22f         | Carpeta para xTream-UI-r22f           |
-| :page_facing_up: | .gitattributes         | Archivo para configuración de Git     |
-| :book:           | README.md              | Archivo de documentación principal    |
-| :package:        | iPTV-Free-List_TV.m3u  | Lista de TV general                   |
-| :package:        | iPTV-Free-List_XXX.m3u | Lista para adultos                    |
 
 ## :star2: Contribuciones
 
