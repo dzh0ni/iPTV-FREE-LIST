@@ -23,6 +23,8 @@ Lista de reproducción de iPTV para `adultos` 😳😨🥵😵🥴
 https://raw.githubusercontent.com/dzh0ni/iPTV-FREE-LIST/master/iPTV-Free-List_XXX.m3u
 ```
 
+:memo: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc. 
+
 **Microsoft Store Windows - IPTV Player**
 * [Descarga de M3U IPTV](https://www.microsoft.com/store/productId/9MT1D281RDB4?ocid=pdpshare/) para lista M3U y M3U8 Windows
 * [Descarga de IPTVnator](https://www.videohelp.com/software/IPTVnator) para lista M3U y M3U8 Windows
@@ -36,101 +38,6 @@ https://raw.githubusercontent.com/dzh0ni/iPTV-FREE-LIST/master/iPTV-Free-List_XX
 * [Descarga de IPTV Stream Player Official](https://iptv-stream-player.en.uptodown.com/android) para cuentas xTream Codes Windows 
 * [Descarga de IPTV Pro](https://play.google.com/store/apps/details?id=ru.iptvremote.android.iptv.pro&hl=es_CL/) para lista M3U y M3U8 Android
   
-## :satellite: lista iptv-org
-* [GitHub](https://github.com/iptv-org/iptv) - Proyecto Oficial 
-
-<details>
-<summary>Expandir para ver lista de enlaces</summary>
-<br>
-
-Lista de reproducción principal 
-```bash
-https://iptv-org.github.io/iptv/index.m3u
-```
-Agrupados por categoría 
-```bash
-https://iptv-org.github.io/iptv/index.category.m3u
-```
-Agrupados por idioma 
-```bash
-https://iptv-org.github.io/iptv/index.language.m3u
-```
-Agrupados por país 
-```bash
-https://iptv-org.github.io/iptv/index.country.m3u
-```
-Lista IPTV Lenguaje Español
-```bash
-https://iptv-org.github.io/iptv/languages/spa.m3u
-```
- 
-</details>
-
-## :satellite: lista m3u-cl 
-* [Pagina web](https://m3u.cl) - Proyecto Oficial 
-
-<details>
-<summary>Expandir para ver lista de enlaces</summary>
-<br>
-
-Listas de reproducción:
-
-M3U Chile
-```bash
-https://m3u.cl/lista/CL.m3u
-```
-Lista IPTV Música
-```bash
-https://m3u.cl/lista/musica.m3u
-```
-Lista IPTV Religiosos
-```bash
-https://m3u.cl/lista/religiosos.m3u
-```
-Lista IPTV Adultos
-```bash
-https://m3u.cl/lista/XXX.m3u
-```
-Lista IPTV TOP
-```bash
-https://m3u.cl/lista/top.m3u
-```
-Lista IPTV Total
-```bash
-https://m3u.cl/lista/total.m3u
-```
-</details>
-
-## :satellite: lista PlutoTV
-* [Pagina web](https://github.com/HankLloydRight/pluto-for-channels-php) - Proyecto Oficial 
-* [Referencia](https://community.getchannels.com/t/non-docker-source-for-plutotv-m3u-playlists-and-epg/29308) - Community GetChannels
-
-<details>
-<summary>Expandir para ver lista de enlaces</summary>
-<br>
-
-Listas de reproducción:
-
-M3U PlutoTV
-```bash
-https://nocords.xyz/pluto/playlist.m3u
-```
-PlutoTV EPG
-```bash
-https://nocords.xyz/pluto/epg.xml
-```
-
-M3U PlutoTV Stirr
-```bash
-https://nocords.xyz/stirr/playlist.m3u
-```
-PlutoTV EPG
-```bash
-https://nocords.xyz/stirr/epg.xml
-```
-
-:memo: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc. 
-
 </details>
 
 ## 📺 Contenido en línea de iPTV
@@ -262,6 +169,99 @@ https://nocords.xyz/stirr/epg.xml
 1. [BasementHackerOS por Yewfy](https://addons.mozilla.org/es/firefox/addon/basementhackeros/)
 
 </details>
+
+## :satellite: lista iptv-org
+* [GitHub](https://github.com/iptv-org/iptv) - Proyecto Oficial 
+
+<details>
+<summary>Expandir para ver lista de enlaces</summary>
+<br>
+
+Lista de reproducción principal 
+```bash
+https://iptv-org.github.io/iptv/index.m3u
+```
+Agrupados por categoría 
+```bash
+https://iptv-org.github.io/iptv/index.category.m3u
+```
+Agrupados por idioma 
+```bash
+https://iptv-org.github.io/iptv/index.language.m3u
+```
+Agrupados por país 
+```bash
+https://iptv-org.github.io/iptv/index.country.m3u
+```
+Lista IPTV Lenguaje Español
+```bash
+https://iptv-org.github.io/iptv/languages/spa.m3u
+```
+ 
+</details>
+
+## :satellite: lista m3u-cl 
+* [Pagina web](https://m3u.cl) - Proyecto Oficial 
+
+<details>
+<summary>Expandir para ver lista de enlaces</summary>
+<br>
+
+Listas de reproducción:
+
+M3U Chile
+```bash
+https://m3u.cl/lista/CL.m3u
+```
+Lista IPTV Música
+```bash
+https://m3u.cl/lista/musica.m3u
+```
+Lista IPTV Religiosos
+```bash
+https://m3u.cl/lista/religiosos.m3u
+```
+Lista IPTV Adultos
+```bash
+https://m3u.cl/lista/XXX.m3u
+```
+Lista IPTV TOP
+```bash
+https://m3u.cl/lista/top.m3u
+```
+Lista IPTV Total
+```bash
+https://m3u.cl/lista/total.m3u
+```
+</details>
+
+## :satellite: lista PlutoTV
+* [Pagina web](https://github.com/HankLloydRight/pluto-for-channels-php) - Proyecto Oficial 
+* [Referencia](https://community.getchannels.com/t/non-docker-source-for-plutotv-m3u-playlists-and-epg/29308) - Community GetChannels
+
+<details>
+<summary>Expandir para ver lista de enlaces</summary>
+<br>
+
+Listas de reproducción:
+
+M3U PlutoTV
+```bash
+https://nocords.xyz/pluto/playlist.m3u
+```
+PlutoTV EPG
+```bash
+https://nocords.xyz/pluto/epg.xml
+```
+
+M3U PlutoTV Stirr
+```bash
+https://nocords.xyz/stirr/playlist.m3u
+```
+PlutoTV EPG
+```bash
+https://nocords.xyz/stirr/epg.xml
+```
 
 ## :desktop_computer: Aplicaciones y avanzado
 
