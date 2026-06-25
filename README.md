@@ -490,6 +490,6 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 Las contribuciones son bienvenidas. Si tienes ideas para mejorar este repositorio o encuentras algún problema, siéntete libre de abrir un *pull request* o *issue*.
 
 ## :email: Contacto 
-* :busts_in_silhouette: **dZh0ni**: [Telegram](https://t.me/iPTV_Free_List) - Mantenedor de Repositorio
+* :busts_in_silhouette: **dZh0ni**: [Telegram](https://t.me/dZh0ni_Dev)) - Mantenedor de Repositorio
 
 ☆ dZh0ni ☆
