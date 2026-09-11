@@ -1,6 +1,6 @@
 ﻿![logo](https://github.com/dzh0ni/iPTV-FREE-LIST/blob/master/Imagenes/xtreamui-R22F.jpg)
 
-# xTream-UI-r22f
+# xTream UI r22f
 
 ## :information_source: Descripción
 
