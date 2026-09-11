@@ -4,7 +4,9 @@
 
 ## :information_source: Descripción
 
-Xtream-UI es un sistema de gestión de recursos que incluye una base de datos de sus transmisiones.
+Xtream-UI es una plataforma de gestión para servidores de transmisión que permite administrar canales, usuarios, conexiones y recursos desde una interfaz web.
+
+Este repositorio contiene recursos, instrucciones y referencias relacionadas con la instalación y configuración de Xtream-UI r22f.
 
 ## :memo: Notas
 
@@ -59,14 +61,28 @@ Si no puede ver las nuevas tablas de la base de datos después de una nueva inst
 ```bash
 touch /home/xtreamcodes/iptv_xtream_codes/admin/.update
 /home/xtreamcodes/iptv_xtream_codes/start_services.sh
-/home/xtreamcodes/iptv_xtream_codes/start_services.sh
 ```
 
 ## :hammer_and_wrench: Requisitos
 
 - Versión recomendada: `Ubuntu 18.04 Server x86_64`
-- Se recomienda utilizar una instalación reciente o un sistema recién formateado.
+- Se recomienda utilizar una instalación limpia o un sistema recién formateado.
+- Se requieren privilegios de `root` o permisos de administrador.
+- Se recomienda disponer de una conexión a Internet estable durante la instalación.
 - El idioma predeterminado del sistema es el inglés.
+- Antes de comenzar, se recomienda realizar una copia de seguridad de cualquier configuración o dato importante.
+
+
+## :bulb: Recomendaciones
+
+- Se recomienda realizar la instalación sobre un servidor limpio o recién formateado.
+- Verifica que el servidor cumpla con los requisitos antes de comenzar.
+- Ejecuta los comandos con privilegios de `root` o mediante `sudo`.
+- Mantén una conexión a Internet estable durante todo el proceso de instalación.
+- Realiza una copia de seguridad antes de modificar una instalación existente.
+- Verifica la documentación y compatibilidad de Xtream-UI antes de realizar actualizaciones.
+- No ejecutes comandos de fuentes desconocidas sin revisar previamente su contenido.
+- Después de la instalación, comprueba que todos los servicios de Xtream-UI estén funcionando correctamente.
 
 ## :blue_book: Recursos y documentación
 
