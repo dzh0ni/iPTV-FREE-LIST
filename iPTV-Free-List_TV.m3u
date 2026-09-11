@@ -1,38 +1,70 @@
 #EXTM3U
 
 # **********************************
-# 📺 Canales de TV y Radios Online
+# 📺 CANALES DE TV Y RADIOS ONLINE
+# **********************************
 # 🔥 Recopilado por: iLLuminati Dev Team
 # 🌐 Contacto: https://t.me/iPTV_Free_List
 # 🎥 Playlist: https://raw.githubusercontent.com/dzh0ni/iPTV-FREE-LIST/master/iPTV-Free-List_TV.m3u
 # 📲 Compatible con: PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
 # **********************************
 
+# **********************************
+# 📑 ÍNDICE DE CATEGORÍAS
+# **********************************
+
+# 01. 📺 Anime
+# 02. 🇨🇱 Chileiptv
+# 03. 🇨🇱 M3U CL
+# 04. 📡 Lao TV
+# 05. 🇨🇱 Canales Chilenos
+# 06. 🏙️ Canales Chilenos Regionales
+# 07. 🌎 Canales de Latinos
+# 08. ⚽ Canales de Deportes
+# 09. 🇲🇽 Canales Mexicanos
+# 10. 🇵🇪 Canales Peruanos
+# 11. 🇯🇵 Canales Japoneses
+# 12. 🌐 Canales Miscelaneos
+# 13. 📻 Radios Chilenas
+# 14. 📺 Radios Chilenas con Video
+# 15. 🌎 Radios Internacionales
+# 16. 📻 Radios Online
+# 17. 🎵 Canales de Musica
+# 18. 🎶 Musica
+# 19. 🔞 XXX TV Online
+# 20. 🔞 XXX Live Cams
+# 21. 🔞 XXX Videos
+
+# **********************************
+# 📡 INICIO DE LA PLAYLIST
+# **********************************
+
 #*****************************
 #*****************************
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZGjpxyW/dcpfeg1-889f1d54-9f98-47d1-87e2-31f9103e2e01.jpg" group-title="Anime", Locomotion (Lista) 
-http://locomotiontv.com/envivo/xtv/m3u
+# 📺 Locomotion Lista
+# 🖼️ Logo: https://i.ibb.co/4ZGjpxyW/dcpfeg1-889f1d54-9f98-47d1-87e2-31f9103e2e01.jpg
+# 🔗 Stream: http://locomotiontv.com/envivo/xtv/m3u
 
-#EXTINF:-1 tvg-name="Locomotion" tvg-id="Locomotion" tvg-logo="http://locomotiontv.com/locomotion/logo.png" group-title="Anime", Locomotion (Principal)
+#EXTINF:-1 tvg-name="Locomotion" tvg-id="Locomotion" tvg-logo="http://locomotiontv.com/locomotion/logo.png" group-title="Anime",Locomotion (Principal)
 http://51.222.85.85:81/hls/loco/index.m3u8
 
-#EXTINF:-1 tvg-name="Locomotion" tvg-id="Locomotion" tvg-logo="http://locomotiontv.com/locomotion/logo.png" group-title="Anime", Locomotion (High Quality)
+#EXTINF:-1 tvg-name="Locomotion" tvg-id="Locomotion" tvg-logo="http://locomotiontv.com/locomotion/logo.png" group-title="Anime",Locomotion (High Quality)
 http://146.19.49.197:81/live/loco_hi/index.m3u8
 
-#EXTINF:-1 tvg-name="Locomotion" tvg-id="Locomotion" tvg-logo="http://locomotiontv.com/locomotion/logo.png" group-title="Anime", Locomotion (Low Quality)
+#EXTINF:-1 tvg-name="Locomotion" tvg-id="Locomotion" tvg-logo="http://locomotiontv.com/locomotion/logo.png" group-title="Anime",Locomotion (Low Quality)
 http://146.19.49.197:81/live/loco_low/index.m3u8
 
-#EXTINF:-1 tvg-name="Locomotion" tvg-id="Locomotion" tvg-logo="http://locomotiontv.com/locomotion/logo.png" group-title="Anime", Locomotion (Adaptable)
+#EXTINF:-1 tvg-name="Locomotion" tvg-id="Locomotion" tvg-logo="http://locomotiontv.com/locomotion/logo.png" group-title="Anime",Locomotion (Adaptable)
 http://146.19.49.197:81/live/loco.m3u8
 
-#EXTINF:-1 tvg-name="AnimeZoneTV" tvg-id="AZTV" tvg-logo="http://locomotiontv.com/locomotion/aztv_logo.png" group-title="Anime", AnimeZoneTV
+#EXTINF:-1 tvg-name="AnimeZoneTV" tvg-id="AZTV" tvg-logo="http://locomotiontv.com/locomotion/aztv_logo.png" group-title="Anime",AnimeZoneTV
 http://animezonetv.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-name="Anime XTV" tvg-id="animextv" tvg-logo="http://locomotiontv.com/locomotion/aztv_logo.png" group-title="Anime", Anime XTV (High Server 1)
+#EXTINF:-1 tvg-name="Anime XTV" tvg-id="animextv" tvg-logo="http://locomotiontv.com/locomotion/aztv_logo.png" group-title="Anime",Anime XTV (High Server 1)
 http://animezonetv.net:81/live_hls/animetest/index.m3u8
 
-#EXTINF:-1 tvg-name="Anime XTV" tvg-id="animextv" tvg-logo="http://locomotiontv.com/locomotion/aztv_logo.png" group-title="Anime", Anime XTV (High Server 2)
+#EXTINF:-1 tvg-name="Anime XTV" tvg-id="animextv" tvg-logo="http://locomotiontv.com/locomotion/aztv_logo.png" group-title="Anime",Anime XTV (High Server 2)
 http://146.19.49.197:81/live/animextv_hi/index.m3u8
 
 #*****************************
@@ -50,13 +82,13 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 group-title="Chileiptv" tvg-logo="http://chileiptv.cl/img/logos/logo_15220956361.png",TV Senado
 https://janus-tv-ply.senado.cl/playlist/playlist.m3u8
 
-#EXTINF:-1 group-title="Chileiptv" tvg-logo="http://chileiptv.cl/img/logos/logo_15216859311.jpg",UfrovisiÃ³n
+#EXTINF:-1 group-title="Chileiptv" tvg-logo="http://chileiptv.cl/img/logos/logo_15216859311.jpg",Ufrovisión
 https://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8
 
 #EXTINF:-1 group-title="Chileiptv" tvg-logo="http://chileiptv.cl/img/logos/file_1487255043.png",Antofagasta TV
 https://unlimited6-cl.dps.live/atv/atv.smil/atv/livestream2/playlist.m3u8
 
-#EXTINF:-1 group-title="Chileiptv" tvg-logo="http://chileiptv.cl/img/logos/file_1486617060.png",Canal 9 BÃ­o BÃ­o
+#EXTINF:-1 group-title="Chileiptv" tvg-logo="http://chileiptv.cl/img/logos/file_1486617060.png",Canal 9 Bío Bío
 http://unlimited6-cl.dps.live/c9/c9.smil/c9/livestream1/chunks.m3u8
 
 #EXTINF:-1 group-title="Chileiptv" tvg-logo="http://chileiptv.cl/img/logos/file_1494898547.png",PinguinoTV
@@ -68,67 +100,64 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 #EXTINF:-1 group-title="Chileiptv" tvg-logo="http://chileiptv.cl/img/logos/file_1522637574.png",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 
-#EXTINF:-1 group-title="Chileiptv" tvg-logo="http://chileiptv.cl/img/logos/logo_15701161341.jpg",Frecuencia 21
-https://inliveserver.com:1936/10016/10016/playlist.m3u8
-
 #*****************************
 #*****************************
 
 #EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/45_TV_Educa_Chile.png",TV Educa Chile * | CL
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/57_Ufrovision.png",Ufrovision  | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/57_Ufrovision.png",Ufrovision | CL
 https://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/59_U_Los_Lagos.png",U Los Lagos  | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/59_U_Los_Lagos.png",U Los Lagos | CL
 http://tv.ulagos.cl/web/live.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/444_TV_Senado.png",TV Senado  | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/444_TV_Senado.png",TV Senado | CL
 https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/438_tevex.png",tevex  | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/438_tevex.png",tevex | CL
 https://v2.tustreaming.cl/tevex/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/320_Atacama_TV.png",Atacama TV  | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/320_Atacama_TV.png",Atacama TV | CL
 https://v2.tustreaming.cl/atacamatv/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/87_ITV_Patagonia.png",ITV Patagonia  | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/87_ITV_Patagonia.png",ITV Patagonia | CL
 https://unlimited1-cl-isp.dps.live/itv/itv.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/373_PinguinoTV.png",PinguinoTV  | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/373_PinguinoTV.png",PinguinoTV | CL
 http://167.114.133.205:1935/live/pinguinotv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/491_TV_Chile.png",TV Chile  | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/491_TV_Chile.png",TV Chile | CL
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/494_UCL_Television_LATAM.png",UCL TelevisiÃ³n LATAM  | UY
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/494_UCL_Television_LATAM.png",UCL Televisión LATAM | UY
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/516_France_24.png",France 24  | FR
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/516_France_24.png",France 24 | FR
 http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/506_Arirang.png",Arirang  | KR
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/506_Arirang.png",Arirang | KR
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/796_Euro_Indie_Music.png",Euro Indie Music  | GB
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/796_Euro_Indie_Music.png",Euro Indie Music | GB
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/904_Latin_Zone_TV.png",Latin Zone TV  | US
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/904_Latin_Zone_TV.png",Latin Zone TV | US
 https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/21_Retro_Music_Television.png",Retro Music Television  | CZ
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/21_Retro_Music_Television.png",Retro Music Television | CZ
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/43_Turbo_Mix_TV.png",Turbo Mix TV  | PE
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/43_Turbo_Mix_TV.png",Turbo Mix TV | PE
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/22_Video_Tour_Channel.png",Video Tour Channel  | CR
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/22_Video_Tour_Channel.png",Video Tour Channel | CR
 http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/389_Radio_Fantasia_TV.png",Radio Fantasia TV  | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/389_Radio_Fantasia_TV.png",Radio Fantasia TV | CL
 https://v2.tustreaming.cl/fantasiatv/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/415_Pura_Noticia.png",Pura Noticia  | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/415_Pura_Noticia.png",Pura Noticia | CL
 https://pnt.janusmedia.tv/hls/pnt.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="M3U CL" tvg-logo="https://lh3.googleusercontent.com/-Y39xxVnyC-s/YGO9nUlOTfI/AAAAAAABBEA/Ibwzbtm-67UtK78dc75JoB1OPmUHFnh5ACK8BGAsYHg/s512/2021-03-30.png",Anime Zone TV | AR
@@ -149,7 +178,7 @@ https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/index.m3u8?Pla
 #EXTINF:-1 group-title="M3U CL" tvg-logo="https://i2.paste.pics/1cddbd9cd3845156f265141d41311612.png",DW English | DE
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="M3U CL" tvg-logo="https://lh3.googleusercontent.com/--AW1Ecwc3mA/XkCKi0vJyKI/AAAAAAAAv8A/EEsjeBXIHI84UAgvUar2SUVbxJv69E9GACK8BGAsYHg/s0/2020-02-09.png",DW EspaÃ±ol | DE
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://lh3.googleusercontent.com/--AW1Ecwc3mA/XkCKi0vJyKI/AAAAAAAAv8A/EEsjeBXIHI84UAgvUar2SUVbxJv69E9GACK8BGAsYHg/s0/2020-02-09.png",DW Español | DE
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="M3U CL" tvg-logo="https://lh3.googleusercontent.com/-NM-pmtTnvh0/XpNaN_29WCI/AAAAAAAAx1Q/VKhqWlMKOBAP6YkJdg7LV4_O44xn8gdwACK8BGAsYHg/s0/2020-04-12.png",Net TV | AR
@@ -221,7 +250,7 @@ https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="M3U CL" tvg-logo="https://lh3.googleusercontent.com/-Vgy7Z0vneQQ/YLwRzORmQaI/AAAAAAABCtM/eh_BH_39oIsbSgMiirmbkScqt8MuuFiOgCJEEGAsYHg/s512/2021-06-05.png",ThemaTV | CL
 https://unlimited1-cl-isp.dps.live/thema/thema.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="M3U CL" tvg-logo="https://lh3.googleusercontent.com/-dAThrFAhCtE/Xx-hwDQF4gI/AAAAAAAA3ic/BsAasEXfeos0_0c7QAorRga7pt2ZC1yfwCK8BGAsYHg/s0/2020-07-27.png",AmÃ©rica TV Chile | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://lh3.googleusercontent.com/-dAThrFAhCtE/Xx-hwDQF4gI/AAAAAAAA3ic/BsAasEXfeos0_0c7QAorRga7pt2ZC1yfwCK8BGAsYHg/s0/2020-07-27.png",América TV Chile | CL
 https://v2.tustreaming.cl:/radioamericatv/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="M3U CL" tvg-logo="https://lh3.googleusercontent.com/-EcdiT1eMFFg/YLwNYKl0GII/AAAAAAABCsM/_WU-X010dJ80kDrgugAdGtSzIpUNsEgygCJEEGAsYHg/s512/2021-06-05.png",VTV | CL
@@ -236,13 +265,13 @@ https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="M3U CL" tvg-logo="https://i2.paste.pics/4a70b027fa4d7cc5763e54ce980580c4.png",UTV San Clemente | CL
 https://v2.tustreaming.cl/utv/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="M3U CL" tvg-logo="https://lh3.googleusercontent.com/-G3a4EWWVHDM/YLwWdi2a_KI/AAAAAAABCt8/9O8xWNi1f_UbcvwqCXhAHEvJhcrgSF2lwCJEEGAsYHg/s512/2021-06-05.jpg",Canal 21 ChillÃ¡n | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://lh3.googleusercontent.com/-G3a4EWWVHDM/YLwWdi2a_KI/AAAAAAABCt8/9O8xWNi1f_UbcvwqCXhAHEvJhcrgSF2lwCJEEGAsYHg/s512/2021-06-05.jpg",Canal 21 Chillán | CL
 https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="M3U CL" tvg-logo="https://i2.paste.pics/d4950684d99dbc3a25f4ef74a2895871.png",ClickTv | CL
 https://v2.tustreaming.cl/clicktv/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="M3U CL" tvg-logo="https://lh3.googleusercontent.com/-opZ6mP8G3Fo/Wn9lBEeoQ4I/AAAAAAAAgwY/cKvIaCeqHZEwdTQ-pJPh7oCDIU2q-fECwCK8BGAs/s220/2018-02-10.png",Canal 9 BÃ­o BÃ­Â­o TV | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://lh3.googleusercontent.com/-opZ6mP8G3Fo/Wn9lBEeoQ4I/AAAAAAAAgwY/cKvIaCeqHZEwdTQ-pJPh7oCDIU2q-fECwCK8BGAs/s220/2018-02-10.png",Canal 9 Bío Bío TV | CL
 https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="M3U CL" tvg-logo="https://lh3.googleusercontent.com/-zDgbgkPTFLA/XbCy7Dg-33I/AAAAAAAArlQ/712PcpxHNmAKjz1k4Arp_iVvpJ-qC_WxQCK8BGAsYHg/s0/2019-10-23.png",Teleangol Radio | CL
@@ -255,7 +284,7 @@ https://unlimited1-cl-isp.dps.live/pucontv/pucontv.smil/playlist.m3u8?PlaylistM3
 https://unlimited1-cl-isp.dps.live/inet2/inet2.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="M3U CL" tvg-logo="https://lh3.googleusercontent.com/-3q8oUK7uUUo/XbCzDBxA1OI/AAAAAAAArlU/FPIAOQc92_kSKByiVYmSU0USaROnneutgCK8BGAsYHg/s0/2019-10-23.png",Decima TV | CL
-https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8?PlaylistM3UCL
+https://unlimited2-cl.isp.dps.live/decimatv/decimatv.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="M3U CL" tvg-logo="https://i2.paste.pics/ef4396a3c62252b1678b3fae595b0532.png",Canal 2 Quellon | CL
 https://unlimited1-cl-isp.dps.live/tvquellon/tvquellon.smil/playlist.m3u8?PlaylistM3UCL
@@ -299,25 +328,25 @@ https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8?Playlis
 #EXTINF:-1 group-title="M3U CL" tvg-logo="https://lh3.googleusercontent.com/-BAGm0_jccnk/Xpz6lms-rHI/AAAAAAAAyBk/Mbk9tiXSZPMBkW90NGR8LEG7OR1mmb2sQCK8BGAsYHg/s0/2020-04-19.png",Canal ISB | CL
 https://unlimited1-cl-isp.dps.live/isb/isb.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/54_UCV.png",UCV  | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/54_UCV.png",UCV | CL
 https://unlimited6-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/55_Campus_TV.png",Campus TV  | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/55_Campus_TV.png",Campus TV | CL
 https://unlimited6-cl.dps.live/campustv/campustv.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/71_Antofagasta_TV.png",Antofagasta TV  | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/71_Antofagasta_TV.png",Antofagasta TV | CL
 https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/72_Holvoet_TV.png",Holvoet TV  | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/72_Holvoet_TV.png",Holvoet TV | CL
 https://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/335_VTV.png",VTV  | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/335_VTV.png",VTV | CL
 https://unlimited6-cl.dps.live/vtv/vtv.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/76_Canal_2_de_San_Antonio.png",Canal 2 de San Antonio  | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/76_Canal_2_de_San_Antonio.png",Canal 2 de San Antonio | CL
 http://unlimited6-cl.dps.live/canal2/canal2.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/423_Radio_Agricultura.png",Radio Agricultura  | CL
+#EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/423_Radio_Agricultura.png",Radio Agricultura | CL
 https://unlimited6-cl.dps.live/921tv/921tv.smil/playlist.m3u8?PlaylistM3UCL
 
 #*****************************
@@ -338,7 +367,7 @@ http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
 #EXTINF:-1 group-title="Lao TV" tvg-logo="https://i.imgur.com/BllT63q.png",Sporting | HD
 http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Lao TV" tvg-logo="https://i.imgur.com/f41IHoB.png",TVN SeÃ±al de Pruebas | HD
+#EXTINF:-1 group-title="Lao TV" tvg-logo="https://i.imgur.com/f41IHoB.png",TVN Señal de Pruebas | HD
 http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
 
 #EXTINF:-1 group-title="Lao TV" tvg-logo="https://i.imgur.com/Cp9i2sO.png",Cooperativa TV | HD
@@ -353,7 +382,7 @@ http://streaming.elpinguino.com:1935/live/pinguinotv_720p/livestream.m3u8
 #EXTINF:-1 group-title="Lao TV" tvg-logo="https://i.imgur.com/LzOTwy6.png",Ufrovision | HD | Temuco
 http://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8
 
-#EXTINF:-1 group-title="Lao TV" tvg-logo="https://i.imgur.com/ezYteTW.png",VTV Los Andes| HD | San Felipe
+#EXTINF:-1 group-title="Lao TV" tvg-logo="https://i.imgur.com/ezYteTW.png",VTV Los Andes | HD | San Felipe
 https://unlimited6-cl.dps.live/vtv/vtv.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Lao TV" tvg-logo="https://i.imgur.com/IZmyR1B.png",ULagos TV | HD | Osorno
@@ -539,7 +568,7 @@ http://pool.anison.fm:9000/AniSonFM(320)
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Online", JapanNext Radio
 http://perseus.shoutca.st:8803/stream
 
-#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Online", Los 40 (EspaÃ±a)
+#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Online", Los 40 (España)
 http://20043.live.streamtheworld.com/LOS40_SC
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Online", Super Tokio Radio
@@ -581,85 +610,85 @@ https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
 #*****************************
 #*****************************
 
-#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/03_logo/Retro_Czech_Republic.jpg" group-title="Musica", RETRO TV
+#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/03_logo/Retro_Czech_Republic.jpg" group-title="Musica",RETRO TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica", Classic Project 1 (70, 80, 90s Reloaded 2008)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica",Classic Project 1 (70, 80, 90s Reloaded 2008)
 https://ia601503.us.archive.org/24/items/TheClassicProject1/The%20Classic%20Project%201.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica", Classic Project 2 (Pop eurodance 90s)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica",Classic Project 2 (Pop eurodance 90s)
 https://ia601500.us.archive.org/26/items/TheClassicProject2/The%20Classic%20Project%202.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica", Classic Project 3 (Pop 2000-2004)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica",Classic Project 3 (Pop 2000-2004)
 https://ia601508.us.archive.org/32/items/TheClassicProject3/The%20Classic%20Project%203.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica", Classic Project 4 (70, 80, 90s)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica",Classic Project 4 (70, 80, 90s)
 https://ia601500.us.archive.org/25/items/TheClassicProject4/The%20Classic%20Project%204.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica", Classic Project 5 (Rock Pop 90s)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica",Classic Project 5 (Rock Pop 90s)
 https://ia801503.us.archive.org/20/items/TheClassicProject5/The%20Classic%20Project%205.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica", Classic Project 6 (Pop 2004-2006)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica",Classic Project 6 (Pop 2004-2006)
 https://ia601509.us.archive.org/8/items/TheClassicProject6/The%20Classic%20Project%206.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica", Classic Project 7 (Reggaeton)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica",Classic Project 7 (Reggaeton)
 https://ia601509.us.archive.org/27/items/TheClassicProject7/The%20Classic%20Project%207.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica", Classic Project 8 (EspaÃ±ol)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica",Classic Project 8 (Español)
 https://ia601500.us.archive.org/11/items/TheClassicProject8/The%20Classic%20Project%208.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica", Classic Project 9 (70, 80, 90s)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica",Classic Project 9 (70, 80, 90s)
 https://ia601503.us.archive.org/0/items/TheClassicProject9/The%20Classic%20Project%209.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica", Classic Project 10 (Soundtrack)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica",Classic Project 10 (Soundtrack)
 https://ia601506.us.archive.org/14/items/TheClassicProject10/The%20Classic%20Project%2010.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica", Classic Project 11 (Rock latino)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica",Classic Project 11 (Rock latino)
 https://ia601508.us.archive.org/21/items/TheClassicProject11/The%20Classic%20Project%2011.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica", Classic Project 12 (Onda disco)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica",Classic Project 12 (Onda disco)
 https://ia601507.us.archive.org/11/items/TheClassicProject12/The%20Classic%20Project%2012.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica", Classic Project 13 (Exitos en espaÃ±ol)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica",Classic Project 13 (Éxitos en español)
 https://ia601503.us.archive.org/14/items/TheClassicProject13/The%20Classic%20Project%2013.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica", Classic Project 14-1 (Rock edition CD 1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica",Classic Project 14-1 (Rock edition CD 1)
 https://ia601509.us.archive.org/16/items/TheClassicProject14.1/The%20Classic%20Project%2014.1.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica", Classic Project 14-2 (Rock edition CD 2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica",Classic Project 14-2 (Rock edition CD 2)
 https://archive.org/download/TheClassicProject14.2/The%20Classic%20Project%2014.2.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica", Bonus Project 3 (Old skool)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica",Bonus Project 3 (Old skool)
 https://ia801507.us.archive.org/7/items/BonusProject3/Bonus%20Project%203.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica", Bonus Project 5 (Tropical mix)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica",Bonus Project 5 (Tropical mix)
 https://ia601504.us.archive.org/18/items/BonusProject5/Bonus%20Project%205.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica", Bonus Project 6 (Tropical mix 2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica",Bonus Project 6 (Tropical mix 2)
 https://ia601500.us.archive.org/1/items/BonusProject6/Bonus%20Project%206.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica", Bonus Project 7 (Tropical mix 3)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica",Bonus Project 7 (Tropical mix 3)
 https://ia601500.us.archive.org/5/items/BonusProject7/Bonus%20Project%207.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica", Bonus Project 8 (Dance remixes 2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica",Bonus Project 8 (Dance remixes 2)
 https://ia601506.us.archive.org/1/items/BonusProject8/Bonus%20Project%208.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica", Bonus Project 9 (Pop)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica",Bonus Project 9 (Pop)
 https://ia601500.us.archive.org/28/items/BonusProject09/Bonus%20Project%2009.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica", Bonus Project 11 (Dance remixes 3)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica",Bonus Project 11 (Dance remixes 3)
 https://ia601506.us.archive.org/5/items/BonusProject11/Bonus%20Project%2011.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica", Bonus Project 14 (Salsa Mix)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica",Bonus Project 14 (Salsa Mix)
 https://ia601508.us.archive.org/26/items/BonusProject14/Bonus%20Project%2014.mp4
 
-#EXTINF:-1 tvg-logo="http://www.kodinerds.net/index.php?.m3u8/Attachment/9910-Music-Video-Mix-png/?thumbnail=1" group-title="Musica", Yearmix2013
+#EXTINF:-1 tvg-logo="http://www.kodinerds.net/index.php?.m3u8/Attachment/9910-Music-Video-Mix-png/?thumbnail=1" group-title="Musica",Yearmix 2013
 https://ia801409.us.archive.org/35/items/DJPanduroVideoYearmix2013/DJ%20Panduro%20-%20Video%20Yearmix%202013.mp4
 
-#EXTINF:-1 tvg-logo="http://www.kodinerds.net/index.php?.m3u8/Attachment/9910-Music-Video-Mix-png/?thumbnail=1" group-title="Musica", Yearmix2014
+#EXTINF:-1 tvg-logo="http://www.kodinerds.net/index.php?.m3u8/Attachment/9910-Music-Video-Mix-png/?thumbnail=1" group-title="Musica",Yearmix 2014
 https://ia800501.us.archive.org/34/items/DJPanduroVideoYearmix2014/DJ%20Panduro%20-%20Video%20Yearmix%202014%20%28HD%29.mp4
 
-#EXTINF:-1 tvg-logo="http://www.kodinerds.net/index.php?.m3u8/Attachment/9910-Music-Video-Mix-png/?thumbnail=1" group-title="Musica", Yearmix2015
+#EXTINF:-1 tvg-logo="http://www.kodinerds.net/index.php?.m3u8/Attachment/9910-Music-Video-Mix-png/?thumbnail=1" group-title="Musica",Yearmix 2015
 https://ia600505.us.archive.org/5/items/DJPanduroVideoYearmix2015/DJ%20Panduro%20-%20Video%20Yearmix%202015.mp4
 
 # **********************************
