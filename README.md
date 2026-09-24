@@ -134,7 +134,7 @@ https://m3u.cl/lista/total.m3u
 - [FastForward by FastForward Team](https://addons.mozilla.org/en-US/firefox/addon/fastforwardteam/)
 - [Buster: Captcha Solver for Humans by Armin Sebastian](https://addons.mozilla.org/en-US/firefox/addon/buster-captcha-solver/)
 - [WebRTC Control by Bernard](https://addons.mozilla.org/en-US/firefox/addon/webrtc-control/)
-- [TWP - Translate Web Pages por Filipe Ps](https://addons.mozilla.org/es/firefox/addon/traduzir-paginas-web/)
+- [Smart HTTPS by ilGur](https://addons.mozilla.org/en-US/firefox/addon/smart-https-revived/)
 
 **ADD-ONS Temas**
 
@@ -147,7 +147,8 @@ https://m3u.cl/lista/total.m3u
 - [AdGuard AdBlocker por Adguard Software Ltd](https://addons.mozilla.org/es/firefox/addon/adguard-adblocker/)
 - [Firefox Multi-Account Containers por Firefox](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/)
 - [Dark Reader por Dark Reader Ltd](https://addons.mozilla.org/en-US/firefox/addon/darkreader/)
-- [Smart HTTPS by ilGur](https://addons.mozilla.org/en-US/firefox/addon/smart-https-revived/)
+- [M3U8/HLS Player with Custom Keyboard Controls by Bishal Dahal](https://addons.mozilla.org/en-US/firefox/addon/m3u8-hls-player-with-shortcuts/)
+- [TWP - Translate Web Pages por Filipe Ps](https://addons.mozilla.org/es/firefox/addon/traduzir-paginas-web/)
 
 </details>
 
