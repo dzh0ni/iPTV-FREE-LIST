@@ -1,10 +1,6 @@
 ﻿# IPTV Free List — Aplicaciones y recursos
 
-## :desktop_computer: Aplicaciones y avanzado
-
-<details>
-<summary>Expandir para ver aplicaciones y recursos avanzados</summary>
-<br>
+## :desktop_computer: Aplicaciones y recursos avanzados
 
 ## 🌐 Web
 
@@ -215,5 +211,3 @@ Siéntete libre de realizar cualquier cambio en esta lista. Siempre y cuando est
 ## 📝 Licencia
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-</details>
