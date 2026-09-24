@@ -21,6 +21,7 @@ https://raw.githubusercontent.com/dzh0ni/iPTV-FREE-LIST/master/iPTV-Free-List_TV
 ## :desktop_computer: Aplicaciones y recursos avanzados
 
 👉 [Abrir Free IPTV](https://freeiptv.app/)
+
 👉 [Abrir README-2.md](README-2.md)
 
 ## :satellite: lista iptv-org
