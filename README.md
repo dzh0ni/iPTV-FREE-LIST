@@ -12,15 +12,29 @@ Esta lista proporciona una variedad de opciones para ver y escuchar contenido mu
 
 Lista de reproducción de IPTV para `todo público` (Contiene adultos) 😎😉😁😏🧐
 
-Principal
+Principal:
 ```bash
 https://raw.githubusercontent.com/dzh0ni/iPTV-FREE-LIST/master/iPTV-Free-List_TV.m3
 ```
-Mirror
+Mirror:
 ```bash
 https://github.com/dzh0ni/iPTV-FREE-LIST/blob/master/iPTV-Free-List_TV.m3u
 ```
 :memo: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
+
+## :tv: IPTV Player
+
+### 🪟 Windows
+
+- [IPTVnator](https://www.videohelp.com/software/IPTVnator) — Listas M3U/M3U8
+- [IPTV Smarters Pro](https://iptv-smarters-pro.en.uptodown.com/windows) — Cuentas xTream
+- [IPTV Stream Player](https://iptv-stream-player.en.uptodown.com/windows) — Cuentas xTream Codes
+
+### 🤖 Android
+
+- [IPTV Smarters Pro](https://iptv-smarters-pro.en.uptodown.com/android) — Cuentas xTream Codes
+- [IPTV Stream Player](https://iptv-stream-player.en.uptodown.com/android) — Cuentas xTream Codes
+- [IPTV Pro](https://play.google.com/store/apps/details?id=ru.iptvremote.android.iptv.pro&hl=es_CL) — Listas M3U/M3U8 (De paga)
 
 ## :desktop_computer: Aplicaciones y recursos avanzados
 
@@ -109,20 +123,6 @@ Lista IPTV Total
 https://m3u.cl/lista/total.m3u
 ```
 </details>
-
-## :tv: IPTV Player
-
-### 🪟 Windows
-
-- [IPTVnator](https://www.videohelp.com/software/IPTVnator) — Listas M3U/M3U8
-- [IPTV Smarters Pro](https://iptv-smarters-pro.en.uptodown.com/windows) — Cuentas xTream
-- [IPTV Stream Player](https://iptv-stream-player.en.uptodown.com/windows) — Cuentas xTream Codes
-
-### 🤖 Android
-
-- [IPTV Smarters Pro](https://iptv-smarters-pro.en.uptodown.com/android) — Cuentas xTream Codes
-- [IPTV Stream Player](https://iptv-stream-player.en.uptodown.com/android) — Cuentas xTream Codes
-- [IPTV Pro](https://play.google.com/store/apps/details?id=ru.iptvremote.android.iptv.pro&hl=es_CL) — Listas M3U/M3U8
 
 ## 📺 Contenido en línea de iPTV
 
