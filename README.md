@@ -22,9 +22,9 @@ https://github.com/dzh0ni/iPTV-FREE-LIST/blob/master/iPTV-Free-List_TV.m3u
 ```
 :memo: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
 
-## :desktop_computer: IPTV Player
+## :tv: IPTV Player
 
-### 🪟 Windows
+### 💻 Windows
 
 - [IPTVnator](https://www.videohelp.com/software/IPTVnator) — Listas M3U/M3U8
 - [IPTV Smarters Pro](https://iptv-smarters-pro.en.uptodown.com/windows) — Cuentas xTream
