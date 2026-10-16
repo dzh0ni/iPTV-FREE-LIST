@@ -14,11 +14,7 @@ Lista de reproducción de IPTV para `todo público` (Contiene adultos) 😎😉�
 
 Principal:
 ```bash
-https://raw.githubusercontent.com/dzh0ni/iPTV-FREE-LIST/master/iPTV-Free-List_TV.m3
-```
-Mirror:
-```bash
-https://github.com/dzh0ni/iPTV-FREE-LIST/blob/master/iPTV-Free-List_TV.m3u
+https://raw.githubusercontent.com/dzh0ni/iPTV-FREE-LIST/master/iPTV-Free-List_TV.m3u
 ```
 :memo: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
 
