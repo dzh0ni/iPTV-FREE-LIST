@@ -13,7 +13,6 @@
 # 📑 ÍNDICE DE CATEGORÍAS
 # **********************************
 
-# 00. 📺 Mi Contenido
 # 01. 📺 Anime
 # 02. 🇨🇱 Chileiptv
 # 03. 🇨🇱 M3U CL
@@ -45,6 +44,8 @@
 
 #EXTINF:-1 tvg-name="Locomotion Tv" tvg-id="locomotiontv" tvg-logo="https://www.chiletvapp.com/panel/uploads/tv_6a4efabb7dd23.jpg" group-title="Mi Contenido",Locomotion Tv (chiletvapp.com)
 https://live20.bozztv.com/giatvplayout7/giatv-210075/tracks-v1a1/mono.ts.m3u8
+
+
 
 #*****************************
 #*****************************
