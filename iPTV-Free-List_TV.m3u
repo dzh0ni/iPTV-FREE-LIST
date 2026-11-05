@@ -42,6 +42,12 @@
 #*****************************
 #*****************************
 
+#EXTINF:-1 tvg-name="Locomotion Tv" tvg-id="locomotiontv" tvg-logo="http://locomotiontv.com/locomotion/aztv_logo.png" group-title="Favoritos",Locomotion Tv (chiletvapp.com/online)
+https://live20.bozztv.com/giatvplayout7/giatv-210075/tracks-v1a1/mono.ts.m3u8
+
+#*****************************
+#*****************************
+
 # 📺 Locomotion Lista
 # 🖼️ Logo: https://i.ibb.co/4ZGjpxyW/dcpfeg1-889f1d54-9f98-47d1-87e2-31f9103e2e01.jpg
 # 🔗 Stream: http://locomotiontv.com/envivo/xtv/m3u
