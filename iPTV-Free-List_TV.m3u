@@ -13,6 +13,7 @@
 # 📑 ÍNDICE DE CATEGORÍAS
 # **********************************
 
+# 00. 📺 Mi Contenido
 # 01. 📺 Anime
 # 02. 🇨🇱 Chileiptv
 # 03. 🇨🇱 M3U CL
@@ -42,7 +43,7 @@
 #*****************************
 #*****************************
 
-#EXTINF:-1 tvg-name="Locomotion Tv" tvg-id="locomotiontv" tvg-logo="http://locomotiontv.com/locomotion/aztv_logo.png" group-title="Mi Contenido",Locomotion Tv (chiletvapp.com)
+#EXTINF:-1 tvg-name="Locomotion Tv" tvg-id="locomotiontv" tvg-logo="https://www.chiletvapp.com/panel/uploads/tv_6a4efabb7dd23.jpg" group-title="Mi Contenido",Locomotion Tv (chiletvapp.com)
 https://live20.bozztv.com/giatvplayout7/giatv-210075/tracks-v1a1/mono.ts.m3u8
 
 #*****************************
@@ -469,7 +470,7 @@ http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fFgKYAw.png" group-title="Canales Japoneses", Shop Channel | HD
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales Japoneses", ???? (Japanese shopping1) | SD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales Japoneses", Japanese shopping1 | SD
 https://stream3.shopch.jp/httporiginlivech1/ch1.stream_1280p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8crfd4t.jpg" group-title="Canales Japoneses", TV Asahi | SD
