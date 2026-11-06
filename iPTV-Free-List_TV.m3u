@@ -42,10 +42,10 @@
 #*****************************
 #*****************************
 
-#EXTINF:-1 tvg-name="Locomotion Tv" tvg-id="locomotiontv" tvg-logo="https://www.chiletvapp.com/panel/uploads/tv_6a4efabb7dd23.jpg" group-title="Mi Contenido",Locomotion Tv 24/7 (chiletvapp.com)
+#EXTINF:-1 tvg-logo="https://www.chiletvapp.com/panel/uploads/tv_6a4efabb7dd23.jpg" group-title="Mi Contenido",Locomotion Tv 24/7 (chiletvapp.com)
 https://live20.bozztv.com/giatvplayout7/giatv-210075/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-name="Canal Locomotion - Segunda señal" tvg-id="locomotiontv" tvg-logo="https://www.chiletvapp.com/panel/uploads/tv_6a4efabb7dd23.jpg" group-title="Mi Contenido",Locomotion Tv ESP/ND- Segunda señal (serenotv.com)
+#EXTINF:-1 tvg-logo="https://www.chiletvapp.com/panel/uploads/tv_6a4efabb7dd23.jpg" group-title="Mi Contenido",Canal Locomotion - Segunda señal (serenotv.com)
 https://lbgo.bozztv.com/ssh101/ssh101/myevent2025/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.chiletvapp.com/panel/uploads/tv_6a8277aeb3765.jpg" group-title="Mi Contenido",El Chavo Animado 24/7
