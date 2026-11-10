@@ -171,10 +171,6 @@ https://m3u.cl/lista/total.m3u
 
 | 🌐 Enlace |
 |---|
-| https://www.tvplusgratis2.com |
-| https://www.telegratishd.com |
-| https://www.telefullenvivo.com |
-| https://www.tvporinternet2.com |
 | https://www.lookhu.tv |
 | https://www.cxtvenvivo.com |
 | https://www.m3u.cl |
@@ -196,7 +192,7 @@ https://m3u.cl/lista/total.m3u
 
 | 🍿 Enlace |
 |---|
-| https://ww3.cuevana3.to |
+| https://cuevanae.im/ |
 
 ### 🎬 Gnula
 
@@ -209,7 +205,8 @@ https://m3u.cl/lista/total.m3u
 
 | 🍿 Enlace |
 |---|
-| https://ww5.series24.org |
+| https://series24.im/ |
+| https://www.series24.sbs/ |
 | https://www.lacartoons.com |
 | https://play.mercadolibre.cl |
 
