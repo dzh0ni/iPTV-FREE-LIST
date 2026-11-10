@@ -31,16 +31,13 @@
 # 16. 📻 Radios Online
 # 17. 🎵 Canales de Musica
 # 18. 🎶 Musica
-# 19. 🔞 XXX TV Online
-# 20. 🔞 XXX Live Cams
-# 21. 🔞 XXX Videos
 
 # **********************************
 # 📡 INICIO DE LA PLAYLIST
 # **********************************
 
-#*****************************
-#*****************************
+# **********************************
+# **********************************
 
 #EXTINF:-1 tvg-logo="https://www.chiletvapp.com/panel/uploads/tv_6a4efabb7dd23.jpg" group-title="Mi Contenido",Locomotion Tv 24/7 (chiletvapp.com)
 https://live20.bozztv.com/giatvplayout7/giatv-210075/tracks-v1a1/mono.ts.m3u8
@@ -55,8 +52,8 @@ http://36bay2.bozztv111.com:8081/giatv-MYJETIXRETRO/MYJETIXRETRO/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.chiletvapp.com/panel/uploads/tv_6a8277aeb3765.jpg" group-title="Mi Contenido",El Chavo Animado 24/7
 https://hls.chiletvapp.com/elchavo/stream.m3u8
 
-#*****************************
-#*****************************
+# **********************************
+# **********************************
 
 # 📺 Locomotion Lista
 # 🖼️ Logo: https://i.ibb.co/4ZGjpxyW/dcpfeg1-889f1d54-9f98-47d1-87e2-31f9103e2e01.jpg
@@ -83,8 +80,8 @@ http://animezonetv.net:81/live_hls/animetest/index.m3u8
 #EXTINF:-1 tvg-name="Anime XTV" tvg-id="animextv" tvg-logo="http://locomotiontv.com/locomotion/aztv_logo.png" group-title="Anime",Anime XTV (High Server 2)
 http://146.19.49.197:81/live/animextv_hi/index.m3u8
 
-#*****************************
-#*****************************
+# **********************************
+# **********************************
 
 #EXTINF:-1 group-title="Chileiptv" tvg-logo="http://chileiptv.cl/img/logos/file_1586933274.png",Tv Educa Chile
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
@@ -116,8 +113,8 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 #EXTINF:-1 group-title="Chileiptv" tvg-logo="http://chileiptv.cl/img/logos/file_1522637574.png",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 
-#*****************************
-#*****************************
+# **********************************
+# **********************************
 
 #EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/45_TV_Educa_Chile.png",TV Educa Chile * | CL
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8?PlaylistM3UCL
@@ -365,8 +362,8 @@ http://unlimited6-cl.dps.live/canal2/canal2.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="M3U CL" tvg-logo="https://www.m3u.cl/logo/423_Radio_Agricultura.png",Radio Agricultura | CL
 https://unlimited6-cl.dps.live/921tv/921tv.smil/playlist.m3u8?PlaylistM3UCL
 
-#*****************************
-#*****************************
+# **********************************
+# **********************************
 
 #EXTINF:-1 group-title="Lao TV" tvg-logo="https://i.imgur.com/b8fK0FK.png",TV+ | FHD
 https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
@@ -407,8 +404,8 @@ http://tv.ulagos.cl/web/live.m3u8
 #EXTINF:-1 group-title="Lao TV" tvg-logo="https://i.imgur.com/5eMb8Vm.png",Buin Somos Todos | HD | Buin
 https://bst.buin.cl/0.m3u8
 
-#*****************************
-#*****************************
+# **********************************
+# **********************************
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ozCnnDg.png" group-title="Canales Chilenos", TV Senado | HD
 http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
@@ -416,8 +413,8 @@ http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KO9XhLU.png" group-title="Canales Chilenos", Sporting | HD
 http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 
-#*****************************
-#*****************************
+# **********************************
+# **********************************
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VhOolgs.png" group-title="Canales Chilenos Regionales", El Pinguino | SD |Punta Arenas
 http://streaming.elpinguino.com:1935/live/pinguinotv_360p/livestream.m3u8
@@ -428,8 +425,8 @@ http://streaming.elpinguino.com:1935/live/pinguinotv_720p/livestream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LzOTwy6.png" group-title="Canales Chilenos Regionales", Ufrovision | HD | Temuco
 http://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8
 
-#*****************************
-#*****************************
+# **********************************
+# **********************************
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/200px-Multimedios_Television.png" group-title="Canales de Latinos", Multimedios Costa Rica
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
@@ -437,8 +434,8 @@ http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://
 #EXTINF:-1 tvg-logo="http://www.unored.tv/wp-content/uploads/2015/08/Extrema-TV-logo.jpg" group-title="Canales de Latinos", Extrema TV(Costa Rica)
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#*****************************
-#*****************************
+# **********************************
+# **********************************
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8cnXJcu.png" group-title="Canales de Deportes", Red Bull TV | FHD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
@@ -449,8 +446,8 @@ http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8?laope.m3u
 #EXTINF:-1 tvg-logo="http://elpinguino.com/uploads/imagenes/a4d656f47bdac68143488c2e0990c407.jpg" group-title="Canales de Deportes", Pinguino TV
 http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
 
-#*****************************
-#*****************************
+# **********************************
+# **********************************
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/897e9wy.png" group-title="Canales Mexicanos", Teleritmo | SD
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
@@ -467,14 +464,14 @@ https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/chunklist_w462891777.m
 #EXTINF:-1 tvg-logo="https://ii.ct-stc.com/2/logos/empresas/2016/03/29/6cb2130990c748ada472thumbnail.png" group-title="Canales Mexicanos", Canal 6 (Michoacan)
 http://streamingcws20.com:1935/canal6mich/videocanal6mich/chunklist_w848387750.m3u8
 
-#*****************************
-#*****************************
+# **********************************
+# **********************************
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xwbpj7i.jpg" group-title="Canales Peruanos", Ovacion | SD
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 
-#*****************************
-#*****************************
+# **********************************
+# **********************************
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fFgKYAw.png" group-title="Canales Japoneses", Shop Channel | HD
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
@@ -485,8 +482,8 @@ https://stream3.shopch.jp/httporiginlivech1/ch1.stream_1280p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8crfd4t.jpg" group-title="Canales Japoneses", TV Asahi | SD
 rtmp://mov8.mov3.co/live//main
 
-#*****************************
-#*****************************
+# **********************************
+# **********************************
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qiUmZ0y.png" group-title="Canales Miscelaneos", Atlanta Channel | HD
 http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
@@ -497,8 +494,8 @@ https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w1931
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L6zMxlo.jpg" group-title="Canales Miscelaneos", FS1 | HD
 http://stream.fs1.tv:8080/hls/webstream.m3u8
 
-#*****************************
-#*****************************
+# **********************************
+# **********************************
 
 #EXTINF:-1 tvg-logo="" group-title="Radios Chilenas", Radio Nuevo Mundo (88.9 FM Ovalle)
 http://190.82.105.90:8012/stream/1/
@@ -554,14 +551,14 @@ http://unlimited3-cl.dps.live/p7valparaiso/aac/icecast.audio
 #EXTINF:-1 tvg-logo="" group-title="Radios Chilenas", Mi Radio (La Serena)
 http://s6.jcwebnew.com:9020/stream
 
-#*****************************
-#*****************************
+# **********************************
+# **********************************
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TeOq7Om.jpg" group-title="Radios Chilenas con Video", Futuro TV | SD
 http://unlimited6-cl.dps.live/futurotv/futurotv.smil/playlist.m3u8
 
-#*****************************
-#*****************************
+# **********************************
+# **********************************
 
 #EXTINF:-1 tvg-logo="" group-title="Radios Internacionales", Anime Nexus (Mexico)
 http://radio.animenexus.mx:8000/animenexus
@@ -572,8 +569,8 @@ http://popradio.stweb.tv:1935/popradio/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Radios Internacionales", Antena 1 (Brasil)
 https://antenaone.crossradio.com.br/stream/1
 
-#*****************************
-#*****************************
+# **********************************
+# **********************************
 
 #EXTINF:-1 tvg-logo="" group-title="Radios Online", SBS Pop Asia
 https://sbs-ice.streamguys1.com/sbs-popasia-sbs-web
@@ -593,8 +590,8 @@ http://streamer.radio.co/s83eb8ff39/listen
 #EXTINF:-1 tvg-logo="" group-title="Radios Online", Radio Delta International
 https://w1.mediastreaming.it/deltainternational/livestream/chunklist_w1146403839.m3u8
 
-#*****************************
-#*****************************
+# **********************************
+# **********************************
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xZSz9Yt.png" group-title="Canales de Musica", Retro TV | SD
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
@@ -623,8 +620,8 @@ https://56b50ada2d659.streamlock.net/RadioSorrrisoTV/livestream/chunklist_w80016
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0d9OjHQ.jpg" group-title="Canales de Musica", Company TV | HD
 https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
 
-#*****************************
-#*****************************
+# **********************************
+# **********************************
 
 #EXTINF:-1 tvg-logo="http://www.freeetv.com/images/03_logo/Retro_Czech_Republic.jpg" group-title="Musica",RETRO TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
@@ -709,126 +706,6 @@ https://ia600505.us.archive.org/5/items/DJPanduroVideoYearmix2015/DJ%20Panduro%2
 
 # **********************************
 # **********************************
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Logotipo_da_Playboy_TV.png" group-title="XXX TV Online", PlayboyX Tv
-http://live.redtraffic.xyz/latina.m3u8
-
-#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="XXX TV Online", HOT
-http://live.redtraffic.xyz/blowjob.m3u8
-
-#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="XXX TV Online", Dusk
-http://live.redtraffic.xyz/milf.m3u8
-
-#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="XXX TV Online", Juice
-http://live.redtraffic.xyz/bigass.m3u8
-
-#EXTINF:-1 tvg-logo="http://totaltv.tv/oec/images/tv_channels/bdc6d5c54bd382de621a6c1ec682ff89.png" group-title="XXX TV Online", SEXTATION
-http://live.redtraffic.xyz/teen.m3u8
-
-#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="XXX TV Online", You Porn
-http://live.redtraffic.xyz/pov.m3u8
-
-#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="XXX TV Online", PenthouseX
-http://live.redtraffic.xyz/pornstar.m3u8
-
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/2/23/Sextreme.png" group-title="XXX TV Online", Sextreme
-http://live.redtraffic.xyz/fetish.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg" group-title="XXX TV Online", BRAZZERS
-http://live.redtraffic.xyz/bigtits.m3u8
-
-#EXTINF:-1 tvg-logo="https://s19.postimg.org/t9qpt32f7/HUSTLER.png" group-title="XXX TV Online", HustlerXXX
-http://live.redtraffic.xyz/bigdick.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.diesl.com/wp-content/uploads/2013/04/hustlertv.png" group-title="XXX TV Online", PrivateX
-http://live.redtraffic.xyz/cuckold.m3u8
-
-#EXTINF:-1 tvg-logo="http://vercanalestv.com/imagenes/redlight.png" group-title="XXX TV Online", RedlightX
-http://live.redtraffic.xyz/russian.m3u8
-
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/4/48/Logo_venus_out_color.jpg" group-title="XXX TV Online", VENUS
-http://live.redtraffic.xyz/interracial.m3u8
-
-#*****************************
-#*****************************
-
-#EXTINF:-1 tvg-id="917" tvg-name="Russian" tvg-logo="https://www.m3u.cl/logo/917_Russian.png" group-title="XXX Live Cams", Russian  | US
-http://cdn.adultiptv.net/russian.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="918" tvg-name="Pornstar" tvg-logo="https://www.m3u.cl/logo/918_Pornstar.png" group-title="XXX Live Cams", Pornstar  | US
-http://cdn.adultiptv.net/pornstar.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="919" tvg-name="MILF" tvg-logo="https://www.m3u.cl/logo/919_MILF.png" group-title="XXX Live Cams", MILF  | US
-http://cdn.adultiptv.net/milf.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="920" tvg-name="Hardcore" tvg-logo="https://www.m3u.cl/logo/920_Hardcore.png" group-title="XXX Live Cams", Hardcore  | US
-http://cdn.adultiptv.net/hardcore.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="921" tvg-name="Fetish" tvg-logo="https://www.m3u.cl/logo/921_Fetish.png" group-title="XXX Live Cams", Fetish  | US
-http://cdn.adultiptv.net/fetish.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="922" tvg-name="Compilation" tvg-logo="https://www.m3u.cl/logo/922_Compilation.png" group-title="XXX Live Cams", Compilation  | US
-http://cdn.adultiptv.net/compilation.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="923" tvg-name="Big Tits" tvg-logo="https://www.m3u.cl/logo/923_Big_Tits.png" group-title="XXX Live Cams", Big Tits  | US
-http://cdn.adultiptv.net/bigtits.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="930" tvg-name="Big Dick" tvg-logo="https://www.m3u.cl/logo/930_Big_Dick.png" group-title="XXX Live Cams", Big Dick  | US
-http://cdn.adultiptv.net/bigdick.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="931" tvg-name="Big Ass" tvg-logo="https://www.m3u.cl/logo/931_Big_Ass.png" group-title="XXX Live Cams", Big Ass  | US
-http://cdn.adultiptv.net/bigass.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="932" tvg-name="Anal" tvg-logo="https://www.m3u.cl/logo/932_Anal.png" group-title="XXX Live Cams", Anal  | US
-http://cdn.adultiptv.net/anal.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="933" tvg-name="Teen" tvg-logo="https://www.m3u.cl/logo/933_Teen.png" group-title="XXX Live Cams", Teen  | US
-http://cdn.adultiptv.net/teen.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="934" tvg-name="Latina" tvg-logo="https://www.m3u.cl/logo/934_Latina.png" group-title="XXX Live Cams", Latina  | US
-http://cdn.adultiptv.net/latina.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="935" tvg-name="Blonde" tvg-logo="https://www.m3u.cl/logo/935_Blonde.png" group-title="XXX Live Cams", Blonde  | US
-http://cdn.adultiptv.net/blonde.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="936" tvg-name="Brunette" tvg-logo="https://www.m3u.cl/logo/936_Brunette.png" group-title="XXX Live Cams", Brunette  | US
-http://cdn.adultiptv.net/brunette.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="937" tvg-name="Interracial" tvg-logo="https://www.m3u.cl/logo/937_Interracial.png" group-title="XXX Live Cams", Interracial  | US
-http://cdn.adultiptv.net/interracial.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="938" tvg-name="POV" tvg-logo="https://www.m3u.cl/logo/938_POV.png" group-title="XXX Live Cams", POV  | US
-http://cdn.adultiptv.net/pov.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="939" tvg-name="Blowjob" tvg-logo="https://www.m3u.cl/logo/939_Blowjob.png" group-title="XXX Live Cams", Blowjob  | US
-http://cdn.adultiptv.net/blowjob.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="940" tvg-name="Threesome" tvg-logo="https://www.m3u.cl/logo/940_Threesome.png" group-title="XXX Live Cams", Threesome  | US
-http://cdn.adultiptv.net/threesome.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="941" tvg-name="Rough" tvg-logo="https://www.m3u.cl/logo/941_Rough.png" group-title="XXX Live Cams", Rough  | US
-http://cdn.adultiptv.net/rough.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="942" tvg-name="Gangbang" tvg-logo="https://www.m3u.cl/logo/942_Gangbang.png" group-title="XXX Live Cams", Gangbang  | US
-http://cdn.adultiptv.net/gangbang.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="943" tvg-name="XXX Live Cams" tvg-logo="https://www.m3u.cl/logo/943_Live_Cams.png" group-title="XXX Live Cams", Live Cams  | US
-http://cdn.adultiptv.net/livecams.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="944" tvg-name="Cuckold" tvg-logo="https://www.m3u.cl/logo/944_Cuckold.png" group-title="XXX Live Cams", Cuckold  | US
-http://cdn.adultiptv.net/cuckold.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="945" tvg-name="Lesbian" tvg-logo="https://www.m3u.cl/logo/945_Lesbian.png" group-title="XXX Live Cams", Lesbian  | US
-http://cdn.adultiptv.net/lesbian.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="946" tvg-name="Gay" tvg-logo="https://www.m3u.cl/logo/946_Gay.png" group-title="XXX Live Cams", Gay  | US
-http://cdn.adultiptv.net/gay.m3u8?PlaylistM3UCL
-
-#*****************************
-#*****************************
-
-#EXTINF:-1 tvg-logo="https://elo.tokyo/wp-content/uploads/2019/05/actress-39.jpg" group-title="XXX Videos", German teen Painful
-https://videos.pornworms.com/media/videos/mp4/168631.mp4?st=hdnq4zln5gGafc517p_EDw&e=1563020106
 
 # **********************************
 # 💡 Notas:
