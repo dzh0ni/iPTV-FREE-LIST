@@ -10,8 +10,6 @@ Esta lista proporciona una variedad de opciones para ver y escuchar contenido mu
 
 ## :satellite: Tipo de lista
 
-
-
 Lista de reproducción de IPTV para `todo público`
 ```bash
 https://raw.githubusercontent.com/dzh0ni/iPTV-FREE-LIST/master/iPTV-Free-List_TV.m3u
