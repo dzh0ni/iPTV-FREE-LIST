@@ -185,6 +185,7 @@ https://m3u.cl/lista/total.m3u
 | 🍿 Enlace |
 |---|
 | https://www17.pelisplushd.to |
+| https://www.peelink2.com/inicio |
 
 ### 🎬 Cuevana
 
