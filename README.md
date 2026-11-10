@@ -12,17 +12,17 @@ Esta lista proporciona una variedad de opciones para ver y escuchar contenido mu
 
 
 
-Principal: Lista de reproducción de IPTV para `todo público`
+Lista de reproducción de IPTV para `todo público`
 ```bash
 https://raw.githubusercontent.com/dzh0ni/iPTV-FREE-LIST/master/iPTV-Free-List_TV.m3u
 ```
 
-Principal: Lista de reproducción de IPTV para `Adultos`
+Lista de reproducción de IPTV para `Adultos`
 ```bash
 https://raw.githubusercontent.com/dzh0ni/iPTV-FREE-LIST/master/iPTV-Free-List_XXX.m3u
 ```
 
-Principal: Lista de reproducción de IPTV para `Tv y Adultos`
+Lista de reproducción de IPTV para `Tv y Adultos`
 ```bash
 https://raw.githubusercontent.com/dzh0ni/iPTV-FREE-LIST/master/iPTV-Free-List.m3u
 ```
