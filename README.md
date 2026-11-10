@@ -10,12 +10,23 @@ Esta lista proporciona una variedad de opciones para ver y escuchar contenido mu
 
 ## :satellite: Tipo de lista
 
-Lista de reproducción de IPTV para `todo público` (Contiene adultos) 😎😉😁😏🧐
 
-Principal:
+
+Principal: Lista de reproducción de IPTV para `todo público`
 ```bash
 https://raw.githubusercontent.com/dzh0ni/iPTV-FREE-LIST/master/iPTV-Free-List_TV.m3u
 ```
+
+Principal: Lista de reproducción de IPTV para `Adultos`
+```bash
+https://raw.githubusercontent.com/dzh0ni/iPTV-FREE-LIST/master/iPTV-Free-List_XXX.m3u
+```
+
+Principal: Lista de reproducción de IPTV para `Tv y Adultos`
+```bash
+https://raw.githubusercontent.com/dzh0ni/iPTV-FREE-LIST/master/iPTV-Free-List.m3u
+```
+
 :memo: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
 
 ## :tv: IPTV Player
