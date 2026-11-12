@@ -92,17 +92,11 @@ https://v2.tustreaming.cl/atacamatv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="IPTV Free List" tvg-logo="https://www.m3u.cl/logo/87_ITV_Patagonia.png",ITV Patagonia | CL
 https://unlimited1-cl-isp.dps.live/itv/itv.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="IPTV Free List" tvg-logo="https://www.m3u.cl/logo/373_PinguinoTV.png",PinguinoTV | CL
-http://167.114.133.205:1935/live/pinguinotv/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 group-title="IPTV Free List" tvg-logo="https://www.m3u.cl/logo/491_TV_Chile.png",TV Chile | CL
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="IPTV Free List" tvg-logo="https://i.imgur.com/0kJfD7l.png",TV Chile HD | CL
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
-
-#EXTINF:-1 group-title="IPTV Free List" tvg-logo="https://www.m3u.cl/logo/389_Radio_Fantasia_TV.png",Radio Fantasia TV | CL
-https://v2.tustreaming.cl/fantasiatv/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="IPTV Free List" tvg-logo="https://www.m3u.cl/logo/415_Pura_Noticia.png",Pura Noticia | CL
 https://pnt.janusmedia.tv/hls/pnt.m3u8?PlaylistM3UCL
@@ -125,14 +119,8 @@ https://unlimited6-cl.dps.live/vtv/vtv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="IPTV Free List" tvg-logo="https://www.m3u.cl/logo/76_Canal_2_de_San_Antonio.png",Canal 2 de San Antonio | CL
 http://unlimited6-cl.dps.live/canal2/canal2.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="IPTV Free List" tvg-logo="https://www.m3u.cl/logo/423_Radio_Agricultura.png",Radio Agricultura | CL
-https://unlimited6-cl.dps.live/921tv/921tv.smil/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 group-title="IPTV Free List" tvg-logo="https://i.imgur.com/b8fK0FK.png",TV+ | FHD
 https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
-
-#EXTINF:-1 group-title="IPTV Free List" tvg-logo="https://m3u.cl/logo/444_TV_Senado.png",TV Senado | HD
-http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
 
 #EXTINF:-1 group-title="IPTV Free List" tvg-logo="https://i.imgur.com/BllT63q.png",Sporting | HD
 http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
@@ -143,26 +131,11 @@ http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
 #EXTINF:-1 group-title="IPTV Free List" tvg-logo="https://i.imgur.com/Cp9i2sO.png",Cooperativa TV | HD
 http://unlimited6-cl.dps.live/coopetv/coopetv.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV Free List" tvg-logo="https://i.imgur.com/LSRwNhH.png",Pudahuel | SD | Providencia
-https://unlimited6-cl.dps.live/pudahueltv/pudahueltv.smil/pudahueltv/livestream3/chunks.m3u8
-
-#EXTINF:-1 group-title="IPTV Free List" tvg-logo="https://i.imgur.com/VhOolgs.png",El Pinguino | HD | Punta Arenas
-http://streaming.elpinguino.com:1935/live/pinguinotv_720p/livestream.m3u8
-
-#EXTINF:-1 group-title="IPTV Free List" tvg-logo="https://i.imgur.com/LzOTwy6.png",Ufrovision | HD | Temuco
-http://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8
-
 #EXTINF:-1 group-title="IPTV Free List" tvg-logo="https://i.imgur.com/ezYteTW.png",VTV Los Andes | HD | San Felipe
 https://unlimited6-cl.dps.live/vtv/vtv.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="IPTV Free List" tvg-logo="https://i.imgur.com/5eMb8Vm.png",Buin Somos Todos | HD | Buin
 https://bst.buin.cl/0.m3u8
-
-#EXTINF:-1 group-title="IPTV Free List" tvg-logo="https://m3u.cl/logo/444_TV_Senado.png", TV Senado | HD
-http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
-
-#EXTINF:-1 group-title="IPTV Free List" tvg-logo="https://i.imgur.com/LzOTwy6.png", Ufrovision | HD | Temuco
-http://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8
 
 #EXTINF:-1 group-title="IPTV Free List" tvg-logo="http://chileiptv.cl/img/logos/file_1528340962.jpg",ExtremaTv
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -245,9 +218,6 @@ https://v2.tustreaming.cl/clicktv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="IPTV Free List" tvg-logo="https://127.0.0.1",Canal 9 Bío Bío TV | CL
 https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="IPTV Free List" tvg-logo="https://127.0.0.1",Teleangol Radio | CL
-https://pantera1-100gb-cl-movistar.dps.live/teleangol/teleangol.smil/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 group-title="IPTV Free List" tvg-logo="https://127.0.0.1",Pucon TV | CL
 https://unlimited1-cl-isp.dps.live/pucontv/pucontv.smil/playlist.m3u8?PlaylistM3UCL
 
@@ -266,32 +236,11 @@ https://v2.tustreaming.cl/chiloered/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="IPTV Free List" tvg-logo="https://127.0.0.1",Santa Maria TV | CL
 https://unlimited1-cl-isp.dps.live/smtv/smtv.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="IPTV Free List" tvg-logo="https://127.0.0.1",Soberania Radio | CL
-https://tls-cl.cdnz.cl/radiosoberania/live/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="IPTV Free List" tvg-logo="https://127.0.0.1",Patagonia Radio TV | CL
-https://video01.logicahost.com.br/grupomedia/grupomedia/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="IPTV Free List" tvg-logo="https://127.0.0.1",Radio Ancoa TV | CL
-https://v2.tustreaming.cl/radioancoatv/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="IPTV Free List" tvg-logo="https://127.0.0.1",AE Radio | CL
-https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="IPTV Free List" tvg-logo="https://127.0.0.1",Radio Agricultura | CL
-http://unlimited1-cl-isp.dps.live/921tv/921tv.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="IPTV Free List" tvg-logo="https://127.0.0.1",Pudahuel FM | CL
-https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 group-title="IPTV Free List" tvg-logo="https://127.0.0.1",Cooperativa | CL
 https://unlimited1-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="IPTV Free List" tvg-logo="https://127.0.0.1",TNE | CL
 https://v2.tustreaming.cl/tnetv/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="IPTV Free List" tvg-logo="https://127.0.0.1",Radio Vida Curico | CL
-https://v2.tustreaming.cl/radiovidacurico/rewind-999999.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="IPTV Free List" tvg-logo="https://127.0.0.1",NCTV | CL
 https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8?PlaylistM3UCL
@@ -463,6 +412,39 @@ http://s6.jcwebnew.com:9020/stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TeOq7Om.jpg" group-title="Radios Chilenas con Video", Futuro TV | SD
 http://unlimited6-cl.dps.live/futurotv/futurotv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/389_Radio_Fantasia_TV.png" group-title="Radios Chilenas con Video",Radio Fantasia TV | CL
+https://v2.tustreaming.cl/fantasiatv/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/423_Radio_Agricultura.png" group-title="Radios Chilenas con Video",Radio Agricultura | CL
+https://unlimited6-cl.dps.live/921tv/921tv.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://127.0.0.1" group-title="Radios Chilenas con Video",Teleangol Radio | CL
+https://pantera1-100gb-cl-movistar.dps.live/teleangol/teleangol.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://127.0.0.1" group-title="Radios Chilenas con Video",Soberania Radio | CL
+https://tls-cl.cdnz.cl/radiosoberania/live/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://127.0.0.1" group-title="Radios Chilenas con Video",Patagonia Radio TV | CL
+https://video01.logicahost.com.br/grupomedia/grupomedia/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://127.0.0.1" group-title="Radios Chilenas con Video",Radio Ancoa TV | CL
+https://v2.tustreaming.cl/radioancoatv/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://127.0.0.1" group-title="Radios Chilenas con Video",AE Radio | CL
+https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://127.0.0.1" group-title="Radios Chilenas con Video",Radio Agricultura | CL
+http://unlimited1-cl-isp.dps.live/921tv/921tv.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://127.0.0.1" group-title="Radios Chilenas con Video",Radio Vida Curico | CL
+https://v2.tustreaming.cl/radiovidacurico/rewind-999999.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LSRwNhH.png" group-title="Radios Chilenas con Video",Pudahuel | SD | Providencia
+https://unlimited6-cl.dps.live/pudahueltv/pudahueltv.smil/pudahueltv/livestream3/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://127.0.0.1" group-title="Radios Chilenas con Video",Pudahuel FM | CL
+https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8?PlaylistM3UCL
 
 # **********************************
 # **********************************
