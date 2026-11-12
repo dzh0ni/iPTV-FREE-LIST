@@ -55,7 +55,7 @@ http://animezonetv.net:81/live_hls/animetest/index.m3u8
 http://146.19.49.197:81/live/animextv_hi/index.m3u8
 
 #https://gia.tv/watchssh101.php?sn=MYJETIXRETRO
-#EXTINF:-1 tvg-logo="https://gia.tv/streams/logo/212391.jpg?1794284949" group-title="Mi Contenido",JETIX (https://gia.tv)
+#EXTINF:-1 tvg-logo="https://gia.tv/streams/logo/212391.jpg?1794284949" group-title="Mi Contenido",JETIX - gia.tv
 https://183.giatvcdn.com/giatv/giatv-MYJETIXRETRO/MYJETIXRETRO/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.chiletvapp.com/panel/uploads/tv_6a8277aeb3765.jpg" group-title="Mi Contenido",El Chavo Animado 24/7
