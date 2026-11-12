@@ -388,17 +388,8 @@ http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Canales Miscelaneos" tvg-logo="https://www.m3u.cl/logo/506_Arirang.png",Arirang | KR
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="Canales Miscelaneos" tvg-logo="https://www.m3u.cl/logo/22_Video_Tour_Channel.png",Video Tour Channel | CR
-http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 group-title="Canales Miscelaneos" tvg-logo="https://127.0.0.1",Aljazeera Arabic | QA
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="Canales Miscelaneos" tvg-logo="https://127.0.0.1",DW Deutsch | DE
-https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="Canales Miscelaneos" tvg-logo="https://127.0.0.1",DW Deutsch+ | DE
-https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="Canales Miscelaneos" tvg-logo="https://127.0.0.1",DW English | DE
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?PlaylistM3UCL
@@ -409,11 +400,11 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?Pla
 #EXTINF:-1 group-title="Canales Miscelaneos" tvg-logo="https://127.0.0.1",Net TV | AR
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 group-title="Canales Miscelaneos" tvg-logo="https://www.m3u.cl/logo/22_Video_Tour_Channel.png",Video Tour Channel | CR
+http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 group-title="Canales Miscelaneos" tvg-logo="https://127.0.0.1",Cadena Elite | ES
 https://cloudvideo.servers10.com:8081/8004/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="Canales Miscelaneos" tvg-logo="https://127.0.0.1",Soy Plancha TV | CR
-https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8?PlaylistM3UCL
 
 # **********************************
 # **********************************
