@@ -21,7 +21,7 @@
 # 05. 🇨🇱 Canales Chilenos
 # 06. 🏙️ Canales Chilenos Regionales
 
-# 07. 🌎 Canales de Latinos
+# 07. 🌎 Canales de Costa Rica
 # 08. ⚽ Canales de Deportes
 # 12. 🌐 Canales Miscelaneos
 
@@ -453,29 +453,9 @@ https://bst.buin.cl/0.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ozCnnDg.png" group-title="Canales Chilenos", TV Senado | HD
 http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KO9XhLU.png" group-title="Canales Chilenos", Sporting | HD
-http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 
-# **********************************
-# **********************************
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VhOolgs.png" group-title="Canales Chilenos Regionales", El Pinguino | SD |Punta Arenas
-http://streaming.elpinguino.com:1935/live/pinguinotv_360p/livestream.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VhOolgs.png" group-title="Canales Chilenos Regionales", El Pinguino (Alt) | HD | Punta Arenas
-http://streaming.elpinguino.com:1935/live/pinguinotv_720p/livestream.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LzOTwy6.png" group-title="Canales Chilenos Regionales", Ufrovision | HD | Temuco
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LzOTwy6.png" group-title="Canales Chilenos", Ufrovision | HD | Temuco
 http://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8
-
-# **********************************
-# **********************************
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/200px-Multimedios_Television.png" group-title="Canales de Latinos", Multimedios Costa Rica
-http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
-
-#EXTINF:-1 tvg-logo="http://www.unored.tv/wp-content/uploads/2015/08/Extrema-TV-logo.jpg" group-title="Canales de Latinos", Extrema TV(Costa Rica)
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 # **********************************
 # **********************************
@@ -484,10 +464,28 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KO9XhLU.png" group-title="Canales de Deportes", Sporting | HD
-http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8?laope.m3u8
+http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://elpinguino.com/uploads/imagenes/a4d656f47bdac68143488c2e0990c407.jpg" group-title="Canales de Deportes", Pinguino TV
-http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
+# **********************************
+# **********************************
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qiUmZ0y.png" group-title="Canales Miscelaneos", Atlanta Channel | HD
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k2T6u4G.png" group-title="Canales Miscelaneos", Miami TV | HD | Mexico
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w1931827340_b1896000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6zMxlo.jpg" group-title="Canales Miscelaneos", FS1 | HD
+http://stream.fs1.tv:8080/hls/webstream.m3u8
+
+# **********************************
+# **********************************
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/200px-Multimedios_Television.png" group-title="Canales de Costa Rica", Multimedios (Costa Rica)
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
+
+#EXTINF:-1 tvg-logo="http://www.unored.tv/wp-content/uploads/2015/08/Extrema-TV-logo.jpg" group-title="Canales de Costa Rica", Extrema TV (Costa Rica)
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 # **********************************
 # **********************************
@@ -516,26 +514,14 @@ http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 # **********************************
 # **********************************
 
+#EXTINF:-1 tvg-logo="ttps://i.imgur.com/fFgKYAw.png" group-title="Canales Japoneses", Shop Channel | SD
+https://stream3.shopch.jp/httporiginlivech1/ch1.stream_1280p/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fFgKYAw.png" group-title="Canales Japoneses", Shop Channel | HD
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales Japoneses", Japanese shopping1 | SD
-https://stream3.shopch.jp/httporiginlivech1/ch1.stream_1280p/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8crfd4t.jpg" group-title="Canales Japoneses", TV Asahi | SD
-rtmp://mov8.mov3.co/live//main
-
-# **********************************
-# **********************************
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qiUmZ0y.png" group-title="Canales Miscelaneos", Atlanta Channel | HD
-http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k2T6u4G.png" group-title="Canales Miscelaneos", Miami TV | HD | Mexico
-https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w1931827340_b1896000.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L6zMxlo.jpg" group-title="Canales Miscelaneos", FS1 | HD
-http://stream.fs1.tv:8080/hls/webstream.m3u8
+https://tvasahi.mov3.co/hls/tvasahi.m3u8
 
 # **********************************
 # **********************************
