@@ -52,7 +52,7 @@ https://183.giatvcdn.com/giatv/giatv-MYJETIXRETRO/MYJETIXRETRO/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.chiletvapp.com/panel/uploads/tv_6a8277aeb3765.jpg" group-title="Mi Contenido",El Chavo Animado 24/7
 https://hls.chiletvapp.com/elchavo/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3896-294x165-FFFFFF.jpg" group-title="Mi Contenido",BEST CLASICOS TV 24/7
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3896-294x165-FFFFFF.jpg" group-title="Mi Contenido",Best Clasicos TV 24/7
 https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9tw109hL2O-mKbMt9e5ixxACQiaqRdB82yK8qiQ3C_ShCzz5YMhioFP6K&s=10" group-title="Mi Contenido",Dreiko TV TV 24/7
@@ -60,6 +60,18 @@ https://cloudvideo.servers10.com:8081/8020/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/tg/linear_channel/thumbnails/widescreen/k0UC6i-MUyyL25pRw2uuulUiBw1AluUVJQhZ65VxwjA.jpg" group-title="Mi Contenido",Pitufo TV TV 24/7
 https://stream.ads.ottera.tv/cl/261112dbqgvavvsrcc738kcaa0/1280x720_3071200_0_f.m3u8?i=475_11855
+
+#EXTINF:-1 tvg-logo="https://www.mi-television.com/img/logocumplea%C3%B1os.png" group-title="Mi Contenido",Mi Television Clasica TV 24/7
+https://mitv.getstreamhosting.com:1936/live/ngrp:live_all/chunklist_w1986683452_b2202794.m3u8
+
+#EXTINF:-1 tvg-logo="http://teleclasica.com/wp-content/uploads/2025/01/OTHER.png" group-title="Mi Contenido",Tele Clasica TV 24/7
+https://vtm1.msinteractiva.com/teleclasica/teleclasica/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="xxxxxxxxxx" group-title="Mi Contenido",xxxxxxxxxx TV 24/7
+
+
+
 
 # **********************************
 # **********************************
