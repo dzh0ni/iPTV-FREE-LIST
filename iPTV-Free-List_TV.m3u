@@ -545,18 +545,6 @@ http://unlimited6-cl.dps.live/futurotv/futurotv.smil/playlist.m3u8
 # **********************************
 # **********************************
 
-#EXTINF:-1 tvg-logo="" group-title="Radios Internacionales", Anime Nexus (Mexico)
-http://radio.animenexus.mx:8000/animenexus
-
-#EXTINF:-1 tvg-logo="" group-title="Radios Internacionales", Pop Radio (Argentina)
-http://popradio.stweb.tv:1935/popradio/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Radios Internacionales", Antena 1 (Brasil)
-https://antenaone.crossradio.com.br/stream/1
-
-# **********************************
-# **********************************
-
 #EXTINF:-1 tvg-logo="" group-title="Radios Online", SBS Pop Asia
 https://sbs-ice.streamguys1.com/sbs-popasia-sbs-web
 
@@ -571,6 +559,15 @@ http://20043.live.streamtheworld.com/LOS40_SC
 
 #EXTINF:-1 tvg-logo="" group-title="Radios Online", Super Tokio Radio
 http://streamer.radio.co/s83eb8ff39/listen
+
+#EXTINF:-1 tvg-logo="" group-title="Radios Internacionales", Anime Nexus (Mexico)
+http://radio.animenexus.mx:8000/animenexus
+
+#EXTINF:-1 tvg-logo="" group-title="Radios Internacionales", Pop Radio (Argentina)
+http://popradio.stweb.tv:1935/popradio/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Radios Internacionales", Antena 1 (Brasil)
+https://antenaone.crossradio.com.br/stream/1
 
 #EXTINF:-1 tvg-logo="" group-title="Radios Online", Radio Delta International
 https://w1.mediastreaming.it/deltainternational/livestream/chunklist_w1146403839.m3u8
