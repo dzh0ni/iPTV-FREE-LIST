@@ -661,6 +661,9 @@ https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
 # **********************************
 # **********************************
 
+#EXTINF:-1 tvg-logo="http://www.kodinerds.net/index.php?.m3u8/Attachment/9910-Music-Video-Mix-png/?thumbnail=1" group-title="Musica",Yearmix 2015
+https://ia600505.us.archive.org/5/items/DJPanduroVideoYearmix2015/DJ%20Panduro%20-%20Video%20Yearmix%202015.mp4
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica",Bonus Project 14 - Salsa Mix
 https://ia601508.us.archive.org/26/items/BonusProject14/Bonus%20Project%2014.mp4
 
@@ -738,9 +741,6 @@ https://ia801409.us.archive.org/35/items/DJPanduroVideoYearmix2013/DJ%20Panduro%
 
 #EXTINF:-1 tvg-logo="http://www.kodinerds.net/index.php?.m3u8/Attachment/9910-Music-Video-Mix-png/?thumbnail=1" group-title="Musica",Yearmix 2014
 https://ia800501.us.archive.org/34/items/DJPanduroVideoYearmix2014/DJ%20Panduro%20-%20Video%20Yearmix%202014%20%28HD%29.mp4
-
-#EXTINF:-1 tvg-logo="http://www.kodinerds.net/index.php?.m3u8/Attachment/9910-Music-Video-Mix-png/?thumbnail=1" group-title="Musica",Yearmix 2015
-https://ia600505.us.archive.org/5/items/DJPanduroVideoYearmix2015/DJ%20Panduro%20-%20Video%20Yearmix%202015.mp4
 
 # **********************************
 # **********************************
