@@ -466,7 +466,7 @@ https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w1931
 #EXTINF:-1 tvg-logo="https://127.0.0.1" group-title="Canales Mexicanos",AMX Noticias | MX
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://127.0.0.1", group-title="Canales Mexicanos"Canal 66 El Canal de las Noticias | MX
+#EXTINF:-1 tvg-logo="https://127.0.0.1" group-title="Canales Mexicanos",Canal 66 El Canal de las Noticias | MX
 https://60417ddeaf0d9.streamlock.net:443/canal66/smil:canal66.smil/playlist.m3u8?PlaylistM3UCL
 
 # **********************************
@@ -481,7 +481,7 @@ https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM
 # **********************************
 # **********************************
 
-#EXTINF:-1 tvg-logo="ttps://i.imgur.com/fFgKYAw.png" group-title="Canales Japoneses", Shop Channel | SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fFgKYAw.png" group-title="Canales Japoneses", Shop Channel | SD
 https://stream3.shopch.jp/httporiginlivech1/ch1.stream_1280p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fFgKYAw.png" group-title="Canales Japoneses", Shop Channel | HD
