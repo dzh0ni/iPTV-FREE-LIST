@@ -376,61 +376,43 @@ http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 # **********************************
 # **********************************
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qiUmZ0y.png" group-title="Canales Miscelaneos", Atlanta Channel | HD
+#EXTINF:-1 group-title="Canales Miscelaneos" tvg-logo="https://i.imgur.com/qiUmZ0y.png",Atlanta Channel | HD
 http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L6zMxlo.jpg" group-title="Canales Miscelaneos", FS1 | HD
+#EXTINF:-1 group-title="Canales Miscelaneos" tvg-logo="https://i.imgur.com/L6zMxlo.jpg",FS1 | HD
 http://stream.fs1.tv:8080/hls/webstream.m3u8
 
-#EXTINF:-1 tvg-logo="https://127.0.0.1" group-title="Canales Miscelaneos",Vintage Music | CR
-https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/494_UCL_Television_LATAM.png" group-title="Canales Miscelaneos",UCL Televisión LATAM | UY
-https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/516_France_24.png" group-title="Canales Miscelaneos",France 24 | FR
+#EXTINF:-1 group-title="Canales Miscelaneos" tvg-logo="https://www.m3u.cl/logo/516_France_24.png",France 24 | FR
 http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/506_Arirang.png" group-title="Canales Miscelaneos",Arirang | KR
+#EXTINF:-1 group-title="Canales Miscelaneos" tvg-logo="https://www.m3u.cl/logo/506_Arirang.png",Arirang | KR
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/796_Euro_Indie_Music.png" group-title="Canales Miscelaneos",Euro Indie Music | GB
-http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/904_Latin_Zone_TV.png" group-title="Canales Miscelaneos",Latin Zone TV | US
-https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/21_Retro_Music_Television.png" group-title="Canales Miscelaneos",Retro Music Television | CZ
-http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/22_Video_Tour_Channel.png" group-title="Canales Miscelaneos",Video Tour Channel | CR
+#EXTINF:-1 group-title="Canales Miscelaneos" tvg-logo="https://www.m3u.cl/logo/22_Video_Tour_Channel.png",Video Tour Channel | CR
 http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://127.0.0.1" group-title="Canales Miscelaneos",Aljazeera Arabic | QA
+#EXTINF:-1 group-title="Canales Miscelaneos" tvg-logo="https://127.0.0.1",Aljazeera Arabic | QA
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://127.0.0.1" group-title="Canales Miscelaneos",DW Deutsch | DE
+#EXTINF:-1 group-title="Canales Miscelaneos" tvg-logo="https://127.0.0.1",DW Deutsch | DE
 https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://127.0.0.1" group-title="Canales Miscelaneos",DW Deutsch+ | DE
+#EXTINF:-1 group-title="Canales Miscelaneos" tvg-logo="https://127.0.0.1",DW Deutsch+ | DE
 https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://127.0.0.1" group-title="Canales Miscelaneos",DW English | DE
+#EXTINF:-1 group-title="Canales Miscelaneos" tvg-logo="https://127.0.0.1",DW English | DE
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://127.0.0.1" group-title="Canales Miscelaneos",DW Español | DE
+#EXTINF:-1 group-title="Canales Miscelaneos" tvg-logo="https://127.0.0.1",DW Español | DE
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://127.0.0.1" group-title="Canales Miscelaneos",Net TV | AR
+#EXTINF:-1 group-title="Canales Miscelaneos" tvg-logo="https://127.0.0.1",Net TV | AR
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://127.0.0.1" group-title="Canales Miscelaneos",Cadena Elite | ES
+#EXTINF:-1 group-title="Canales Miscelaneos" tvg-logo="https://127.0.0.1",Cadena Elite | ES
 https://cloudvideo.servers10.com:8081/8004/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://127.0.0.1" group-title="Canales Miscelaneos",Canal VM Latino | CR
-https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://127.0.0.1" group-title="Canales Miscelaneos",Soy Plancha TV | CR
+#EXTINF:-1 group-title="Canales Miscelaneos" tvg-logo="https://127.0.0.1",Soy Plancha TV | CR
 https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8?PlaylistM3UCL
 
 # **********************************
@@ -615,6 +597,21 @@ https://56b50ada2d659.streamlock.net/RadioSorrrisoTV/livestream/chunklist_w80016
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0d9OjHQ.jpg" group-title="Canales de Musica", Company TV | HD
 https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://127.0.0.1" group-title="Canales de Musica",Vintage Music | CR
+https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/796_Euro_Indie_Music.png" group-title="Canales de Musica",Euro Indie Music | GB
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/21_Retro_Music_Television.png" group-title="Canales de Musica",Retro Music Television | CZ
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/904_Latin_Zone_TV.png" group-title="Canales de Musica",Latin Zone TV | US
+https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://127.0.0.1" group-title="Canales de Musica",Canal VM Latino | CR
+https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8?PlaylistM3UCL
 
 # **********************************
 # **********************************
