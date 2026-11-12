@@ -661,32 +661,17 @@ https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
 # **********************************
 # **********************************
 
+#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/03_logo/Retro_Czech_Republic.jpg" group-title="Musica",RETRO TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.kodinerds.net/index.php?.m3u8/Attachment/9910-Music-Video-Mix-png/?thumbnail=1" group-title="Musica",Yearmix 2013
+https://ia801409.us.archive.org/35/items/DJPanduroVideoYearmix2013/DJ%20Panduro%20-%20Video%20Yearmix%202013.mp4
+
+#EXTINF:-1 tvg-logo="http://www.kodinerds.net/index.php?.m3u8/Attachment/9910-Music-Video-Mix-png/?thumbnail=1" group-title="Musica",Yearmix 2014
+https://ia800501.us.archive.org/34/items/DJPanduroVideoYearmix2014/DJ%20Panduro%20-%20Video%20Yearmix%202014%20%28HD%29.mp4
+
 #EXTINF:-1 tvg-logo="http://www.kodinerds.net/index.php?.m3u8/Attachment/9910-Music-Video-Mix-png/?thumbnail=1" group-title="Musica",Yearmix 2015
 https://ia600505.us.archive.org/5/items/DJPanduroVideoYearmix2015/DJ%20Panduro%20-%20Video%20Yearmix%202015.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica",Bonus Project 14 - Salsa Mix
-https://ia601508.us.archive.org/26/items/BonusProject14/Bonus%20Project%2014.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica",Bonus Project 11 - Dance Remixes 3
-https://ia601506.us.archive.org/5/items/BonusProject11/Bonus%20Project%2011.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica",Bonus Project 3 - Old Skool
-https://ia801507.us.archive.org/7/items/BonusProject3/Bonus%20Project%203.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica",Bonus Project 5 - Tropical Mix
-https://ia601504.us.archive.org/18/items/BonusProject5/Bonus%20Project%205.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica",Bonus Project 6 - Tropical Mix 2
-https://ia601500.us.archive.org/1/items/BonusProject6/Bonus%20Project%206.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica",Bonus Project 7 - Tropical Mix 3
-https://ia601500.us.archive.org/5/items/BonusProject7/Bonus%20Project%207.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica",Bonus Project 8 - Dance Remixes 2
-https://ia601506.us.archive.org/1/items/BonusProject8/Bonus%20Project%208.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica",Bonus Project 9 - Pop
-https://ia601500.us.archive.org/28/items/BonusProject09/Bonus%20Project%2009.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica",Classic Project 1 - 70 80 90s Reloaded 2008
 https://ia601503.us.archive.org/24/items/TheClassicProject1/The%20Classic%20Project%201.mp4
@@ -733,14 +718,29 @@ https://ia601509.us.archive.org/16/items/TheClassicProject14.1/The%20Classic%20P
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica",Classic Project 14-2 - Rock Edition CD 2
 https://archive.org/download/TheClassicProject14.2/The%20Classic%20Project%2014.2.mp4
 
-#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/03_logo/Retro_Czech_Republic.jpg" group-title="Musica",RETRO TV
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica",Bonus Project 3 - Old Skool
+https://ia801507.us.archive.org/7/items/BonusProject3/Bonus%20Project%203.mp4
 
-#EXTINF:-1 tvg-logo="http://www.kodinerds.net/index.php?.m3u8/Attachment/9910-Music-Video-Mix-png/?thumbnail=1" group-title="Musica",Yearmix 2013
-https://ia801409.us.archive.org/35/items/DJPanduroVideoYearmix2013/DJ%20Panduro%20-%20Video%20Yearmix%202013.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica",Bonus Project 5 - Tropical Mix
+https://ia601504.us.archive.org/18/items/BonusProject5/Bonus%20Project%205.mp4
 
-#EXTINF:-1 tvg-logo="http://www.kodinerds.net/index.php?.m3u8/Attachment/9910-Music-Video-Mix-png/?thumbnail=1" group-title="Musica",Yearmix 2014
-https://ia800501.us.archive.org/34/items/DJPanduroVideoYearmix2014/DJ%20Panduro%20-%20Video%20Yearmix%202014%20%28HD%29.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica",Bonus Project 6 - Tropical Mix 2
+https://ia601500.us.archive.org/1/items/BonusProject6/Bonus%20Project%206.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica",Bonus Project 7 - Tropical Mix 3
+https://ia601500.us.archive.org/5/items/BonusProject7/Bonus%20Project%207.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica",Bonus Project 8 - Dance Remixes 2
+https://ia601506.us.archive.org/1/items/BonusProject8/Bonus%20Project%208.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica",Bonus Project 9 - Pop
+https://ia601500.us.archive.org/28/items/BonusProject09/Bonus%20Project%2009.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica",Bonus Project 14 - Salsa Mix
+https://ia601508.us.archive.org/26/items/BonusProject14/Bonus%20Project%2014.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Musica",Bonus Project 11 - Dance Remixes 3
+https://ia601506.us.archive.org/5/items/BonusProject11/Bonus%20Project%2011.mp4
 
 # **********************************
 # **********************************
