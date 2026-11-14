@@ -63,7 +63,8 @@ http://animezonetv.net:81/live_hls/animetest/index.m3u8
 #EXTINF:-1 tvg-logo="https://gia.tv/streams/logo/212391.jpg?1794284949" group-title="Retro Toons TV",JETIX - Gia.TV
 https://183.giatvcdn.com/giatv/giatv-MYJETIXRETRO/MYJETIXRETRO/chunks.m3u8
 
-https://ssh101.com/
+#https://ssh101.com/
+#https://foxkids.site/lite/
 #EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/FOX_Kids_logo.svg/500px-FOX_Kids_logo.svg.png" group-title="Retro Toons TV",foxkids2 - Ssh101.COM
 https://183.giatvcdn.com/ssh101/ssh101/foxkids2/playlist.m3u8
 
