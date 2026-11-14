@@ -53,15 +53,19 @@
 #http://locomotiontv.com
 #EXTINF:-1 tvg-logo="http://locomotiontv.com/locomotion/logo.png" group-title="Retro Toons TV",Locomotion
 http://146.19.49.197:81/live/loco.m3u8
-http://146.19.49.197:81/live/loco_hi/index.m3u8
+#http://146.19.49.197:81/live/loco_hi/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://locomotiontv.com/locomotion/logo.png" group-title="Retro Toons TV",Anime Zone
 http://animezonetv.net:81/live_hls/animetest/index.m3u8
-http://146.19.49.197:81/live/animextv_hi/index.m3u8
+#http://146.19.49.197:81/live/animextv_hi/index.m3u8
 
 #https://gia.tv/watchssh101.php?sn=MYJETIXRETRO
 #EXTINF:-1 tvg-logo="https://gia.tv/streams/logo/212391.jpg?1794284949" group-title="Retro Toons TV",JETIX - Gia.TV
 https://183.giatvcdn.com/giatv/giatv-MYJETIXRETRO/MYJETIXRETRO/chunks.m3u8
+
+https://ssh101.com/
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/FOX_Kids_logo.svg/500px-FOX_Kids_logo.svg.png" group-title="Retro Toons TV",foxkids2 - Ssh101.COM
+https://183.giatvcdn.com/ssh101/ssh101/foxkids2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.chiletvapp.com/panel/uploads/tv_6a8277aeb3765.jpg" group-title="Retro Toons TV",El Chavo Animado 24/7
 https://hls.chiletvapp.com/elchavo/stream.m3u8
