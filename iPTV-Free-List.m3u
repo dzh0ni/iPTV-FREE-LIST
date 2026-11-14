@@ -5,7 +5,7 @@
 # **********************************
 # 🔥 Recopilado por: iLLuminati Dev Team
 # 🌐 Contacto: https://t.me/iPTV_Free_List
-# 🎥 Playlist: https://raw.githubusercontent.com/dzh0ni/iPTV-FREE-LIST/master/iPTV-Free-List_TV.m3u
+# 🎥 Playlist: https://raw.githubusercontent.com/dzh0ni/iPTV-FREE-LIST/master/iPTV-Free-List.m3u
 # 📲 Compatible con: PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
 # **********************************
 
@@ -13,35 +13,24 @@
 # 📑 ÍNDICE DE CATEGORÍAS
 # **********************************
 
-# 01. 📺 Anime
-# 02. 🇨🇱 Chileiptv
-# 03. 🇨🇱 M3U CL
-# 04. 📡 Lao TV
-
-# 05. 🇨🇱 Canales Chilenos
-# 06. 🏙️ Canales Chilenos Regionales
-
-# 07. 🌎 Canales de Costa Rica
-# 08. ⚽ Canales de Deportes
-# 12. 🌐 Canales Miscelaneos
-
-# 09. 🇲🇽 Canales Mexicanos
-# 10. 🇵🇪 Canales Peruanos
-# 11. 🇯🇵 Canales Japoneses
-
-
-# 13. 📻 Radios Chilenas
-# 14. 📺 Radios Chilenas con Video
-
-# 16. 📻 Radios Internacionales
-# 17. 📺 Radios Internacionales con Video
-
-# 18. 🎵 Canales de Musica
-# 19. 🎶 Musica
-
-# 20. 🔞 XXX TV Online
-# 21. 🔞 XXX Live Cams
-# 22. 🔞 XXX Videos
+# 01. 📼 Retro Toons TV
+# 02. 📺 Anime
+# 03. 🇨🇱 IPTV Free List
+# 04. ⚽ Canales de Deportes
+# 05. 🌐 Canales Misceláneos
+# 06. 🌎 Canales de Costa Rica
+# 07. 🇲🇽 Canales Mexicanos
+# 08. 🇵🇪 Canales Peruanos
+# 09. 🇯🇵 Canales Japoneses
+# 10. 📻 Radios Chilenas
+# 11. 📺 Radios Chilenas con Video
+# 12. 📻 Radios Internacionales
+# 13. 📺 Radios Internacionales con Video
+# 14. 🎵 Canales de Música
+# 15. 🎶 Videos de Música
+# 16. 🔞 XXX TV Online
+# 17. 🔞 XXX Live Cams
+# 18. 🔞 XXX Videos
 
 # **********************************
 # 📡 INICIO DE LA PLAYLIST
@@ -65,7 +54,7 @@ https://183.giatvcdn.com/giatv/giatv-MYJETIXRETRO/MYJETIXRETRO/chunks.m3u8
 
 #https://ssh101.com/
 #https://foxkids.site/lite/
-#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/FOX_Kids_logo.svg/500px-FOX_Kids_logo.svg.png" group-title="Retro Toons TV",foxkids2 - Ssh101.COM
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XxmHswJQ/FOX-Kids-logo-svg.png" group-title="Retro Toons TV",Fox Kids 2 - Ssh101.COM
 https://183.giatvcdn.com/ssh101/ssh101/foxkids2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.chiletvapp.com/panel/uploads/tv_6a8277aeb3765.jpg" group-title="Retro Toons TV",El Chavo Animado 24/7
@@ -91,7 +80,7 @@ https://mitv.getstreamhosting.com:1936/live/ngrp:live_all/chunklist_w1986683452_
 #EXTINF:-1 tvg-logo="http://teleclasica.com/wp-content/uploads/2025/01/OTHER.png" group-title="Retro Toons TV",Tele Clasica 24/7
 https://vtm1.msinteractiva.com/teleclasica/teleclasica/playlist.m3u8
 
-https://cncity.live/
+#https://cncity.live/
 #EXTINF:-1 tvg-logo="https://cncity.live/assets/logo.png" group-title="Retro Toons TV",CN City
 https://envivo.cncity.live/hls/envivo.m3u8
 

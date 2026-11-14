@@ -13,28 +13,81 @@
 # 📑 ÍNDICE DE CATEGORÍAS
 # **********************************
 
-# 01. 📺 Anime
-# 02. 🇨🇱 Chileiptv
-# 03. 🇨🇱 M3U CL
-# 04. 📡 Lao TV
-# 05. 🇨🇱 Canales Chilenos
-# 06. 🏙️ Canales Chilenos Regionales
-# 07. 🌎 Canales de Latinos
-# 08. ⚽ Canales de Deportes
-# 09. 🇲🇽 Canales Mexicanos
-# 10. 🇵🇪 Canales Peruanos
-# 11. 🇯🇵 Canales Japoneses
-# 12. 🌐 Canales Miscelaneos
-# 13. 📻 Radios Chilenas
-# 14. 📺 Radios Chilenas con Video
-# 15. 🌎 Radios Internacionales
-# 16. 📻 Radios Online
-# 17. 🎵 Canales de Musica
-# 18. 🎶 Musica
+# 01. 📼 Retro Toons TV
+# 02. 📺 Anime
+# 03. 🇨🇱 IPTV Free List
+# 04. ⚽ Canales de Deportes
+# 05. 🌐 Canales Misceláneos
+# 06. 🌎 Canales de Costa Rica
+# 07. 🇲🇽 Canales Mexicanos
+# 08. 🇵🇪 Canales Peruanos
+# 09. 🇯🇵 Canales Japoneses
+# 10. 📻 Radios Chilenas
+# 11. 📺 Radios Chilenas con Video
+# 12. 📻 Radios Internacionales
+# 13. 📺 Radios Internacionales con Video
+# 14. 🎵 Canales de Música
+# 15. 🎶 Videos de Música
 
 # **********************************
 # 📡 INICIO DE LA PLAYLIST
 # **********************************
+
+# **********************************
+# **********************************
+
+#http://locomotiontv.com
+#EXTINF:-1 tvg-logo="http://locomotiontv.com/locomotion/logo.png" group-title="Retro Toons TV",Locomotion
+http://146.19.49.197:81/live/loco.m3u8
+#http://146.19.49.197:81/live/loco_hi/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://locomotiontv.com/locomotion/logo.png" group-title="Retro Toons TV",Anime Zone
+http://animezonetv.net:81/live_hls/animetest/index.m3u8
+#http://146.19.49.197:81/live/animextv_hi/index.m3u8
+
+#https://gia.tv/watchssh101.php?sn=MYJETIXRETRO
+#EXTINF:-1 tvg-logo="https://gia.tv/streams/logo/212391.jpg?1794284949" group-title="Retro Toons TV",JETIX - Gia.TV
+https://183.giatvcdn.com/giatv/giatv-MYJETIXRETRO/MYJETIXRETRO/chunks.m3u8
+
+#https://ssh101.com/
+#https://foxkids.site/lite/
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XxmHswJQ/FOX-Kids-logo-svg.png" group-title="Retro Toons TV",Fox Kids 2 - Ssh101.COM
+https://183.giatvcdn.com/ssh101/ssh101/foxkids2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.chiletvapp.com/panel/uploads/tv_6a8277aeb3765.jpg" group-title="Retro Toons TV",El Chavo Animado 24/7
+https://hls.chiletvapp.com/elchavo/stream.m3u8
+
+#https://www.vivalivetv.com/channel/best-clasicos-tv
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3896-294x165-FFFFFF.jpg" group-title="Retro Toons TV",Best Clasicos TV
+https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
+
+#https://autom3u.com/es/channels/76b094ab-39e7-52e4-9fb6-fbfaa48657aa
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9tw109hL2O-mKbMt9e5ixxACQiaqRdB82yK8qiQ3C_ShCzz5YMhioFP6K&s=10" group-title="Retro Toons TV",Dreiko TV
+https://cloudvideo.servers10.com:8081/8020/index.m3u8
+
+#https://www.toongoggles.com/linear/pitufo-tv
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/tg/linear_channel/thumbnails/widescreen/k0UC6i-MUyyL25pRw2uuulUiBw1AluUVJQhZ65VxwjA.jpg" group-title="Retro Toons TV",TV Los Pitufo
+https://stream.ads.ottera.tv/cl/261112dbqgvavvsrcc738kcaa0/1280x720_3071200_0_f.m3u8?i=475_11855
+
+#https://mi-television.com/envivo.php
+#EXTINF:-1 tvg-logo="https://www.mi-television.com/img/logocumplea%C3%B1os.png" group-title="Retro Toons TV",Mi Television Clasica
+https://mitv.getstreamhosting.com:1936/live/ngrp:live_all/chunklist_w1986683452_b2202794.m3u8
+
+#http://teleclasica.com/
+#EXTINF:-1 tvg-logo="http://teleclasica.com/wp-content/uploads/2025/01/OTHER.png" group-title="Retro Toons TV",Tele Clasica 24/7
+https://vtm1.msinteractiva.com/teleclasica/teleclasica/playlist.m3u8
+
+#https://cncity.live/
+#EXTINF:-1 tvg-logo="https://cncity.live/assets/logo.png" group-title="Retro Toons TV",CN City
+https://envivo.cncity.live/hls/envivo.m3u8
+
+#https://www.vivalivetv.com/channel/tele
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3945-294x165-FFFFFF.jpg" group-title="Retro Toons TV",Tele Mas
+https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8
+
+#https://www.chiletvapp.com/
+#EXTINF:-1 tvg-logo="https://www.chiletvapp.com/panel/uploads/mobile_6ab5bcdb66947.jpg" group-title="Retro Toons TV",Cine Terror
+https://stream.ads.ottera.tv/cl/261112dbqleg5v7erc73fbbpig/1920x1080_4787200_1_f.m3u8?i=475_16194
 
 # **********************************
 # **********************************
