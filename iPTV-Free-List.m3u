@@ -88,10 +88,6 @@ https://envivo.cncity.live/hls/envivo.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3945-294x165-FFFFFF.jpg" group-title="Retro Toons TV",Tele Mas
 https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8
 
-#https://www.chiletvapp.com/
-#EXTINF:-1 tvg-logo="https://www.chiletvapp.com/panel/uploads/mobile_6ab5bcdb66947.jpg" group-title="Retro Toons TV",Cine Terror
-https://stream.ads.ottera.tv/cl/261112dbqleg5v7erc73fbbpig/1920x1080_4787200_1_f.m3u8?i=475_16194
-
 # **********************************
 # **********************************
 
