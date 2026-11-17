@@ -43,9 +43,12 @@
 #EXTINF:-1 tvg-logo="http://locomotiontv.com/locomotion/logo.png" group-title="Retro Toons TV",Locomotion - No 24/7
 http://146.19.49.197:81/live/loco.m3u8
 #http://146.19.49.197:81/live/loco_hi/index.m3u8
+#http://51.222.85.85:81/hls/loco/index.m3u8
+#http://146.19.49.197:81/live/loco_low/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://locomotiontv.com/locomotion/aztv_logo.png" group-title="Retro Toons TV",Anime Zone - No 24/7
 http://animezonetv.net:81/live_hls/animetest/index.m3u8
+#http://animezonetv.com/hls/stream.m3u8
 #http://146.19.49.197:81/live/animextv_hi/index.m3u8
 
 #https://gia.tv/watchssh101.php?sn=MYJETIXRETRO
