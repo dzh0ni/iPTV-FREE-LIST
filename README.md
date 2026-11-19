@@ -99,7 +99,7 @@ Listas de reproducción:
 
 > 👉 Es aconsejable visualizar este contenido en navegadores como [LibreWolf](https://librewolf.net/) o [Firefox](https://www.mozilla.org/es-cl/firefox/new/).
 
-> 👉 y se sugiere utilizar e instalar las extensiones (complementos) que bloquean molestos anuncios emergentes para una mejor experiencia de navegación. Además, se recomienda abrir los enlaces en una nueva ventana o pestaña, haciendo clic con el botón derecho del mouse y seleccionando "Abrir enlace en una nueva pestaña" o "Abrir enlace en una nueva ventana", dependiendo de tu navegador.
+> 👉 y se sugiere utilizar e instalar extensiones (complementos) que bloquean molestos anuncios emergentes para una mejor experiencia de navegación. Además, se recomienda abrir los enlaces en una nueva ventana o pestaña, haciendo clic con el botón derecho del mouse y seleccionando "Abrir enlace en una nueva pestaña" o "Abrir enlace en una nueva ventana", dependiendo de tu navegador.
 
 <details>
 <summary>Expandir para ver lista de extenciones</summary>
