@@ -17,18 +17,19 @@
 # 01. 🇨🇱 IPTV Free List
 # 02. 📼 Retro Toons TV
 # 03. 📺 Anime
-# 04. ⚽ Canales de Deportes
-# 05. 🌐 Canales Misceláneos
-# 06. 🌎 Canales de Costa Rica
-# 07. 🇲🇽 Canales Mexicanos
-# 08. 🇵🇪 Canales Peruanos
-# 09. 🇯🇵 Canales Japoneses
-# 10. 📻 Radios Chilenas
-# 11. 📺 Radios Chilenas con Video
-# 12. 📻 Radios Internacionales
-# 13. 📺 Radios Internacionales con Video
-# 14. 🎵 Canales de Música
-# 15. 🎶 Videos de Música
+# 04. 📻 Radios Chilenas
+# 05. 📺 Radios Chilenas con Video
+# 06. 📻 Radios Internacionales
+# 07. 📺 Radios Internacionales con Video
+# 08. 🎵 Canales de Música
+# 09. 🎶 Videos de Música
+# 10. ⚽ Canales de Deportes
+# 11. 🌎 Canales de Costa Rica
+# 12. 🇲🇽 Canales Mexicanos
+# 13. 🇵🇪 Canales Peruanos
+# 14. 🇯🇵 Canales Japoneses
+# 15. 🌐 Canales Miscelaneos
+
 
 # **********************************
 # 📡 INICIO DE LA PLAYLIST
@@ -326,105 +327,6 @@ http://146.19.49.197:81/live/animextv_hi/index.m3u8
 # **********************************
 # **********************************
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8cnXJcu.png" group-title="Canales de Deportes", Red Bull TV | FHD
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KO9XhLU.png" group-title="Canales de Deportes", Sporting | HD
-http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
-
-# **********************************
-# **********************************
-
-#EXTINF:-1 group-title="Canales Miscelaneos" tvg-logo="https://i.imgur.com/qiUmZ0y.png",Atlanta Channel | HD
-http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
-
-#EXTINF:-1 group-title="Canales Miscelaneos" tvg-logo="https://i.imgur.com/L6zMxlo.jpg",FS1 | HD
-http://stream.fs1.tv:8080/hls/webstream.m3u8
-
-#EXTINF:-1 group-title="Canales Miscelaneos" tvg-logo="https://www.m3u.cl/logo/516_France_24.png",France 24 | FR
-http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="Canales Miscelaneos" tvg-logo="https://www.m3u.cl/logo/506_Arirang.png",Arirang | KR
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="Canales Miscelaneos" tvg-logo="https://127.0.0.1",Aljazeera Arabic | QA
-https://live-hls-web-aja.getaj.net/AJA/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="Canales Miscelaneos" tvg-logo="https://127.0.0.1",DW English | DE
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="Canales Miscelaneos" tvg-logo="https://127.0.0.1",DW Español | DE
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="Canales Miscelaneos" tvg-logo="https://127.0.0.1",Net TV | AR
-https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="Canales Miscelaneos" tvg-logo="https://www.m3u.cl/logo/22_Video_Tour_Channel.png",Video Tour Channel | CR
-http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="Canales Miscelaneos" tvg-logo="https://127.0.0.1",Cadena Elite | ES
-https://cloudvideo.servers10.com:8081/8004/index.m3u8?PlaylistM3UCL
-
-# **********************************
-# **********************************
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/200px-Multimedios_Television.png" group-title="Canales de Costa Rica", Multimedios (Costa Rica)
-http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
-
-#EXTINF:-1 tvg-logo="http://www.unored.tv/wp-content/uploads/2015/08/Extrema-TV-logo.jpg" group-title="Canales de Costa Rica", Extrema TV (Costa Rica)
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-# **********************************
-# **********************************
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/897e9wy.png" group-title="Canales Mexicanos", Teleritmo | SD
-http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kaRhACw.png" group-title="Canales Mexicanos", Sipse TV Cancun | HD
-https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
-
-#EXTINF:-1 tvg-logo="http://static-cdn1.ustream.tv/i/channel/picture/2/2/4/2/224294/224294,640x360,b:2.jpg" group-title="Canales Mexicanos", Sipse TV Cancun
-https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
-
-#EXTINF:-1 tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/06/Canal10-Chiapas-Logo-300x300.jpg" group-title="Canales Mexicanos", Canal 10 Chiapas
-https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/chunklist_w462891777.m3u8
-
-#EXTINF:-1 tvg-logo="https://ii.ct-stc.com/2/logos/empresas/2016/03/29/6cb2130990c748ada472thumbnail.png" group-title="Canales Mexicanos", Canal 6 (Michoacan)
-http://streamingcws20.com:1935/canal6mich/videocanal6mich/chunklist_w848387750.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k2T6u4G.png" group-title="Canales Mexicanos", Miami TV | HD | Mexico
-https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w1931827340_b1896000.m3u8
-
-#EXTINF:-1 tvg-logo="https://127.0.0.1" group-title="Canales Mexicanos",AMX Noticias | MX
-https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://127.0.0.1" group-title="Canales Mexicanos",Canal 66 El Canal de las Noticias | MX
-https://60417ddeaf0d9.streamlock.net:443/canal66/smil:canal66.smil/playlist.m3u8?PlaylistM3UCL
-
-# **********************************
-# **********************************
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Xwbpj7i.jpg" group-title="Canales Peruanos", Ovacion | SD
-http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/43_Turbo_Mix_TV.png" group-title="Canales Peruanos",Turbo Mix TV | PE
-https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL
-
-# **********************************
-# **********************************
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fFgKYAw.png" group-title="Canales Japoneses", Shop Channel | SD
-https://stream3.shopch.jp/httporiginlivech1/ch1.stream_1280p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fFgKYAw.png" group-title="Canales Japoneses", Shop Channel | HD
-http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8crfd4t.jpg" group-title="Canales Japoneses", TV Asahi | SD
-https://tvasahi.mov3.co/hls/tvasahi.m3u8
-
-# **********************************
-# **********************************
-
 #EXTINF:-1 tvg-logo="" group-title="Radios Chilenas", Radio Nuevo Mundo (88.9 FM Ovalle)
 http://190.82.105.90:8012/stream/1/
 
@@ -676,6 +578,105 @@ https://ia601506.us.archive.org/5/items/BonusProject11/Bonus%20Project%2011.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Video Musica",Bonus Project 14 - Salsa Mix
 https://ia601508.us.archive.org/26/items/BonusProject14/Bonus%20Project%2014.mp4
+
+# **********************************
+# **********************************
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8cnXJcu.png" group-title="Canales de Deportes", Red Bull TV | FHD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KO9XhLU.png" group-title="Canales de Deportes", Sporting | HD
+http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+
+# **********************************
+# **********************************
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/200px-Multimedios_Television.png" group-title="Canales de Costa Rica", Multimedios (Costa Rica)
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
+
+#EXTINF:-1 tvg-logo="http://www.unored.tv/wp-content/uploads/2015/08/Extrema-TV-logo.jpg" group-title="Canales de Costa Rica", Extrema TV (Costa Rica)
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+# **********************************
+# **********************************
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/897e9wy.png" group-title="Canales Mexicanos", Teleritmo | SD
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kaRhACw.png" group-title="Canales Mexicanos", Sipse TV Cancun | HD
+https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
+
+#EXTINF:-1 tvg-logo="http://static-cdn1.ustream.tv/i/channel/picture/2/2/4/2/224294/224294,640x360,b:2.jpg" group-title="Canales Mexicanos", Sipse TV Cancun
+https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
+
+#EXTINF:-1 tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/06/Canal10-Chiapas-Logo-300x300.jpg" group-title="Canales Mexicanos", Canal 10 Chiapas
+https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/chunklist_w462891777.m3u8
+
+#EXTINF:-1 tvg-logo="https://ii.ct-stc.com/2/logos/empresas/2016/03/29/6cb2130990c748ada472thumbnail.png" group-title="Canales Mexicanos", Canal 6 (Michoacan)
+http://streamingcws20.com:1935/canal6mich/videocanal6mich/chunklist_w848387750.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k2T6u4G.png" group-title="Canales Mexicanos", Miami TV | HD | Mexico
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w1931827340_b1896000.m3u8
+
+#EXTINF:-1 tvg-logo="https://127.0.0.1" group-title="Canales Mexicanos",AMX Noticias | MX
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://127.0.0.1" group-title="Canales Mexicanos",Canal 66 El Canal de las Noticias | MX
+https://60417ddeaf0d9.streamlock.net:443/canal66/smil:canal66.smil/playlist.m3u8?PlaylistM3UCL
+
+# **********************************
+# **********************************
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xwbpj7i.jpg" group-title="Canales Peruanos", Ovacion | SD
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/43_Turbo_Mix_TV.png" group-title="Canales Peruanos",Turbo Mix TV | PE
+https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL
+
+# **********************************
+# **********************************
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fFgKYAw.png" group-title="Canales Japoneses", Shop Channel | SD
+https://stream3.shopch.jp/httporiginlivech1/ch1.stream_1280p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fFgKYAw.png" group-title="Canales Japoneses", Shop Channel | HD
+http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8crfd4t.jpg" group-title="Canales Japoneses", TV Asahi | SD
+https://tvasahi.mov3.co/hls/tvasahi.m3u8
+
+# **********************************
+# **********************************
+
+#EXTINF:-1 group-title="Canales Miscelaneos" tvg-logo="https://i.imgur.com/qiUmZ0y.png",Atlanta Channel | HD
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
+
+#EXTINF:-1 group-title="Canales Miscelaneos" tvg-logo="https://i.imgur.com/L6zMxlo.jpg",FS1 | HD
+http://stream.fs1.tv:8080/hls/webstream.m3u8
+
+#EXTINF:-1 group-title="Canales Miscelaneos" tvg-logo="https://www.m3u.cl/logo/516_France_24.png",France 24 | FR
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Canales Miscelaneos" tvg-logo="https://www.m3u.cl/logo/506_Arirang.png",Arirang | KR
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Canales Miscelaneos" tvg-logo="https://127.0.0.1",Aljazeera Arabic | QA
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Canales Miscelaneos" tvg-logo="https://127.0.0.1",DW English | DE
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Canales Miscelaneos" tvg-logo="https://127.0.0.1",DW Español | DE
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Canales Miscelaneos" tvg-logo="https://127.0.0.1",Net TV | AR
+https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Canales Miscelaneos" tvg-logo="https://www.m3u.cl/logo/22_Video_Tour_Channel.png",Video Tour Channel | CR
+http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Canales Miscelaneos" tvg-logo="https://127.0.0.1",Cadena Elite | ES
+https://cloudvideo.servers10.com:8081/8004/index.m3u8?PlaylistM3UCL
 
 # **********************************
 # **********************************
