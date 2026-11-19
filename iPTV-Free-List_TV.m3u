@@ -14,9 +14,9 @@
 # 📑 ÍNDICE DE CATEGORÍAS
 # **********************************
 
-# 01. 📼 Retro Toons TV
-# 02. 📺 Anime
-# 03. 🇨🇱 IPTV Free List
+# 01. 🇨🇱 IPTV Free List
+# 02. 📼 Retro Toons TV
+# 03. 📺 Anime
 # 04. ⚽ Canales de Deportes
 # 05. 🌐 Canales Misceláneos
 # 06. 🌎 Canales de Costa Rica
@@ -33,109 +33,6 @@
 # **********************************
 # 📡 INICIO DE LA PLAYLIST
 # **********************************
-
-# **********************************
-# **********************************
-
-#http://locomotiontv.com | (Adaptable)
-#EXTINF:-1 tvg-logo="http://locomotiontv.com/locomotion/logo.png" group-title="Retro Toons TV",Locomotion - [No 24/7]
-#http://51.222.85.85:81/hls/loco/index.m3u8 (Principal)
-#http://146.19.49.197:81/live/loco_hi/index.m3u8 (High Quality)
-#http://146.19.49.197:81/live/loco_low/index.m3u8 (Low Quality)
-http://146.19.49.197:81/live/loco.m3u8
-
-#http://animezonetv.com |  (High Server 1)
-#EXTINF:-1 tvg-logo="http://locomotiontv.com/locomotion/aztv_logo.png" group-title="Retro Toons TV",Anime Zone - [No 24/7]
-#http://animezonetv.com/hls/stream.m3u8 AnimeZoneTV
-http://animezonetv.net:81/live_hls/animetest/index.m3u8
-#http://146.19.49.197:81/live/animextv_hi/index.m3u8 (High Server 2)
-
-#https://gia.tv/watchssh101.php?sn=MYJETIXRETRO
-#EXTINF:-1 tvg-logo="https://www.liblogo.com/img-logo/je8854j1dc-jetix-logo-jetix-logo-2013-by-miicentral-on-.png" group-title="Retro Toons TV",Jetix - [No 24/7]
-https://183.giatvcdn.com/giatv/giatv-MYJETIXRETRO/MYJETIXRETRO/chunks.m3u8
-
-#https://ssh101.com/
-#https://gia.tv/watchssh101.php?nmid=foxkids2
-#https://foxkids.site/lite/
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XxmHswJQ/FOX-Kids-logo-svg.png" group-title="Retro Toons TV",Fox Kids 2 - [No 24/7]
-https://183.giatvcdn.com/ssh101/ssh101/foxkids2/playlist.m3u8
-
-#https://gia.tv/watchssh101.php?pvod=209474
-#EXTINF:-1 tvg-logo="https://gia.tv/streams/pvod/209474.png?1795047860" group-title="Retro Toons TV",Teleanimemania España VOD - [No 24/7]
-https://183.giatvcdn.com/giatvplayout/giatvvod/giatv/movies/pvod/209474/Sherlock_Holmes_1x01_Las_cuatro_firmas___Castellano_y_Galego.mp4/playlist.m3u8
-
-#https://gia.tv/watchssh101.php?pptv=211565
-#EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/211565.png?1795048119" group-title="Retro Toons TV",TV Grupo Medios Mendoza Anime - [No 24/7]
-https://183.giatvcdn.com/giatvplayout7/giatv-211565/playlist.m3u8
-
-#https://chiletvapp.com
-#EXTINF:-1 tvg-logo="https://www.chiletvapp.com/panel/uploads/tv_6a8277aeb3765.jpg" group-title="Retro Toons TV",El Chavo Animado
-https://hls.chiletvapp.com/elchavo/stream.m3u8
-
-#https://www.vivalivetv.com/channel/best-clasicos-tv
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3896-294x165-FFFFFF.jpg" group-title="Retro Toons TV",Best Clasicos TV
-https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
-
-#https://autom3u.com/es/channels/76b094ab-39e7-52e4-9fb6-fbfaa48657aa
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9tw109hL2O-mKbMt9e5ixxACQiaqRdB82yK8qiQ3C_ShCzz5YMhioFP6K&s=10" group-title="Retro Toons TV",Dreiko TV
-https://cloudvideo.servers10.com:8081/8020/index.m3u8
-
-#https://www.toongoggles.com/linear/pitufo-tv
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/tg/linear_channel/thumbnails/widescreen/k0UC6i-MUyyL25pRw2uuulUiBw1AluUVJQhZ65VxwjA.jpg" group-title="Retro Toons TV",TV Los Pitufo
-https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=11855&coppa=1&is_lat=1&dnt=1&td=6&us_privacy=1NNN&delivery_type=fast&did=&ifa_type=sessionid&app_bundle=&app_store_url=&app_domain=toongoggles.com&app_name=Toon%20Goggles&custom_targeting=web&delivery_partner=internal&custom_4=internal&player_height=720&player_width=1280&content_channel=ToonGoggles&content_network=ToonGoggles&content_language=en&content_cat=IAB1-5%2CIAB1-7&partner_domain=toongoggles.com&content_dist_name=internal&device_make=&device_model=&device_os=web&device_language=en&preferred_language=EN&gdpr=0&custom_12=0&custom_15=en&custom_16=EN&custom_17=es&country=cl&country_region=biobio&postal_code=&site_page=https%253A%252F%252Fwww.toongoggles.com%252Flinear%252Fpitufo-tv&sdid=26b0740b-eb1c-45e1-edfc-78345a54b716&preroll_duration=30&preroll=1&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&timestamp=1795048609&id=273085&ip=190.160.217.132&override_expiration=1500&sign=bnGrZ%2Bbh%2BAWm2A4lm8f%2FqDNyraiUDHoO8jEHs6JEY2A%3D
-
-#https://mi-television.com/envivo.php
-#EXTINF:-1 tvg-logo="https://www.mi-television.com/img/logocumplea%C3%B1os.png" group-title="Retro Toons TV",Mi Television Clasica
-https://mitv.getstreamhosting.com:1936/live/ngrp:live_all/chunklist_w1986683452_b2202794.m3u8
-
-#http://teleclasica.com/
-#EXTINF:-1 tvg-logo="http://teleclasica.com/wp-content/uploads/2025/01/OTHER.png" group-title="Retro Toons TV",Tele Clasica
-https://vtm1.msinteractiva.com/teleclasica/teleclasica/playlist.m3u8
-
-#https://cncity.live/
-#EXTINF:-1 tvg-logo="https://cncity.live/assets/logo.png" group-title="Retro Toons TV",CN City
-https://envivo.cncity.live/hls/envivo.m3u8
-
-#https://m3u.cl/canales-iptv.php
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png" group-title="Retro Toons TV",Retro plus TV
-https://video06.logicahost.com.br/aretroplustv01/aretroplustv01/playlist.m3u8
-#https://video06.logicahost.com.br/aretroplustv01/aretroplustv01/main_stream.m3u8
-
-#https://gia.tv/watchssh101.php?pptv=210858
-#EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/210858.png?1795043759" group-title="Retro Toons TV",Cuentos de la Cripta
-https://183.giatvcdn.com/giatvplayout7/giatv-210858/playlist.m3u8
-
-#https://www.vivalivetv.com/channel/tele
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3945-294x165-FFFFFF.jpg" group-title="Retro Toons TV",Tele Mas
-https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8
-
-# **********************************
-# **********************************
-
-# 📺 Locomotion Lista
-# 📜 LISTA M3U (IPTV) http://locomotiontv.com/envivo/xtv/m3u
-# 📅 GUÍA XMLTV (EPG): http://epg.locomotiontv.com/guia.xml
-
-#EXTINF:-1 tvg-name="Locomotion" tvg-id="Locomotion" tvg-logo="http://locomotiontv.com/locomotion/logo.png" group-title="Anime",Locomotion (Principal)
-http://51.222.85.85:81/hls/loco/index.m3u8
-
-#EXTINF:-1 tvg-name="Locomotion" tvg-id="Locomotion" tvg-logo="http://locomotiontv.com/locomotion/logo.png" group-title="Anime",Locomotion (High Quality)
-http://146.19.49.197:81/live/loco_hi/index.m3u8
-
-#EXTINF:-1 tvg-name="Locomotion" tvg-id="Locomotion" tvg-logo="http://locomotiontv.com/locomotion/logo.png" group-title="Anime",Locomotion (Low Quality)
-http://146.19.49.197:81/live/loco_low/index.m3u8
-
-#EXTINF:-1 tvg-name="Locomotion" tvg-id="Locomotion" tvg-logo="http://locomotiontv.com/locomotion/logo.png" group-title="Anime",Locomotion (Adaptable)
-http://146.19.49.197:81/live/loco.m3u8
-
-#EXTINF:-1 tvg-name="AnimeZoneTV" tvg-id="AZTV" tvg-logo="http://locomotiontv.com/locomotion/aztv_logo.png" group-title="Anime",AnimeZoneTV
-http://animezonetv.com/hls/stream.m3u8
-
-#EXTINF:-1 tvg-name="Anime XTV" tvg-id="animextv" tvg-logo="http://locomotiontv.com/locomotion/aztv_logo.png" group-title="Anime",Anime XTV (High Server 1)
-http://animezonetv.net:81/live_hls/animetest/index.m3u8
-
-#EXTINF:-1 tvg-name="Anime XTV" tvg-id="animextv" tvg-logo="http://locomotiontv.com/locomotion/aztv_logo.png" group-title="Anime",Anime XTV (High Server 2)
-http://146.19.49.197:81/live/animextv_hi/index.m3u8
 
 # **********************************
 # **********************************
@@ -322,6 +219,109 @@ https://unlimited1-cl-isp.dps.live/isb/isb.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="IPTV Free List" tvg-logo="https://127.0.0.1",VClassicTV | CL
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
+
+# **********************************
+# **********************************
+
+#http://locomotiontv.com | (Adaptable)
+#EXTINF:-1 tvg-logo="http://locomotiontv.com/locomotion/logo.png" group-title="Retro Toons TV",Locomotion - [No 24/7]
+#http://51.222.85.85:81/hls/loco/index.m3u8 (Principal)
+#http://146.19.49.197:81/live/loco_hi/index.m3u8 (High Quality)
+#http://146.19.49.197:81/live/loco_low/index.m3u8 (Low Quality)
+http://146.19.49.197:81/live/loco.m3u8
+
+#http://animezonetv.com |  (High Server 1)
+#EXTINF:-1 tvg-logo="http://locomotiontv.com/locomotion/aztv_logo.png" group-title="Retro Toons TV",Anime Zone - [No 24/7]
+#http://animezonetv.com/hls/stream.m3u8 AnimeZoneTV
+http://animezonetv.net:81/live_hls/animetest/index.m3u8
+#http://146.19.49.197:81/live/animextv_hi/index.m3u8 (High Server 2)
+
+#https://gia.tv/watchssh101.php?sn=MYJETIXRETRO
+#EXTINF:-1 tvg-logo="https://www.liblogo.com/img-logo/je8854j1dc-jetix-logo-jetix-logo-2013-by-miicentral-on-.png" group-title="Retro Toons TV",Jetix - [No 24/7]
+https://183.giatvcdn.com/giatv/giatv-MYJETIXRETRO/MYJETIXRETRO/chunks.m3u8
+
+#https://ssh101.com/
+#https://gia.tv/watchssh101.php?nmid=foxkids2
+#https://foxkids.site/lite/
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XxmHswJQ/FOX-Kids-logo-svg.png" group-title="Retro Toons TV",Fox Kids 2 - [No 24/7]
+https://183.giatvcdn.com/ssh101/ssh101/foxkids2/playlist.m3u8
+
+#https://gia.tv/watchssh101.php?pvod=209474
+#EXTINF:-1 tvg-logo="https://gia.tv/streams/pvod/209474.png?1795047860" group-title="Retro Toons TV",Teleanimemania España VOD - [No 24/7]
+https://183.giatvcdn.com/giatvplayout/giatvvod/giatv/movies/pvod/209474/Sherlock_Holmes_1x01_Las_cuatro_firmas___Castellano_y_Galego.mp4/playlist.m3u8
+
+#https://gia.tv/watchssh101.php?pptv=211565
+#EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/211565.png?1795048119" group-title="Retro Toons TV",TV Grupo Medios Mendoza Anime - [No 24/7]
+https://183.giatvcdn.com/giatvplayout7/giatv-211565/playlist.m3u8
+
+#https://chiletvapp.com
+#EXTINF:-1 tvg-logo="https://www.chiletvapp.com/panel/uploads/tv_6a8277aeb3765.jpg" group-title="Retro Toons TV",El Chavo Animado
+https://hls.chiletvapp.com/elchavo/stream.m3u8
+
+#https://www.vivalivetv.com/channel/best-clasicos-tv
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3896-294x165-FFFFFF.jpg" group-title="Retro Toons TV",Best Clasicos TV
+https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
+
+#https://autom3u.com/es/channels/76b094ab-39e7-52e4-9fb6-fbfaa48657aa
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9tw109hL2O-mKbMt9e5ixxACQiaqRdB82yK8qiQ3C_ShCzz5YMhioFP6K&s=10" group-title="Retro Toons TV",Dreiko TV
+https://cloudvideo.servers10.com:8081/8020/index.m3u8
+
+#https://www.toongoggles.com/linear/pitufo-tv
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/tg/linear_channel/thumbnails/widescreen/k0UC6i-MUyyL25pRw2uuulUiBw1AluUVJQhZ65VxwjA.jpg" group-title="Retro Toons TV",TV Los Pitufo
+https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=11855&coppa=1&is_lat=1&dnt=1&td=6&us_privacy=1NNN&delivery_type=fast&did=&ifa_type=sessionid&app_bundle=&app_store_url=&app_domain=toongoggles.com&app_name=Toon%20Goggles&custom_targeting=web&delivery_partner=internal&custom_4=internal&player_height=720&player_width=1280&content_channel=ToonGoggles&content_network=ToonGoggles&content_language=en&content_cat=IAB1-5%2CIAB1-7&partner_domain=toongoggles.com&content_dist_name=internal&device_make=&device_model=&device_os=web&device_language=en&preferred_language=EN&gdpr=0&custom_12=0&custom_15=en&custom_16=EN&custom_17=es&country=cl&country_region=biobio&postal_code=&site_page=https%253A%252F%252Fwww.toongoggles.com%252Flinear%252Fpitufo-tv&sdid=26b0740b-eb1c-45e1-edfc-78345a54b716&preroll_duration=30&preroll=1&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&timestamp=1795048609&id=273085&ip=190.160.217.132&override_expiration=1500&sign=bnGrZ%2Bbh%2BAWm2A4lm8f%2FqDNyraiUDHoO8jEHs6JEY2A%3D
+
+#https://mi-television.com/envivo.php
+#EXTINF:-1 tvg-logo="https://www.mi-television.com/img/logocumplea%C3%B1os.png" group-title="Retro Toons TV",Mi Television Clasica
+https://mitv.getstreamhosting.com:1936/live/ngrp:live_all/chunklist_w1986683452_b2202794.m3u8
+
+#http://teleclasica.com/
+#EXTINF:-1 tvg-logo="http://teleclasica.com/wp-content/uploads/2025/01/OTHER.png" group-title="Retro Toons TV",Tele Clasica
+https://vtm1.msinteractiva.com/teleclasica/teleclasica/playlist.m3u8
+
+#https://cncity.live/
+#EXTINF:-1 tvg-logo="https://cncity.live/assets/logo.png" group-title="Retro Toons TV",CN City
+https://envivo.cncity.live/hls/envivo.m3u8
+
+#https://m3u.cl/canales-iptv.php
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png" group-title="Retro Toons TV",Retro plus TV
+https://video06.logicahost.com.br/aretroplustv01/aretroplustv01/playlist.m3u8
+#https://video06.logicahost.com.br/aretroplustv01/aretroplustv01/main_stream.m3u8
+
+#https://gia.tv/watchssh101.php?pptv=210858
+#EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/210858.png?1795043759" group-title="Retro Toons TV",Cuentos de la Cripta
+https://183.giatvcdn.com/giatvplayout7/giatv-210858/playlist.m3u8
+
+#https://www.vivalivetv.com/channel/tele
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3945-294x165-FFFFFF.jpg" group-title="Retro Toons TV",Tele Mas
+https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8
+
+# **********************************
+# **********************************
+
+# 📺 Locomotion Lista
+# 📜 LISTA M3U (IPTV) http://locomotiontv.com/envivo/xtv/m3u
+# 📅 GUÍA XMLTV (EPG): http://epg.locomotiontv.com/guia.xml
+
+#EXTINF:-1 tvg-name="Locomotion" tvg-id="Locomotion" tvg-logo="http://locomotiontv.com/locomotion/logo.png" group-title="Anime",Locomotion (Principal)
+http://51.222.85.85:81/hls/loco/index.m3u8
+
+#EXTINF:-1 tvg-name="Locomotion" tvg-id="Locomotion" tvg-logo="http://locomotiontv.com/locomotion/logo.png" group-title="Anime",Locomotion (High Quality)
+http://146.19.49.197:81/live/loco_hi/index.m3u8
+
+#EXTINF:-1 tvg-name="Locomotion" tvg-id="Locomotion" tvg-logo="http://locomotiontv.com/locomotion/logo.png" group-title="Anime",Locomotion (Low Quality)
+http://146.19.49.197:81/live/loco_low/index.m3u8
+
+#EXTINF:-1 tvg-name="Locomotion" tvg-id="Locomotion" tvg-logo="http://locomotiontv.com/locomotion/logo.png" group-title="Anime",Locomotion (Adaptable)
+http://146.19.49.197:81/live/loco.m3u8
+
+#EXTINF:-1 tvg-name="AnimeZoneTV" tvg-id="AZTV" tvg-logo="http://locomotiontv.com/locomotion/aztv_logo.png" group-title="Anime",AnimeZoneTV
+http://animezonetv.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-name="Anime XTV" tvg-id="animextv" tvg-logo="http://locomotiontv.com/locomotion/aztv_logo.png" group-title="Anime",Anime XTV (High Server 1)
+http://animezonetv.net:81/live_hls/animetest/index.m3u8
+
+#EXTINF:-1 tvg-name="Anime XTV" tvg-id="animextv" tvg-logo="http://locomotiontv.com/locomotion/aztv_logo.png" group-title="Anime",Anime XTV (High Server 2)
+http://146.19.49.197:81/live/animextv_hi/index.m3u8
 
 # **********************************
 # **********************************
