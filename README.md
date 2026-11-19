@@ -30,11 +30,6 @@ https://raw.githubusercontent.com/dzh0ni/iPTV-FREE-LIST/master/iPTV-Free-List_TV
 - [IPTV Stream Player](https://iptv-stream-player.en.uptodown.com/android) — Cuentas xTream Codes
 - [IPTV Pro](https://play.google.com/store/apps/details?id=ru.iptvremote.android.iptv.pro&hl=es_CL) — Listas M3U/M3U8 (De paga)
 
-
-## 💻 Recursos web
-
-👉 [Abrir Free IPTV](https://freeiptv.app/)
-
 ---
 
 ## 📡 lista iptv-org
