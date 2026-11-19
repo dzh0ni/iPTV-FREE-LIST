@@ -128,14 +128,15 @@ Listas de reproducción:
 
 | 🌐 Enlace | 📝 Nota |
 |---|---|
-| https://www.m3u.cl | Listas Chile - Legal |
-| https://www.pluto.tv/es | TV gratis legal |
-| https://app.plex.tv/desktop | Pelis y TV gratis legal |
-| https://plus.nasa.gov | NASA TV - Legal |
+| https://www.m3u.cl | Listas m3u gratis |
+| https://dearbulut.github.io/iptv/ | Web Player Online |
+| https://www.pluto.tv/es | TV gratis |
+| https://app.plex.tv/desktop | Peliculas y TV gratis |
+| https://plus.nasa.gov | NASA TV |
 | https://www.viendotele.cl | TV abierta chilena |
-| http://www.locomotiontv.com/envivo | Locomotion revival - Retro |
-| http://animezonetv.com | AnimeZone TV - Canal retro anime 24/7 |
-| https://play.mercadolibre.cl | Mercado Play - Legal Chile |
+| http://www.locomotiontv.com/envivo | Locomotion - Canal retro anime |
+| http://animezonetv.com | AnimeZone TV - Canal retro anime |
+| https://play.mercadolibre.cl | Mercado Play - Peliculas y Series |
 
 ## :star2: Contribuciones
 
