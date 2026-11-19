@@ -17,19 +17,18 @@
 # 01. 🇨🇱 IPTV Free List
 # 02. 📼 Retro Toons TV
 # 03. 📺 Anime
-# 04. 📻 Radios Chilenas
-# 05. 📺 Radios Chilenas con Video
-# 06. 📻 Radios Internacionales
-# 07. 📺 Radios Internacionales con Video
-# 08. 🎵 Canales de Música
-# 09. 🎶 Videos de Música
-# 10. ⚽ Canales de Deportes
+# 04. ⚽ Canales de Deportes
+# 05. 📻 Radios Chilenas
+# 06. 📺 Radios Chilenas con Video
+# 07. 📻 Radios Internacionales
+# 08. 📺 Radios Internacionales con Video
+# 09. 🎵 Canales de Musica
+# 10. 🎶 Videos de Musica
 # 11. 🌎 Canales de Costa Rica
 # 12. 🇲🇽 Canales Mexicanos
 # 13. 🇵🇪 Canales Peruanos
 # 14. 🇯🇵 Canales Japoneses
 # 15. 🌐 Canales Miscelaneos
-
 
 # **********************************
 # 📡 INICIO DE LA PLAYLIST
@@ -327,6 +326,15 @@ http://146.19.49.197:81/live/animextv_hi/index.m3u8
 # **********************************
 # **********************************
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8cnXJcu.png" group-title="Canales de Deportes", Red Bull TV | FHD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KO9XhLU.png" group-title="Canales de Deportes", Sporting | HD
+http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+
+# **********************************
+# **********************************
+
 #EXTINF:-1 tvg-logo="" group-title="Radios Chilenas", Radio Nuevo Mundo (88.9 FM Ovalle)
 http://190.82.105.90:8012/stream/1/
 
@@ -578,15 +586,6 @@ https://ia601506.us.archive.org/5/items/BonusProject11/Bonus%20Project%2011.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Video Musica",Bonus Project 14 - Salsa Mix
 https://ia601508.us.archive.org/26/items/BonusProject14/Bonus%20Project%2014.mp4
-
-# **********************************
-# **********************************
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8cnXJcu.png" group-title="Canales de Deportes", Red Bull TV | FHD
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KO9XhLU.png" group-title="Canales de Deportes", Sporting | HD
-http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 
 # **********************************
 # **********************************
