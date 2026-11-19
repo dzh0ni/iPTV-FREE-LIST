@@ -14,24 +14,13 @@ Lista de reproducción de IPTV para `todo público`
 ```bash
 https://raw.githubusercontent.com/dzh0ni/iPTV-FREE-LIST/master/iPTV-Free-List_TV.m3u
 ```
-
-Lista de reproducción de IPTV para `Adultos`
-```bash
-https://raw.githubusercontent.com/dzh0ni/iPTV-FREE-LIST/master/iPTV-Free-List_XXX.m3u
-```
-
-Lista de reproducción de IPTV para `Tv y Adultos`
-```bash
-https://raw.githubusercontent.com/dzh0ni/iPTV-FREE-LIST/master/iPTV-Free-List.m3u
-```
-
 :memo: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
 
 ## :tv: IPTV Player
 
 ### 💻 Windows
 
-- [IPTVnator](https://www.videohelp.com/software/IPTVnator) — Listas M3U/M3U8
+- [IPTVnator](https://4gray.github.io/iptvnator/download/) — Listas M3U/M3U8
 - [IPTV Smarters Pro](https://iptv-smarters-pro.en.uptodown.com/windows) — Cuentas xTream
 - [IPTV Stream Player](https://iptv-stream-player.en.uptodown.com/windows) — Cuentas xTream Codes
 
@@ -41,93 +30,6 @@ https://raw.githubusercontent.com/dzh0ni/iPTV-FREE-LIST/master/iPTV-Free-List.m3
 - [IPTV Stream Player](https://iptv-stream-player.en.uptodown.com/android) — Cuentas xTream Codes
 - [IPTV Pro](https://play.google.com/store/apps/details?id=ru.iptvremote.android.iptv.pro&hl=es_CL) — Listas M3U/M3U8 (De paga)
 
-## :desktop_computer: Aplicaciones y recursos avanzados
-
-👉 [Abrir README-2.md](README-2.md)
-
-## :desktop_computer: Recursos web
-
-👉 [Abrir Free IPTV](https://freeiptv.app/)
-
-## :satellite: lista iptv-org
-* [GitHub](https://github.com/iptv-org/iptv) - Proyecto Oficial 
-
-<details>
-<summary>Expandir para ver lista de enlaces y contenido</summary>
-<br>
-
-Lista de reproducción principal 
-```bash
-https://iptv-org.github.io/iptv/index.m3u
-```
-Agrupados por categoría 
-```bash
-https://iptv-org.github.io/iptv/index.category.m3u
-```
-Agrupados por idioma 
-```bash
-https://iptv-org.github.io/iptv/index.language.m3u
-```
-Agrupados por país 
-```bash
-https://iptv-org.github.io/iptv/index.country.m3u
-```
-Lista IPTV Lenguaje Español
-```bash
-https://iptv-org.github.io/iptv/languages/spa.m3u
-```
- 
-</details>
-
-## :satellite: lista Free-TV
-* [GitHub](https://github.com/Free-TV/IPTV) - Proyecto Oficial 
-
-<details>
-<summary>Expandir para ver lista de enlaces y contenido</summary>
-<br>
-
-Listas de reproducción:
-
-Free TV
-```bash
-https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
-```
-</details>
-
-## :satellite: lista m3u-cl 
-* [Pagina web](https://m3u.cl) - Proyecto Oficial 
-
-<details>
-<summary>Expandir para ver lista de enlaces y contenido</summary>
-<br>
-
-Listas de reproducción:
-
-M3U Chile
-```bash
-https://m3u.cl/lista/CL.m3u
-```
-Lista IPTV Música
-```bash
-https://m3u.cl/lista/musica.m3u
-```
-Lista IPTV Religiosos
-```bash
-https://m3u.cl/lista/religiosos.m3u
-```
-Lista IPTV Adultos
-```bash
-https://m3u.cl/lista/XXX.m3u
-```
-Lista IPTV TOP
-```bash
-https://m3u.cl/lista/top.m3u
-```
-Lista IPTV Total
-```bash
-https://m3u.cl/lista/total.m3u
-```
-</details>
 
 ## 📺 Contenido en línea de iPTV
 
@@ -167,70 +69,16 @@ https://m3u.cl/lista/total.m3u
 
 ## 📡 iPTV Online 🌐
 
-| 🌐 Enlace |
-|---|
-| https://www.lookhu.tv |
-| https://www.cxtvenvivo.com |
-| https://www.m3u.cl |
-| https://www.pluto.tv/es |
-| https://app.plex.tv/desktop |
-| https://plus.nasa.gov |
-| https://www.viendotele.cl |
-| http://www.locomotiontv.com/envivo |
-
-## 🎞️ Películas, Series, Anime y Más 🍿
-
-### 🎬 Pelisplus
-
-| 🍿 Enlace |
-|---|
-| https://www17.pelisplushd.to |
-| https://www.peelink2.com/inicio |
-
-### 🎬 Cuevana
-
-| 🍿 Enlace |
-|---|
-| https://cuevanae.im/ |
-
-### 🎬 Gnula
-
-| 🍿 Enlace |
-|---|
-| https://www2.gnula.one/ |
-| https://wnv5.gnula.cc/ |
-
-### 🔗 Extras
-
-| 🍿 Enlace |
-|---|
-| https://series24.im/ |
-| https://www.series24.sbs/ |
-| https://www.lacartoons.com |
-| https://play.mercadolibre.cl |
-
-### 🍥 Anime
-
-| 🧠 Enlace |
-|---|
-| https://animeflv.ro |
-| https://animeflv.uno |
-| https://ww3.animeonline.ninja |
-| https://vvv.animeyt.one |
-| https://tioanime.com |
-
-### 🔞 Hentai
-
-| 🔥 Enlace |
-|---|
-| https://www2.verhentai.top |
-| https://www.veohentai.com/genero/hentai-sin-censura |
-| https://hentaijk.com |
-| https://hentaijl.com |
-
-## :file_folder: Proyectos útiles
-
-- **xTream-UI-r22f:** [Ver Repositorio](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/tree/master/xTream-UI-r22f)
+| 🌐 Enlace | 📝 Nota |
+|---|---|
+| https://www.m3u.cl | Listas Chile - Legal |
+| https://www.pluto.tv/es | TV gratis legal |
+| https://app.plex.tv/desktop | Pelis y TV gratis legal |
+| https://plus.nasa.gov | NASA TV - Legal |
+| https://www.viendotele.cl | TV abierta chilena |
+| http://www.locomotiontv.com/envivo | Locomotion revival - Retro |
+| http://animezonetv.com | AnimeZone TV - Canal retro anime 24/7 |
+| https://play.mercadolibre.cl | Mercado Play - Legal Chile |
 
 ## :star2: Contribuciones
 
