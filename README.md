@@ -32,7 +32,7 @@ https://raw.githubusercontent.com/dzh0ni/iPTV-FREE-LIST/master/iPTV-Free-List_TV
 
 ---
 
-## 📡 lista iptv-org
+## 📡 lista github.com/iptv-org
 * [GitHub](https://github.com/iptv-org/iptv) - Proyecto Oficial
 
 <details>
@@ -51,7 +51,7 @@ https://raw.githubusercontent.com/dzh0ni/iPTV-FREE-LIST/master/iPTV-Free-List_TV
 
 ---
 
-## 📡 lista Free-TV
+## 📡 lista github.com/Free-TV
 * [GitHub](https://github.com/Free-TV/IPTV) - Proyecto Oficial
 
 <details>
@@ -68,7 +68,7 @@ Listas de reproducción:
 
 ---
 
-## 📡 lista m3u-cl
+## 📡 lista m3u.cl
 * [Pagina web](https://m3u.cl) - Proyecto Oficial
 
 <details>
