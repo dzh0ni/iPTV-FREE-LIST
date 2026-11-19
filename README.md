@@ -129,7 +129,7 @@ Listas de reproducción:
 
 </details>
 
-## 📡 Contenido Online 🌐
+📡 **Contenido Online** 🌐
 
 | 🌐 Enlace | 📝 Nota |
 |---|---|
