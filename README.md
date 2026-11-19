@@ -4,9 +4,9 @@
 
 ## :information_source: Descripción
 
-Una recopilación de enlaces útiles para disfrutar de contenido en línea: IPTV, películas, series, anime, hentai, radios y más. Todo en un solo lugar.
+Una recopilación de enlaces **100% legales y gratuitos** para disfrutar de TV en vivo, radios y contenido abierto. Todo en un solo lugar.
 
-Esta lista proporciona una variedad de opciones para ver y escuchar contenido multimedia desde tu dispositivo. Incluye enlaces a plataformas populares de transmisión de televisión en vivo, así como estaciones de radio en línea. Es una excelente fuente para quienes buscan acceder a contenido gratuito y diverso sin necesidad de una suscripción paga.
+Listas M3U públicas, proyectos open source y radios online de todo el mundo. Ideal para usar con tu player favorito, sin suscripciones.
 
 ## :satellite: Tipo de lista
 
