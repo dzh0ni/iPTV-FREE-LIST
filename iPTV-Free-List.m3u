@@ -63,11 +63,11 @@ https://183.giatvcdn.com/giatv/giatv-MYJETIXRETRO/MYJETIXRETRO/chunks.m3u8
 https://183.giatvcdn.com/ssh101/ssh101/foxkids2/playlist.m3u8
 
 #https://gia.tv/watchssh101.php?pvod=209474
-#EXTINF:-1 tvg-logo="Teleanimemania España VOD" group-title="Retro Toons TV",Mi TV - [No 24/7]
+#EXTINF:-1 tvg-logo="https://gia.tv/streams/pvod/209474.png?1795047860" group-title="Retro Toons TV",Teleanimemania España VOD - [No 24/7]
 https://183.giatvcdn.com/giatvplayout/giatvvod/giatv/movies/pvod/209474/Sherlock_Holmes_1x01_Las_cuatro_firmas___Castellano_y_Galego.mp4/playlist.m3u8
 
 #https://gia.tv/watchssh101.php?pptv=211565
-#EXTINF:-1 tvg-logo="http://.png" group-title="Retro Toons TV",TV Grupo Medios Mendoza Anime - [No 24/7]
+#EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/211565.png?1795048119" group-title="Retro Toons TV",TV Grupo Medios Mendoza Anime - [No 24/7]
 https://183.giatvcdn.com/giatvplayout7/giatv-211565/playlist.m3u8
 
 #https://chiletvapp.com
