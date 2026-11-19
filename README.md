@@ -16,19 +16,23 @@ https://raw.githubusercontent.com/dzh0ni/iPTV-FREE-LIST/master/iPTV-Free-List_TV
 ```
 :memo: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
 
-## :tv: IPTV Player
+# 📺 IPTV Player
 
-### 💻 Windows
+## 💻 Windows
 
-- [IPTVnator](https://4gray.github.io/iptvnator/download/) — Listas M3U/M3U8
-- [IPTV Smarters Pro](https://iptv-smarters-pro.en.uptodown.com/windows) — Cuentas xTream
-- [IPTV Stream Player](https://iptv-stream-player.en.uptodown.com/windows) — Cuentas xTream Codes
+| App | Acceso | Enlace |
+| :--- | :--- | :--- |
+| IPTVnator | M3U/M3U8 | [Descargar](https://4gray.github.io/iptvnator/download/) |
+| IPTV Smarters Pro | xTream Codes | [Descargar](https://iptv-smarters-pro.en.uptodown.com/windows) |
+| IPTV Stream Player | xTream Codes | [Descargar](https://iptv-stream-player.en.uptodown.com/windows) |
 
-### 🤖 Android
+## 🤖 Android
 
-- [IPTV Smarters Pro](https://iptv-smarters-pro.en.uptodown.com/android) — Cuentas xTream Codes
-- [IPTV Stream Player](https://iptv-stream-player.en.uptodown.com/android) — Cuentas xTream Codes
-- [IPTV Pro](https://play.google.com/store/apps/details?id=ru.iptvremote.android.iptv.pro&hl=es_CL) — Listas M3U/M3U8 (De paga)
+| App | Acceso | Enlace |
+| :--- | :--- | :--- |
+| IPTV Smarters Pro | xTream Codes | [Descargar](https://iptv-smarters-pro.en.uptodown.com/android) |
+| IPTV Stream Player | xTream Codes | [Descargar](https://iptv-stream-player.en.uptodown.com/android) |
+| IPTV Pro | Listas M3U/M3U8 (De paga) | [Google Play](https://play.google.com/store/apps/details?id=ru.iptvremote.android.iptv.pro&hl=es_CL) |
 
 ---
 
