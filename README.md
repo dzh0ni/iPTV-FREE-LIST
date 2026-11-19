@@ -86,8 +86,9 @@ Listas de reproducción:
 | M3U Chile | `https://m3u.cl/lista/CL.m3u` |
 | Lista IPTV Música | `https://m3u.cl/lista/musica.m3u` |
 | Lista IPTV Religiosos | `https://m3u.cl/lista/religiosos.m3u` |
-| Lista IPTV Adultos | `https://m3u.cl/lista/XXX.m3u` |
 | Lista IPTV TOP | `https://m3u.cl/lista/top.m3u` |
+| Lista IPTV LATAM | `https://m3u.cl/lista/LATAM.m3u` |
+| Lista IPTV Adultos | `https://m3u.cl/lista/XXX.m3u` |
 | Lista IPTV Total | `https://m3u.cl/lista/total.m3u` |
 
 </details>
