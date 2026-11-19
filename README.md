@@ -32,7 +32,7 @@ https://raw.githubusercontent.com/dzh0ni/iPTV-FREE-LIST/master/iPTV-Free-List_TV
 | :--- | :--- | :--- |
 | IPTV Smarters Pro | xTream Codes | [Descargar](https://iptv-smarters-pro.en.uptodown.com/android) |
 | IPTV Stream Player | xTream Codes | [Descargar](https://iptv-stream-player.en.uptodown.com/android) |
-| IPTV Pro | M3U/M3U8/xTream Codes (De paga) | [Google Play](https://play.google.com/store/apps/details?id=ru.iptvremote.android.iptv.pro&hl=es_CL) |
+| IPTV Pro | M3U/M3U8 + Xtream Codes (De paga) | [Google Play](https://play.google.com/store/apps/details?id=ru.iptvremote.android.iptv.pro&hl=es_CL) |
 
 ---
 
@@ -141,6 +141,7 @@ Listas de reproducción:
 | https://www.viendotele.cl | TV abierta chilena |
 | http://www.locomotiontv.com/envivo | Locomotion - Canal retro anime |
 | http://animezonetv.com | AnimeZone TV - Canal retro anime |
+| http://animezonetv.net | AnimeZone TV - Canal retro anime |
 | https://play.mercadolibre.cl | Mercado Play - Peliculas y Series |
 
 ## :star2: Contribuciones
