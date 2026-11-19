@@ -28,8 +28,70 @@ https://raw.githubusercontent.com/dzh0ni/iPTV-FREE-LIST/master/iPTV-Free-List_TV
 
 - [IPTV Smarters Pro](https://iptv-smarters-pro.en.uptodown.com/android) — Cuentas xTream Codes
 - [IPTV Stream Player](https://iptv-stream-player.en.uptodown.com/android) — Cuentas xTream Codes
-- [IPTV Pro](https://play.google.com/store/apps/details?id=ru.iptvremote.android.iptv.pro&hl=es_CL) — Listas M3U/M3U8 (De paga)
+- [IPTV Pro](https://play.google.com/store/apps/details?id=ru.iptvremote.android.iptv.pro&hl=es_CL) — Listas M3U/M3U8/xTream (De paga)
 
+
+## 💻 Recursos web
+
+👉 [Abrir Free IPTV](https://freeiptv.app/)
+
+---
+
+## 📡 lista iptv-org
+* [GitHub](https://github.com/iptv-org/iptv) - Proyecto Oficial
+
+<details>
+<summary>Expandir para ver lista de enlaces y contenido</summary>
+<br>
+
+| Lista | URL |
+| :--- | :--- |
+| Lista de reproducción principal | `https://iptv-org.github.io/iptv/index.m3u` |
+| Agrupados por categoría | `https://iptv-org.github.io/iptv/index.category.m3u` |
+| Agrupados por idioma | `https://iptv-org.github.io/iptv/index.language.m3u` |
+| Agrupados por país | `https://iptv-org.github.io/iptv/index.country.m3u` |
+| Lista IPTV Lenguaje Español | `https://iptv-org.github.io/iptv/languages/spa.m3u` |
+
+</details>
+
+---
+
+## 📡 lista Free-TV
+* [GitHub](https://github.com/Free-TV/IPTV) - Proyecto Oficial
+
+<details>
+<summary>Expandir para ver lista de enlaces y contenido</summary>
+<br>
+
+Listas de reproducción:
+
+| Lista | URL |
+| :--- | :--- |
+| Free TV | `https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8` |
+
+</details>
+
+---
+
+## 📡 lista m3u-cl
+* [Pagina web](https://m3u.cl) - Proyecto Oficial
+
+<details>
+<summary>Expandir para ver lista de enlaces y contenido</summary>
+<br>
+
+Listas de reproducción:
+
+| Lista | URL |
+| :--- | :--- |
+| M3U Chile | `https://m3u.cl/lista/CL.m3u` |
+| Lista IPTV Música | `https://m3u.cl/lista/musica.m3u` |
+| Lista IPTV Religiosos | `https://m3u.cl/lista/religiosos.m3u` |
+| Lista IPTV Adultos | `https://m3u.cl/lista/XXX.m3u` |
+| Lista IPTV TOP | `https://m3u.cl/lista/top.m3u` |
+| Lista IPTV Total | `https://m3u.cl/lista/total.m3u` |
+
+</details>
 
 ## 📺 Contenido en línea de iPTV
 
