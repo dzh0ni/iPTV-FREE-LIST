@@ -129,7 +129,7 @@ Listas de reproducción:
 
 </details>
 
-## 📡 iPTV Online 🌐
+## 📡 Contenido Online 🌐
 
 | 🌐 Enlace | 📝 Nota |
 |---|---|
