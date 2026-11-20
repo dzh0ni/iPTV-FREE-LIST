@@ -4,9 +4,15 @@
 
 ## :information_source: Descripción
 
-Una recopilación de enlaces **100% legales y gratuitos** para disfrutar de TV en vivo, radios y contenido abierto. Todo en un solo lugar.
+Una recopilación de enlaces **públicos y de acceso abierto** para disfrutar de TV en vivo, radios y contenido abierto. Todo en un solo lugar.
 
 Listas M3U públicas, proyectos open source y radios online de todo el mundo. Ideal para usar con tu player favorito, sin suscripciones.
+
+## :warning: Aviso
+
+Este repositorio solo **recopila y referencia enlaces** de terceros. No aloja, transmite ni redistribuye contenido audiovisual. Todo el contenido pertenece a sus respectivos titulares. Cada enlace apunta a su fuente original y el uso que se haga de ellos es responsabilidad de quien los utiliza.
+
+Verificar la disponibilidad de cada enlace corresponde al usuario. Algunos enlaces pueden requerir conexión cifrada (HTTPS) o extensiones de bloqueo de anuncios para una mejor experiencia.
 
 ## :satellite: Tipo de lista
 
@@ -15,6 +21,17 @@ Lista de reproducción de IPTV para `todo público`
 https://raw.githubusercontent.com/dzh0ni/iPTV-FREE-LIST/master/iPTV-Free-List_TV.m3u
 ```
 :memo: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
+
+## ▶️ Reproducir en el navegador (sin instalar nada)
+
+Puedes cargar cualquier lista M3U en un reproductor web:
+
+1. Abre [Free IPTV Player](https://freeiptvplayer.net/iptv-player/)
+2. Pega la URL de una lista (o sube el archivo `.m3u`)
+3. Listo, reproduce.
+
+> ⚠️ Reproductor de terceros, no afiliado a este repositorio.
+> Tu conexión y las URLs cargadas pasan por ese servicio.
 
 # 📺 IPTV Player
 
