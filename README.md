@@ -157,9 +157,9 @@ Listas de reproducción:
 | https://app.plex.tv/desktop | Peliculas y TV gratis |
 | https://plus.nasa.gov | NASA TV |
 | https://www.viendotele.cl | TV abierta chilena |
-| http://www.locomotiontv.com/envivo | Locomotion retro anime — enlace HTTP, sin cifrado |
-| http://animezonetv.com | AnimeZone TV retro anime — enlace HTTP, sin cifrado |
-| http://animezonetv.net | AnimeZone TV retro anime — enlace HTTP, sin cifrado |
+| http://www.locomotiontv.com/envivo | Locomotion — enlace HTTP, sin cifrado |
+| http://animezonetv.com | AnimeZone TV — enlace HTTP, sin cifrado |
+| http://animezonetv.net | AnimeZone TV — enlace HTTP, sin cifrado |
 | https://play.mercadolibre.cl | Mercado Play - Peliculas y Series |
 
 ## :star2: Contribuciones
