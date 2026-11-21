@@ -220,30 +220,30 @@ https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
 # **********************************
 # **********************************
 
-#https://serenotv.com/canal/retro-toons/
+# https://serenotv.com/canal/retro-toons/
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2026/03/209343-150x84.png" group-title="Retro Toons TV",Retro Toons - [No 24/7]
 https://183.giatvcdn.com/ssh101/ssh101/retrotoons/playlist.m3u8
 
-#http://locomotiontv.com | (Adaptable)
+# http://locomotiontv.com | (Adaptable)
 #EXTINF:-1 tvg-logo="http://locomotiontv.com/locomotion/logo.png" group-title="Retro Toons TV",Locomotion - [No 24/7]
-#http://51.222.85.85:81/hls/loco/index.m3u8 (Principal)
-#http://146.19.49.197:81/live/loco_hi/index.m3u8 (High Quality)
-#http://146.19.49.197:81/live/loco_low/index.m3u8 (Low Quality)
+# http://51.222.85.85:81/hls/loco/index.m3u8 (Principal)
+# http://146.19.49.197:81/live/loco_hi/index.m3u8 (High Quality)
+# http://146.19.49.197:81/live/loco_low/index.m3u8 (Low Quality)
 http://146.19.49.197:81/live/loco.m3u8
 
-#http://animezonetv.com |  (High Server 1)
+# http://animezonetv.com |  (High Server 1)
 #EXTINF:-1 tvg-logo="http://locomotiontv.com/locomotion/aztv_logo.png" group-title="Retro Toons TV",Anime Zone - [No 24/7]
-#http://animezonetv.com/hls/stream.m3u8 AnimeZoneTV
+# http://animezonetv.com/hls/stream.m3u8 AnimeZoneTV
 http://animezonetv.net:81/live_hls/animetest/index.m3u8
-#http://146.19.49.197:81/live/animextv_hi/index.m3u8 (High Server 2)
+# http://146.19.49.197:81/live/animextv_hi/index.m3u8 (High Server 2)
 
-#https://gia.tv/watchssh101.php?sn=MYJETIXRETRO
+# https://gia.tv/watchssh101.php?sn=MYJETIXRETRO
 #EXTINF:-1 tvg-logo="https://www.liblogo.com/img-logo/je8854j1dc-jetix-logo-jetix-logo-2013-by-miicentral-on-.png" group-title="Retro Toons TV",Jetix - [No 24/7]
 https://183.giatvcdn.com/giatv/giatv-MYJETIXRETRO/MYJETIXRETRO/chunks.m3u8
 
-#https://ssh101.com/
-#https://gia.tv/watchssh101.php?nmid=foxkids2
-#https://foxkids.site/lite/
+# https://ssh101.com/
+# https://gia.tv/watchssh101.php?nmid=foxkids2
+# https://foxkids.site/lite/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XxmHswJQ/FOX-Kids-logo-svg.png" group-title="Retro Toons TV",Fox Kids 2 - [No 24/7]
 https://183.giatvcdn.com/ssh101/ssh101/foxkids2/playlist.m3u8
 
@@ -275,36 +275,36 @@ https://183.giatvcdn.com/ssh101/ssh101/dbsuperlat/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ssh101.com/img/tvwxfxxgo.jpg" group-title="Retro Toons TV",Wepa tv
 https://183.giatvcdn.com/ssh101/ssh101/tvwxfxxgo/playlist.m3u8
 
-#https://ssh101.com/
+# https://ssh101.com/
 #EXTINF:-1 tvg-logo="https://ssh101.com/img/simptestnews.jpg" group-title="Retro Toons TV",Simp Test News
 https://183.giatvcdn.com/ssh101/ssh101/simptestnews/playlist.m3u8
 
-#https://www.toongoggles.com/linear/pitufo-tv
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/tg/linear_channel/thumbnails/widescreen/k0UC6i-MUyyL25pRw2uuulUiBw1AluUVJQhZ65VxwjA.jpg" group-title="Retro Toons TV",TV Los Pitufo
-https://stream.ads.ottera.tv/cl/261119dbvib8lp7qts739tlhn0/960x540_1927200_1_f.m3u8
+# https://www.toongoggles.com/linear/pitufo-tv
+# EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/tg/linear_channel/thumbnails/widescreen/k0UC6i-MUyyL25pRw2uuulUiBw1AluUVJQhZ65VxwjA.jpg" group-title="Retro Toons TV",TV Los Pitufo
+# https://stream.ads.ottera.tv/cl/261119dbvib8lp7qts739tlhn0/960x540_1927200_1_f.m3u8
 
-#https://mi-television.com/envivo.php
+# https://mi-television.com/envivo.php
 #EXTINF:-1 tvg-logo="https://www.mi-television.com/img/logocumplea%C3%B1os.png" group-title="Retro Toons TV",Mi Television Clasica
 https://mitv.getstreamhosting.com:1936/live/ngrp:live_all/chunklist_w1986683452_b2202794.m3u8
 
-#http://teleclasica.com/
+# http://teleclasica.com/
 #EXTINF:-1 tvg-logo="http://teleclasica.com/wp-content/uploads/2025/01/OTHER.png" group-title="Retro Toons TV",Tele Clasica
 https://vtm1.msinteractiva.com/teleclasica/teleclasica/playlist.m3u8
 
-#https://cncity.live/
+# https://cncity.live/
 #EXTINF:-1 tvg-logo="https://cncity.live/assets/logo.png" group-title="Retro Toons TV",CN City
 https://envivo.cncity.live/hls/envivo.m3u8
 
-#https://m3u.cl/canales-iptv.php
+# https://m3u.cl/canales-iptv.php
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png" group-title="Retro Toons TV",Retro plus TV
 https://video06.logicahost.com.br/aretroplustv01/aretroplustv01/playlist.m3u8
-#https://video06.logicahost.com.br/aretroplustv01/aretroplustv01/main_stream.m3u8
+# https://video06.logicahost.com.br/aretroplustv01/aretroplustv01/main_stream.m3u8
 
-#https://gia.tv/watchssh101.php?pptv=210858
+# https://gia.tv/watchssh101.php?pptv=210858
 #EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/210858.png?1795043759" group-title="Retro Toons TV",Cuentos de la Cripta
 https://183.giatvcdn.com/giatvplayout7/giatv-210858/playlist.m3u8
 
-#https://www.vivalivetv.com/channel/tele
+# https://www.vivalivetv.com/channel/tele
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3945-294x165-FFFFFF.jpg" group-title="Retro Toons TV",Tele Mas
 https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8
 
