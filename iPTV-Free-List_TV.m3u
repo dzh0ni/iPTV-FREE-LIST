@@ -30,7 +30,7 @@
 # 12. 🇲🇽 Canales Mexicanos
 # 13. 🇵🇪 Canales Peruanos
 # 14. 🇯🇵 Canales Japoneses
-# 15. 🌐 Canales Miscelaneos
+# 15. 🌐 Canales Miscelaneos (No Clasificados)
 
 
 # **********************************
@@ -266,6 +266,10 @@ https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
 #https://autom3u.com/es/channels/76b094ab-39e7-52e4-9fb6-fbfaa48657aa
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9tw109hL2O-mKbMt9e5ixxACQiaqRdB82yK8qiQ3C_ShCzz5YMhioFP6K&s=10" group-title="Retro Toons TV",Dreiko TV
 https://cloudvideo.servers10.com:8081/8020/index.m3u8
+
+#https://autom3u.com/es/channels/76b094ab-39e7-52e4-9fb6-fbfaa48657aa
+#EXTINF:-1 tvg-logo="https://ssh101.com/img/dbsuperlat.jpg" group-title="Retro Toons TV",Dragon Ball Super Latino
+https://183.giatvcdn.com/ssh101/ssh101/&lt;your_channel&gt;/playlist.m3u8
 
 #https://www.toongoggles.com/linear/pitufo-tv
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/tg/linear_channel/thumbnails/widescreen/k0UC6i-MUyyL25pRw2uuulUiBw1AluUVJQhZ65VxwjA.jpg" group-title="Retro Toons TV",TV Los Pitufo
