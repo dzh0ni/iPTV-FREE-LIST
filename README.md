@@ -164,7 +164,14 @@ Listas de reproducción:
 
 ## :star2: Contribuciones
 
-Las contribuciones son bienvenidas. Si tienes ideas para mejorar este repositorio o encuentras algún problema, siéntete libre de abrir un *pull request* o *issue*.
+Las contribuciones son bienvenidas. Si tienes ideas para mejorar este repositorio o encuentras algún problema, siéntete libre de abrir un pull request o issue.
+Al enviar una contribución aceptas que se publique bajo la licencia de este repositorio.
+
+:scroll: Licencia
+
+Este repositorio (el código, la estructura y los textos) se publica bajo la licencia incluida en el archivo LICENSE.
+
+Las listas y enlaces de terceros pertenecen a sus respectivos autores y se rigen por las licencias de sus proyectos originales, no por la de este repositorio.
 
 ## :email: Contacto
 
