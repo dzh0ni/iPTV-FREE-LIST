@@ -40,6 +40,10 @@
 # **********************************
 # **********************************
 
+# https://dearbulut.github.io/iptv/?category=series&language=spa&all=1
+#EXTINF:-1 group-title="IPTV Free List" tvg-logo="https://i.imgur.com/9LEiQPJ.png",TVN 3 | CL
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
+
 #EXTINF:-1 group-title="IPTV Free List" tvg-logo="https://www.m3u.cl/logo/45_TV_Educa_Chile.png",TV Educa Chile * | CL
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8?PlaylistM3UCL
 
@@ -299,6 +303,10 @@ https://envivo.cncity.live/hls/envivo.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png" group-title="Retro Toons TV",Retro plus TV
 https://video06.logicahost.com.br/aretroplustv01/aretroplustv01/playlist.m3u8
 # https://video06.logicahost.com.br/aretroplustv01/aretroplustv01/main_stream.m3u8
+
+# https://dearbulut.github.io/iptv/?category=series&language=spa&all=1
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/2d/fa/25/2dfa25f5d2e4d5c19886a3a263706317.jpg" group-title="Retro Toons TV",LAMIL35 TV
+https://vtm2.msinteractiva.com/lamil35/lamil35/playlist.m3u8
 
 # https://gia.tv/watchssh101.php?pptv=210858
 #EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/210858.png?1795043759" group-title="Retro Toons TV",Cuentos de la Cripta
