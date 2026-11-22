@@ -312,7 +312,7 @@ https://vdochile.com:3864/stream/play.m3u8
 https://vtm2.msinteractiva.com/lamil35/lamil35/playlist.m3u8
 
 # https://dearbulut.github.io/iptv/?category=series&language=spa&all=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jdnHci0.png" group-title="Retro Toons TV",TVS Retro
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jdnHci0.png" group-title="Retro Toons TV",TVS Retro - [No 24/7]
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 
 # https://gia.tv/watchssh101.php?pptv=210858
