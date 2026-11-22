@@ -315,6 +315,10 @@ https://vtm2.msinteractiva.com/lamil35/lamil35/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jdnHci0.png" group-title="Retro Toons TV",TVS Retro - [No 24/7]
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 
+# https://m3u.cl/canal-iptv/518_TVS_Maracay
+#EXTINF:-1 tvg-logo="https://duckduckgo.com/i/a070cd75afadad24.png" group-title="Retro Toons TV",TVS
+https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8
+
 # https://gia.tv/watchssh101.php?pptv=210858
 #EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/210858.png?1795043759" group-title="Retro Toons TV",Cuentos de la Cripta
 https://183.giatvcdn.com/giatvplayout7/giatv-210858/playlist.m3u8
