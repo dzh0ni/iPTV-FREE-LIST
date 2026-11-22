@@ -269,7 +269,7 @@ https://hls.chiletvapp.com/elchavo/stream.m3u8
 https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
 
 #https://autom3u.com/es/channels/76b094ab-39e7-52e4-9fb6-fbfaa48657aa
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9tw109hL2O-mKbMt9e5ixxACQiaqRdB82yK8qiQ3C_ShCzz5YMhioFP6K&s=10" group-title="Retro Toons TV",Dreiko TV
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/52_Dreiko_TV.png" group-title="Retro Toons TV",Dreiko TV
 https://cloudvideo.servers10.com:8081/8020/index.m3u8
 
 #https://ssh101.com/
@@ -300,15 +300,6 @@ https://vtm1.msinteractiva.com/teleclasica/teleclasica/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cncity.live/assets/logo.png" group-title="Retro Toons TV",CN City
 https://envivo.cncity.live/hls/envivo.m3u8
 
-# https://m3u.cl/canales-iptv.php
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png" group-title="Retro Toons TV",Retro plus TV
-https://video06.logicahost.com.br/aretroplustv01/aretroplustv01/playlist.m3u8
-# https://video06.logicahost.com.br/aretroplustv01/aretroplustv01/main_stream.m3u8
-
-# https://dearbulut.github.io/iptv/?category=series&language=spa&all=1
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1765_Retromusica_Television.png" group-title="Retro Toons TV",Retromusica Television
-https://vdochile.com:3864/stream/play.m3u8
-
 # https://dearbulut.github.io/iptv/?category=series&language=spa&all=1
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/2d/fa/25/2dfa25f5d2e4d5c19886a3a263706317.jpg" group-title="Retro Toons TV",LAMIL35 TV
 https://vtm2.msinteractiva.com/lamil35/lamil35/playlist.m3u8
@@ -328,6 +319,26 @@ https://183.giatvcdn.com/giatvplayout7/giatv-210858/playlist.m3u8
 # https://www.vivalivetv.com/channel/tele
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3945-294x165-FFFFFF.jpg" group-title="Retro Toons TV",Tele Mas
 https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8
+
+# https://m3u.cl/canal-iptv/1112_EnerGeek_FAN
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1112_EnerGeek_FAN.png" group-title="Retro Toons TV",EnerGeek FAN
+https://cl-2.backend.energeek.cl/bkp/egfanweb/index.m3u8?token=D3m0M3UCLWeb
+
+# https://m3u.cl/canal-iptv/947_EnerGeek
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/947_EnerGeek.png" group-title="Retro Toons TV",EnerGeek
+https://cl-2.backend.energeek.cl/bkp/egretroweb/index.m3u8?token=D3m0M3UCLWeb
+
+# https://m3u.cl/canales-iptv.php
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png" group-title="Retro Toons TV",Retro plus TV
+https://video06.logicahost.com.br/aretroplustv01/aretroplustv01/playlist.m3u8
+# https://video06.logicahost.com.br/aretroplustv01/aretroplustv01/main_stream.m3u8
+
+# https://dearbulut.github.io/iptv/?category=series&language=spa&all=1
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1765_Retromusica_Television.png" group-title="Retro Toons TV",Retromusica Television
+https://vdochile.com:3864/stream/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1266_EnerGeek_Radio.png" group-title="Retro Toons TV",EnerGeek Radio
+https://cl-2.backend.energeek.cl/bkp/egradioweb/index.m3u8?token=D3m0M3UCLWeb
 
 # **********************************
 # **********************************
