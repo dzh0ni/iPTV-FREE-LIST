@@ -1,20 +1,19 @@
 #EXTM3U
 
-# **********************************
+# ============================================================
 # 📺 CANALES DE TV Y RADIOS ONLINE
-# **********************************
+# ============================================================
 # 🔥 Recopilado por: dZh0ni
 # ⚖️ Licencia: MIT © 2026 dZh0ni
 # 🌐 Contacto: https://t.me/dZh0ni_Dev
 # 🌐 Grupo: https://t.me/iPTV_Free_List
 # 🎥 Playlist: https://raw.githubusercontent.com/dzh0ni/iPTV-FREE-LIST/master/iPTV-Free-List_TV.m3u
 # 📲 Compatible con: PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
-# **********************************
+# ============================================================
 
-# **********************************
-# 📑 ÍNDICE DE CATEGORÍAS
-# **********************************
-
+# ============================================================
+# 📑 INDICE DE CATEGORIAS
+# ============================================================
 # 01. 🇨🇱 IPTV Free List (Categoria Principal)
 # 02. 📼 Retro Toons TV (Categoria para la Comunidad)
 # 03. 📺 Anime
@@ -30,14 +29,13 @@
 # 13. 🇵🇪 Canales Peruanos
 # 14. 🇯🇵 Canales Japoneses
 # 15. 🌐 Canales Miscelaneos (No Clasificados)
+# ============================================================
 
-
-# **********************************
+# ============================================================
 # 📡 INICIO DE LA PLAYLIST
-# **********************************
+# ============================================================
 
-# **********************************
-# **********************************
+# ============ Retro Toons TV ============
 
 # https://dearbulut.github.io/iptv/?category=series&language=spa&all=1
 #EXTINF:-1 group-title="IPTV Free List" tvg-logo="https://i.imgur.com/9LEiQPJ.png",TVN 3 | CL
@@ -220,8 +218,7 @@ https://unlimited1-cl-isp.dps.live/isb/isb.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="IPTV Free List" tvg-logo="https://127.0.0.1",VClassicTV | CL
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
 
-# **********************************
-# **********************************
+# ============ Retro Toons TV ============
 
 # https://serenotv.com/canal/retro-toons/
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2026/03/209343-150x84.png" group-title="Retro Toons TV",Retro Toons - [No 24/7]
@@ -320,13 +317,13 @@ https://183.giatvcdn.com/giatvplayout7/giatv-210858/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3945-294x165-FFFFFF.jpg" group-title="Retro Toons TV",Tele Mas
 https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8
 
-# https://m3u.cl/canal-iptv/1112_EnerGeek_FAN
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1112_EnerGeek_FAN.png" group-title="Retro Toons TV",EnerGeek FAN
-https://cl-2.backend.energeek.cl/bkp/egfanweb/index.m3u8?token=D3m0M3UCLWeb
-
 # https://m3u.cl/canal-iptv/947_EnerGeek
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/947_EnerGeek.png" group-title="Retro Toons TV",EnerGeek
 https://cl-2.backend.energeek.cl/bkp/egretroweb/index.m3u8?token=D3m0M3UCLWeb
+
+# https://m3u.cl/canal-iptv/1112_EnerGeek_FAN
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1112_EnerGeek_FAN.png" group-title="Retro Toons TV",EnerGeek FAN
+https://cl-2.backend.energeek.cl/bkp/egfanweb/index.m3u8?token=D3m0M3UCLWeb
 
 # https://m3u.cl/canales-iptv.php
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png" group-title="Retro Toons TV",Retro plus TV
@@ -340,8 +337,7 @@ https://vdochile.com:3864/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1266_EnerGeek_Radio.png" group-title="Retro Toons TV",EnerGeek Radio
 https://cl-2.backend.energeek.cl/bkp/egradioweb/index.m3u8?token=D3m0M3UCLWeb
 
-# **********************************
-# **********************************
+# ============ Anime ============
 
 # 📺 Locomotion Lista
 # 📜 LISTA M3U (IPTV) http://locomotiontv.com/envivo/xtv/m3u
@@ -368,8 +364,7 @@ http://animezonetv.net:81/live_hls/animetest/index.m3u8
 #EXTINF:-1 tvg-name="Anime XTV" tvg-id="animextv" tvg-logo="http://locomotiontv.com/locomotion/aztv_logo.png" group-title="Anime",Anime XTV (High Server 2)
 http://146.19.49.197:81/live/animextv_hi/index.m3u8
 
-# **********************************
-# **********************************
+# ============ Canales de Deportes ============
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8cnXJcu.png" group-title="Canales de Deportes", Red Bull TV | FHD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
@@ -383,8 +378,7 @@ https://unlimited1-cl-isp.dps.live/sportinghd/sportinghd.smil/playlist.m3u8?Play
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OprRgQN.png" group-title="Canales de Deportes",eSports Max TV
 https://iptv-nexus-xtream.bulutworks.workers.dev/play/10275.m3u8
 
-# **********************************
-# **********************************
+# ============ Radios Chilenas ============
 
 #EXTINF:-1 tvg-logo="" group-title="Radios Chilenas", Radio Nuevo Mundo (88.9 FM Ovalle)
 http://190.82.105.90:8012/stream/1/
@@ -440,8 +434,7 @@ http://unlimited3-cl.dps.live/p7valparaiso/aac/icecast.audio
 #EXTINF:-1 tvg-logo="" group-title="Radios Chilenas", Mi Radio (La Serena)
 http://s6.jcwebnew.com:9020/stream
 
-# **********************************
-# **********************************
+# ============ Radios Chilenas con Video ============
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TeOq7Om.jpg" group-title="Radios Chilenas con Video", Futuro TV | SD
 http://unlimited6-cl.dps.live/futurotv/futurotv.smil/playlist.m3u8
@@ -479,8 +472,7 @@ https://unlimited6-cl.dps.live/pudahueltv/pudahueltv.smil/pudahueltv/livestream3
 #EXTINF:-1 tvg-logo="https://127.0.0.1" group-title="Radios Chilenas con Video",Pudahuel FM | CL
 https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8?PlaylistM3UCL
 
-# **********************************
-# **********************************
+# ============ Radios Internacionales ============
 
 #EXTINF:-1 tvg-logo="" group-title="Radios Internacionales", SBS Pop Asia
 https://sbs-ice.streamguys1.com/sbs-popasia-sbs-web
@@ -506,14 +498,12 @@ http://popradio.stweb.tv:1935/popradio/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Radios Internacionales", Antena 1 (Brasil)
 https://antenaone.crossradio.com.br/stream/1
 
-# **********************************
-# **********************************
+# ============ Radios Internacionales con Video ============
 
 #EXTINF:-1 tvg-logo="" group-title="Radios Internacionales con Video", Radio Delta International 
 https://w1.mediastreaming.it/deltainternational/livestream/chunklist_w1146403839.m3u8
 
-# **********************************
-# **********************************
+# ============ Canales de Musica ============
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xZSz9Yt.png" group-title="Canales de Musica", Retro TV | SD
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
@@ -557,8 +547,7 @@ https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://127.0.0.1" group-title="Canales de Musica",Canal VM Latino | CR
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8?PlaylistM3UCL
 
-# **********************************
-# **********************************
+# ============ Videos de Musica ============
 
 #EXTINF:-1 tvg-logo="http://www.kodinerds.net/index.php?.m3u8/Attachment/9910-Music-Video-Mix-png/?thumbnail=1" group-title="Video Musica",Yearmix 2013
 https://ia801409.us.archive.org/35/items/DJPanduroVideoYearmix2013/DJ%20Panduro%20-%20Video%20Yearmix%202013.mp4
@@ -638,8 +627,7 @@ https://ia601506.us.archive.org/5/items/BonusProject11/Bonus%20Project%2011.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="Video Musica",Bonus Project 14 - Salsa Mix
 https://ia601508.us.archive.org/26/items/BonusProject14/Bonus%20Project%2014.mp4
 
-# **********************************
-# **********************************
+# ============ Canales de Costa Rica ============
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/200px-Multimedios_Television.png" group-title="Canales de Costa Rica", Multimedios (Costa Rica)
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
@@ -647,8 +635,7 @@ http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://
 #EXTINF:-1 tvg-logo="http://www.unored.tv/wp-content/uploads/2015/08/Extrema-TV-logo.jpg" group-title="Canales de Costa Rica", Extrema TV (Costa Rica)
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-# **********************************
-# **********************************
+# ============ Canales Mexicanos ============
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/897e9wy.png" group-title="Canales Mexicanos", Teleritmo | SD
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
@@ -674,8 +661,7 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://127.0.0.1" group-title="Canales Mexicanos",Canal 66 El Canal de las Noticias | MX
 https://60417ddeaf0d9.streamlock.net:443/canal66/smil:canal66.smil/playlist.m3u8?PlaylistM3UCL
 
-# **********************************
-# **********************************
+# ============ Canales Peruanos ============
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xwbpj7i.jpg" group-title="Canales Peruanos", Ovacion | SD
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
@@ -683,8 +669,7 @@ http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/43_Turbo_Mix_TV.png" group-title="Canales Peruanos",Turbo Mix TV | PE
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL
 
-# **********************************
-# **********************************
+# ============ Canales Japoneses ============
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fFgKYAw.png" group-title="Canales Japoneses", Shop Channel | SD
 https://stream3.shopch.jp/httporiginlivech1/ch1.stream_1280p/chunklist.m3u8
@@ -695,8 +680,7 @@ http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8crfd4t.jpg" group-title="Canales Japoneses", TV Asahi | SD
 https://tvasahi.mov3.co/hls/tvasahi.m3u8
 
-# **********************************
-# **********************************
+# ============ Canales Miscelaneos ============
 
 #EXTINF:-1 group-title="Canales Miscelaneos" tvg-logo="https://i.imgur.com/qiUmZ0y.png",Atlanta Channel | HD
 http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
@@ -728,11 +712,12 @@ http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Canales Miscelaneos" tvg-logo="https://127.0.0.1",Cadena Elite | ES
 https://cloudvideo.servers10.com:8081/8004/index.m3u8?PlaylistM3UCL
 
-# **********************************
-# **********************************
+# ============================================================
+# 📡 FINAL DE LA PLAYLIST
+# ============================================================
 
-# **********************************
+# ============================================================
 # 💡 Notas:
 # - Actualizamos regularmente esta lista, aunque la disponibilidad de algunos canales puede variar.
 # - Puedes organizar y personalizar cada categoría según las secciones de este índice.
-# **********************************
+# ============================================================
