@@ -774,8 +774,12 @@ https://ia601508.us.archive.org/26/items/BonusProject14/Bonus%20Project%2014.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/200px-Multimedios_Television.png" group-title="Canales de Costa Rica", Multimedios (Costa Rica)
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
 
-#EXTINF:-1 tvg-logo="hhttps://imgur.com/PS3hllN.png" group-title="Canales de Costa Rica", Extrema TV (Costa Rica)
+#EXTINF:-1 tvg-logo="https://imgur.com/PS3hllN.png" group-title="Canales de Costa Rica", Extrema TV (Costa Rica)
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PS3hllN.png" group-title="Canales de Costa Rica", Extrema TV (Costa Rica)
+# https://5bf8041cb3fed.streamlock.net:443/extrematv/extrematv/playlist.m3u8
+https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wYbrT2X/Logo-Extrema-TV-Kids.png" group-title="Canales de Costa Rica",Extrema TV Kids | ND
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
