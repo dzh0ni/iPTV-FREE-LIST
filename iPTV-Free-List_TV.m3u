@@ -107,9 +107,6 @@ https://unlimited6-cl.dps.live/vtv/vtv.smil/playlist.m3u8
 #EXTINF:-1 group-title="IPTV Free List" tvg-logo="https://i.imgur.com/5eMb8Vm.png",Buin Somos Todos | HD | Buin
 https://bst.buin.cl/0.m3u8
 
-#EXTINF:-1 group-title="IPTV Free List" tvg-logo="http://chileiptv.cl/img/logos/file_1528340962.jpg",ExtremaTv
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
 #EXTINF:-1 group-title="IPTV Free List" tvg-logo="http://chileiptv.cl/img/logos/file_1486617060.png",Canal 9 Bío Bío
 http://unlimited6-cl.dps.live/c9/c9.smil/c9/livestream1/chunks.m3u8
 
@@ -283,7 +280,8 @@ https://183.giatvcdn.com/ssh101/ssh101/foxkids2/playlist.m3u8
 # (sin coincidencia en esta lista)
 
 # ===== Cartoon Cartoon =====
-# (sin coincidencia en esta lista)
+#EXTINF:-1 tvg-logo="https://gia.tv/channels/logo/392d658a3b091dae4114aaead80f1e1b.jpg" group-title="Retro Toons",Cartoon Classics | ND
+https://rpn.bozztv.com/gusa/gusa-cartoonclassics/tracks-v1a1/mono.m3u8
 
 # ===== EnerGeek Retro =====
 # https://m3u.cl/canal-iptv/947_EnerGeek
@@ -778,8 +776,11 @@ https://ia601508.us.archive.org/26/items/BonusProject14/Bonus%20Project%2014.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/200px-Multimedios_Television.png" group-title="Canales de Costa Rica", Multimedios (Costa Rica)
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
 
-#EXTINF:-1 tvg-logo="http://www.unored.tv/wp-content/uploads/2015/08/Extrema-TV-logo.jpg" group-title="Canales de Costa Rica", Extrema TV (Costa Rica)
+#EXTINF:-1 tvg-logo="hhttps://imgur.com/PS3hllN.png" group-title="Canales de Costa Rica", Extrema TV (Costa Rica)
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wYbrT2X/Logo-Extrema-TV-Kids.png" group-title="Canales de Costa Rica",Extrema TV Kids | ND
+https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
 
 # ============ Canales Mexicanos ============
 
