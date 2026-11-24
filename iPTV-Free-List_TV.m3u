@@ -399,7 +399,7 @@ https://srt01.logicahost.com.br/senal3/index.m3u8
 
 # ===== zyoon TV =====
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b22f37_7e1ad23da568470192dd27b54b845681%7Emv2.jpg" group-title="Retro Toons",Zyoon TV
-# https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
+https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b22f37_7e1ad23da568470192dd27b54b845681%7Emv2.jpg" group-title="Retro Toons",Zyoon TV op2
 https://183.giatvcdn.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
@@ -652,7 +652,7 @@ https://w1.mediastreaming.it/deltainternational/livestream/chunklist_w1146403839
 
 # ============ Canales de Musica ============
 
-#EXTINF:-1 tvg-logo="https://retrovisionmia.com/assets/retrovision-logo-BHToA3lv.png",Retro vision TV (720p)
+#EXTINF:-1 tvg-logo="https://retrovisionmia.com/assets/retrovision-logo-BHToA3lv.png" group-title="Canales de Musica",Retro vision TV (720p)
 https://5790d294af2dc.streamlock.net/retrovision/retrovision/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xZSz9Yt.png" group-title="Canales de Musica", Retro TV | SD
