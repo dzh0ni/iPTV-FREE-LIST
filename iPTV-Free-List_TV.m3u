@@ -220,90 +220,49 @@ https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
 
 # ============ Retro Toons ============
 
+# ===== RetroToons =====
 # https://serenotv.com/canal/retro-toons/
-#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2026/03/209343-150x84.png" group-title="Retro Toons TV",Retro Toons - [No 24/7]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8z827yd/Logo-Retrotoons.jpg" group-title="Retro Toons TV",Retro Toons - [No 24/7]
 https://183.giatvcdn.com/ssh101/ssh101/retrotoons/playlist.m3u8
 
+# ===== Jetix =====
 # https://www.youtube.com/watch?v=Abm2XCgo4cg - Version Rusa
 # https://www.youtube.com/playlist?list=PLsiAPd3dLJgGHLZr0d-DT7RQWNAdtGM2W - Play List Jetix
 # https://gia.tv/watchssh101.php?sn=MYJETIXRETRO
-#EXTINF:-1 tvg-logo="https://www.liblogo.com/img-logo/je8854j1dc-jetix-logo-jetix-logo-2013-by-miicentral-on-.png" group-title="Retro Toons TV",Jetix - [No 24/7]
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Jetix-Logo.png" group-title="Retro Toons TV",Jetix - [No 24/7]
 https://183.giatvcdn.com/giatv/giatv-MYJETIXRETRO/MYJETIXRETRO/chunks.m3u8
 
+# ===== Canal LMS | Mexico =====
+# (sin coincidencia en esta lista)
+
+# ===== Janimotion =====
+# (sin coincidencia en esta lista)
+
+# ===== XtremaTV =====
+# (sin coincidencia en esta lista)
+
+# ===== Best Clasicos TV =====
+# https://www.vivalivetv.com/channel/best-clasicos-tv
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3896-294x165-FFFFFF.jpg" group-title="Retro Toons TV",Best Clasicos TV
+https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
+
+# ===== Cartoon Network =====
+# (sin coincidencia en esta lista)
+
+# ===== Fox Kids =====
 # https://ssh101.com/
 # https://gia.tv/watchssh101.php?nmid=foxkids2
 # https://foxkids.site/lite/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XxmHswJQ/FOX-Kids-logo-svg.png" group-title="Retro Toons TV",Fox Kids 2 - [No 24/7]
 https://183.giatvcdn.com/ssh101/ssh101/foxkids2/playlist.m3u8
 
-#https://gia.tv/watchssh101.php?pvod=209474
-#EXTINF:-1 tvg-logo="https://gia.tv/streams/pvod/209474.png?1795047860" group-title="Retro Toons TV",Teleanimemania España VOD - [No 24/7]
-https://183.giatvcdn.com/giatvplayout/giatvvod/giatv/movies/pvod/209474/Sherlock_Holmes_1x01_Las_cuatro_firmas___Castellano_y_Galego.mp4/playlist.m3u8
+# ===== Nick At Nite =====
+# (sin coincidencia en esta lista)
 
-#https://gia.tv/watchssh101.php?pptv=211565
-#EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/211565.png?1795048119" group-title="Retro Toons TV",TV Grupo Medios Mendoza Anime - [No 24/7]
-https://183.giatvcdn.com/giatvplayout7/giatv-211565/playlist.m3u8
+# ===== Cartoon Cartoon =====
+# (sin coincidencia en esta lista)
 
-#https://chiletvapp.com
-#EXTINF:-1 tvg-logo="https://www.chiletvapp.com/panel/uploads/tv_6a8277aeb3765.jpg" group-title="Retro Toons TV",El Chavo Animado
-https://hls.chiletvapp.com/elchavo/stream.m3u8
-
-#https://www.vivalivetv.com/channel/best-clasicos-tv
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3896-294x165-FFFFFF.jpg" group-title="Retro Toons TV",Best Clasicos TV
-https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
-
-#https://autom3u.com/es/channels/76b094ab-39e7-52e4-9fb6-fbfaa48657aa
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/52_Dreiko_TV.png" group-title="Retro Toons TV",Dreiko TV
-https://cloudvideo.servers10.com:8081/8020/index.m3u8
-
-#https://ssh101.com/
-#EXTINF:-1 tvg-logo="https://ssh101.com/img/dbsuperlat.jpg" group-title="Retro Toons TV",Dragon Ball Super Latino
-https://183.giatvcdn.com/ssh101/ssh101/dbsuperlat/playlist.m3u8
-
-#https://ssh101.com/
-#EXTINF:-1 tvg-logo="https://ssh101.com/img/tvwxfxxgo.jpg" group-title="Retro Toons TV",Wepa tv
-https://183.giatvcdn.com/ssh101/ssh101/tvwxfxxgo/playlist.m3u8
-
-# https://ssh101.com/
-#EXTINF:-1 tvg-logo="https://ssh101.com/img/simptestnews.jpg" group-title="Retro Toons TV",Simp Test News
-https://183.giatvcdn.com/ssh101/ssh101/simptestnews/playlist.m3u8
-
-# https://www.toongoggles.com/linear/pitufo-tv
-# EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/tg/linear_channel/thumbnails/widescreen/k0UC6i-MUyyL25pRw2uuulUiBw1AluUVJQhZ65VxwjA.jpg" group-title="Retro Toons TV",TV Los Pitufo
-# https://stream.ads.ottera.tv/cl/261119dbvib8lp7qts739tlhn0/960x540_1927200_1_f.m3u8
-
-# https://mi-television.com/envivo.php
-#EXTINF:-1 tvg-logo="https://www.mi-television.com/img/logocumplea%C3%B1os.png" group-title="Retro Toons TV",Mi Television Clasica
-https://mitv.getstreamhosting.com:1936/live/ngrp:live_all/chunklist_w1986683452_b2202794.m3u8
-
-# http://teleclasica.com/
-#EXTINF:-1 tvg-logo="http://teleclasica.com/wp-content/uploads/2025/01/OTHER.png" group-title="Retro Toons TV",Tele Clasica
-https://vtm1.msinteractiva.com/teleclasica/teleclasica/playlist.m3u8
-
-# https://cncity.live/
-#EXTINF:-1 tvg-logo="https://cncity.live/assets/logo.png" group-title="Retro Toons TV",CN City
-https://envivo.cncity.live/hls/envivo.m3u8
-
-# https://dearbulut.github.io/iptv/?category=series&language=spa&all=1
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/2d/fa/25/2dfa25f5d2e4d5c19886a3a263706317.jpg" group-title="Retro Toons TV",LAMIL35 TV
-https://vtm2.msinteractiva.com/lamil35/lamil35/playlist.m3u8
-
-# https://dearbulut.github.io/iptv/?category=series&language=spa&all=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jdnHci0.png" group-title="Retro Toons TV",TVS Retro - [No 24/7]
-https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
-
-# https://m3u.cl/canal-iptv/518_TVS_Maracay
-#EXTINF:-1 tvg-logo="https://duckduckgo.com/i/a070cd75afadad24.png" group-title="Retro Toons TV",TVS
-https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8
-
-# https://gia.tv/watchssh101.php?pptv=210858
-#EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/210858.png?1795043759" group-title="Retro Toons TV",Cuentos de la Cripta
-https://183.giatvcdn.com/giatvplayout7/giatv-210858/playlist.m3u8
-
-# https://www.vivalivetv.com/channel/tele
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3945-294x165-FFFFFF.jpg" group-title="Retro Toons TV",Tele Mas
-https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8
-
+# ===== EnerGeek Retro =====
 # https://m3u.cl/canal-iptv/947_EnerGeek
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/947_EnerGeek.png" group-title="Retro Toons TV",EnerGeek
 https://cl-2.backend.energeek.cl/bkp/egretroweb/index.m3u8?token=D3m0M3UCLWeb
@@ -312,17 +271,98 @@ https://cl-2.backend.energeek.cl/bkp/egretroweb/index.m3u8?token=D3m0M3UCLWeb
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1112_EnerGeek_FAN.png" group-title="Retro Toons TV",EnerGeek FAN
 https://cl-2.backend.energeek.cl/bkp/egfanweb/index.m3u8?token=D3m0M3UCLWeb
 
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1266_EnerGeek_Radio.png" group-title="Retro Toons TV",EnerGeek Radio
+https://cl-2.backend.energeek.cl/bkp/egradioweb/index.m3u8?token=D3m0M3UCLWeb
+
+# ===== Magic Kids TV Argentina / Magic Kids OK / Magic Kids Tv =====
+# (sin coincidencia en esta lista)
+
+# ===== RetroMagico =====
+# (sin coincidencia en esta lista)
+
+# ===== Dreiko TV =====
+# https://autom3u.com/es/channels/76b094ab-39e7-52e4-9fb6-fbfaa48657aa
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/52_Dreiko_TV.png" group-title="Retro Toons TV",Dreiko TV
+https://cloudvideo.servers10.com:8081/8020/index.m3u8
+
+# ===== Anime StationV =====
+# (sin coincidencia en esta lista)
+
+# ===== Retro TV HD =====
+# (sin coincidencia en esta lista)
+
+# ===== TV Retro Palmares =====
+# (sin coincidencia en esta lista)
+
+# ===== TV Los Pitufos =====
+# https://www.toongoggles.com/linear/pitufo-tv
+# EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/tg/linear_channel/thumbnails/widescreen/k0UC6i-MUyyL25pRw2uuulUiBw1AluUVJQhZ65VxwjA.jpg" group-title="Retro Toons TV",TV Los Pitufo
+# https://stream.ads.ottera.tv/cl/261119dbvib8lp7qts739tlhn0/960x540_1927200_1_f.m3u8
+
+# ===== Delmi Channel =====
+# (sin coincidencia en esta lista)
+
+# ===== Pantalla Clásica EC =====
+# (sin coincidencia en esta lista)
+
+# ===== Sumaq TV =====
+# (sin coincidencia en esta lista)
+
+# ===== Canal Retrox TV =====
+# (sin coincidencia en esta lista)
+
+# ===== Canal Retrox Plus =====
+# (sin coincidencia en esta lista)
+
+# ===== Mi Televisión Clásica =====
+# https://mi-television.com/envivo.php
+#EXTINF:-1 tvg-logo="https://www.mi-television.com/img/logocumplea%C3%B1os.png" group-title="Retro Toons TV",Mi Television Clasica
+https://mitv.getstreamhosting.com:1936/live/ngrp:live_all/chunklist_w1986683452_b2202794.m3u8
+
+# ===== Tele Clásica =====
+# http://teleclasica.com/
+#EXTINF:-1 tvg-logo="http://teleclasica.com/wp-content/uploads/2025/01/OTHER.png" group-title="Retro Toons TV",Tele Clasica
+https://vtm1.msinteractiva.com/teleclasica/teleclasica/playlist.m3u8
+
+# ===== CN City =====
+# https://cncity.live/
+#EXTINF:-1 tvg-logo="https://cncity.live/assets/logo.png" group-title="Retro Toons TV",CN City
+https://envivo.cncity.live/hls/envivo.m3u8
+
+# ===== Retro Plus =====
 # https://m3u.cl/canales-iptv.php
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png" group-title="Retro Toons TV",Retro plus TV
 https://video06.logicahost.com.br/aretroplustv01/aretroplustv01/playlist.m3u8
 # https://video06.logicahost.com.br/aretroplustv01/aretroplustv01/main_stream.m3u8
 
-# https://dearbulut.github.io/iptv/?category=series&language=spa&all=1
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1765_Retromusica_Television.png" group-title="Retro Toons TV",Retromusica Television
-https://vdochile.com:3864/stream/play.m3u8
+# ===== zyoon TV =====
+# (sin coincidencia en esta lista)
 
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1266_EnerGeek_Radio.png" group-title="Retro Toons TV",EnerGeek Radio
-https://cl-2.backend.energeek.cl/bkp/egradioweb/index.m3u8?token=D3m0M3UCLWeb
+# ===== Cuentos de la Cripta 24/7 =====
+# https://gia.tv/watchssh101.php?pptv=210858
+#EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/210858.png?1795043759" group-title="Retro Toons TV",Cuentos de la Cripta
+https://183.giatvcdn.com/giatvplayout7/giatv-210858/playlist.m3u8
+
+# ===== Tele Mas =====
+# https://www.vivalivetv.com/channel/tele
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3945-294x165-FFFFFF.jpg" group-title="Retro Toons TV",Tele Mas
+https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8
+
+
+# ============ Resto (sin coincidencia en tu índice) ============
+
+# ----- Anime -----
+#https://gia.tv/watchssh101.php?pvod=209474
+#EXTINF:-1 tvg-logo="https://gia.tv/streams/pvod/209474.png?1795047860" group-title="Retro Toons TV",Teleanimemania España VOD - [No 24/7]
+https://183.giatvcdn.com/giatvplayout/giatvvod/giatv/movies/pvod/209474/Sherlock_Holmes_1x01_Las_cuatro_firmas___Castellano_y_Galego.mp4/playlist.m3u8
+
+#https://gia.tv/watchssh101.php?pptv=211565
+#EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/211565.png?1795048119" group-title="Retro Toons TV",TV Grupo Medios Mendoza Anime - [No 24/7]
+https://183.giatvcdn.com/giatvplayout7/giatv-211565/playlist.m3u8
+
+#https://ssh101.com/
+#EXTINF:-1 tvg-logo="https://ssh101.com/img/dbsuperlat.jpg" group-title="Retro Toons TV",Dragon Ball Super Latino
+https://183.giatvcdn.com/ssh101/ssh101/dbsuperlat/playlist.m3u8
 
 # http://locomotiontv.com | (Adaptable)
 #EXTINF:-1 tvg-logo="http://locomotiontv.com/locomotion/logo.png" group-title="Retro Toons TV",Locomotion - [No 24/7]
@@ -336,6 +376,36 @@ http://146.19.49.197:81/live/loco.m3u8
 # http://animezonetv.com/hls/stream.m3u8 AnimeZoneTV
 http://animezonetv.net:81/live_hls/animetest/index.m3u8
 # http://146.19.49.197:81/live/animextv_hi/index.m3u8 (High Server 2)
+
+# ----- Retro / Música -----
+# https://dearbulut.github.io/iptv/?category=series&language=spa&all=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jdnHci0.png" group-title="Retro Toons TV",TVS Retro - [No 24/7]
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+
+# https://m3u.cl/canal-iptv/518_TVS_Maracay
+#EXTINF:-1 tvg-logo="https://duckduckgo.com/i/a070cd75afadad24.png" group-title="Retro Toons TV",TVS
+https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8
+
+# https://dearbulut.github.io/iptv/?category=series&language=spa&all=1
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1765_Retromusica_Television.png" group-title="Retro Toons TV",Retromusica Television
+https://vdochile.com:3864/stream/play.m3u8
+
+# ----- Otros -----
+#https://chiletvapp.com
+#EXTINF:-1 tvg-logo="https://www.chiletvapp.com/panel/uploads/tv_6a8277aeb3765.jpg" group-title="Retro Toons TV",El Chavo Animado
+https://hls.chiletvapp.com/elchavo/stream.m3u8
+
+#https://ssh101.com/
+#EXTINF:-1 tvg-logo="https://ssh101.com/img/tvwxfxxgo.jpg" group-title="Retro Toons TV",Wepa tv
+https://183.giatvcdn.com/ssh101/ssh101/tvwxfxxgo/playlist.m3u8
+
+# https://ssh101.com/
+#EXTINF:-1 tvg-logo="https://ssh101.com/img/simptestnews.jpg" group-title="Retro Toons TV",Simp Test News
+https://183.giatvcdn.com/ssh101/ssh101/simptestnews/playlist.m3u8
+
+# https://dearbulut.github.io/iptv/?category=series&language=spa&all=1
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/2d/fa/25/2dfa25f5d2e4d5c19886a3a263706317.jpg" group-title="Retro Toons TV",LAMIL35 TV
+https://vtm2.msinteractiva.com/lamil35/lamil35/playlist.m3u8
 
 # ============ Anime ============
 
