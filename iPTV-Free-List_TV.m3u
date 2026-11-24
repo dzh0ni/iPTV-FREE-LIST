@@ -774,6 +774,9 @@ https://ia601508.us.archive.org/26/items/BonusProject14/Bonus%20Project%2014.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/200px-Multimedios_Television.png" group-title="Canales de Costa Rica", Multimedios (Costa Rica)
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
 
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/logo-600x250-1.png" group-title="Canales de Costa Rica", Extrema TV
+https://vtm1.msinteractiva.com/canal1/canal1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/PS3hllN.png" group-title="Canales de Costa Rica", Extrema TV (Costa Rica)
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
