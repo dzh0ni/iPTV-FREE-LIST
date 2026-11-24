@@ -384,17 +384,22 @@ https://envivo.cncity.live/hls/envivo.m3u8
 # https://m3u.cl/canales-iptv.php
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v93TP0W.jpg" group-title="Retro Toons",Retro Plus TV
 https://srt01.logicahost.com.br/senal1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png" group-title="Retro Toons",Retro Plus TV — fuente alternativa
-https://video06.logicahost.com.br/aretroplustv01/aretroplustv01/playlist.m3u8
+# https://video06.logicahost.com.br/aretroplustv01/aretroplustv01/playlist.m3u8
 # https://video06.logicahost.com.br/aretroplustv01/aretroplustv01/main_stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v93TP0W.jpg" group-title="Retro Toons",Retro Plus TV 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v93TP0W.jpg" group-title="Retro Toons",Retro Plus TV Señal 2
 https://srt01.logicahost.com.br/senal3/index.m3u8
+# https://video06.logicahost.com.br/aretroplustv02/aretroplustv02/playlist.m3u8
+# https://video06.logicahost.com.br/aretroplustv02/aretroplustv02/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v93TP0W.jpg" group-title="Retro Toons",Retro Plus TV Señal 3
+https://srt01.logicahost.com.br/senal3/index.m3u8
+# https://video06.logicahost.com.br/aretroplustv03/aretroplustv03/playlist.m3u8
+# https://video06.logicahost.com.br/aretroplustv03/aretroplustv03/main_stream.m3u8
 
 # ===== zyoon TV =====
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b22f37_7e1ad23da568470192dd27b54b845681%7Emv2.jpg" group-title="Retro Toons",Zyoon TV
-https://183.giatvcdn.com/ssh101/ssh101/onlinezyoontv/playlist.m3u8
+# https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b22f37_7e1ad23da568470192dd27b54b845681%7Emv2.jpg" group-title="Retro Toons",Zyoon TV op2
 https://183.giatvcdn.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
@@ -774,6 +779,7 @@ https://ia601508.us.archive.org/26/items/BonusProject14/Bonus%20Project%2014.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/200px-Multimedios_Television.png" group-title="Canales de Costa Rica", Multimedios (Costa Rica)
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
 
+# https://xtrematv.com/?num=1
 #EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/logo-600x250-1.png" group-title="Canales de Costa Rica", Extrema TV
 https://vtm1.msinteractiva.com/canal1/canal1/playlist.m3u8
 
