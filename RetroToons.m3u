@@ -14,7 +14,7 @@ https://app.viloud.tv/hls/channel/sep/14f9517f36166600c79487cef1ab4d0b/high.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lX64Y6G.png" group-title="Retro Toons",Jetix Pl
 https://183.giatvcdn.com/giatvplayout7/giatv-211388/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/lX64Y6G.png" group-title="Retro Toons",Jetix Retro
+#EXTINF:-1 tvg-logo="https://imgur.com/lX64Y6G.png" group-title="Retro Toons",Jetix Latino
 https://183.giatvcdn.com/giatv/giatv-MYJETIXRETRO/MYJETIXRETRO/chunks.m3u8
 
 # ===== Canal LMS | Mexico =====
@@ -32,7 +32,7 @@ https://janimotion.com/hls/janimotion/index.m3u8
 # (sin coincidencia en esta lista)
 
 # ===== Best Clasicos TV =====
-#EXTINF:-1 tvg-logo="https://i.imgur.com/atlRdIQ.png" group-title="Retro Toons",Best Clasicos TV
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3896-294x165-FFFFFF.jpg" group-title="Retro Toons",Best Clasicos TV
 https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
 
 # ===== Cartoon Network =====
@@ -104,7 +104,7 @@ https://183.giatvcdn.com/ssh101/ssh101/tvretropalmares/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/AMOcgQg.jpg" group-title="Retro Toons",Los Pitufos TV
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/tg/linear_channel/thumbnails/widescreen/k0UC6i-MUyyL25pRw2uuulUiBw1AluUVJQhZ65VxwjA.jpg" group-title="Retro Toons",TV Los Pitufo
+#EXTINF:-1 tvg-logo="https://imgur.com/AMOcgQg.jpg" group-title="Retro Toons",TV Los Pitufo
 https://stream.ads.ottera.tv/cl/261119dbvib8lp7qts739tlhn0/960x540_1927200_1_f.m3u8
 
 # ===== Delmi Channel =====
@@ -145,11 +145,11 @@ https://envivo.cncity.live/hls/envivo.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v93TP0W.jpg" group-title="Retro Toons",Retro Plus TV
 https://srt01.logicahost.com.br/senal1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v93TP0W.jpg" group-title="Retro Toons",Retro Plus TV 3
-https://srt01.logicahost.com.br/senal3/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png" group-title="Retro Toons",Retro Plus TV — fuente alternativa
 https://video06.logicahost.com.br/aretroplustv01/aretroplustv01/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v93TP0W.jpg" group-title="Retro Toons",Retro Plus TV 3
+https://srt01.logicahost.com.br/senal3/index.m3u8
 
 # ===== zyoon TV =====
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b22f37_7e1ad23da568470192dd27b54b845681%7Emv2.jpg" group-title="Retro Toons",Zyoon TV

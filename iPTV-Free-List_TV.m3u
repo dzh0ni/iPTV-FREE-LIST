@@ -389,12 +389,12 @@ https://envivo.cncity.live/hls/envivo.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v93TP0W.jpg" group-title="Retro Toons",Retro Plus TV
 https://srt01.logicahost.com.br/senal1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v93TP0W.jpg" group-title="Retro Toons",Retro Plus TV 3
-https://srt01.logicahost.com.br/senal3/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png" group-title="Retro Toons",Retro Plus TV — fuente alternativa
 https://video06.logicahost.com.br/aretroplustv01/aretroplustv01/playlist.m3u8
 # https://video06.logicahost.com.br/aretroplustv01/aretroplustv01/main_stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v93TP0W.jpg" group-title="Retro Toons",Retro Plus TV 3
+https://srt01.logicahost.com.br/senal3/index.m3u8
 
 # ===== zyoon TV =====
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b22f37_7e1ad23da568470192dd27b54b845681%7Emv2.jpg" group-title="Retro Toons",Zyoon TV
