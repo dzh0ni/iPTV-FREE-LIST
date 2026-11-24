@@ -15,7 +15,7 @@
 # 📑 INDICE DE CATEGORIAS
 # ============================================================
 # 01. 🇨🇱 IPTV Free List (Categoria Principal)
-# 02. 📼 Retro Toons TV (Categoria para la Comunidad)
+# 02. 📼 Retro Toons (Categoria para la Comunidad)
 # 03. 📺 Anime
 # 04. ⚽ Canales de Deportes
 # 05. 📻 Radios Chilenas
@@ -35,7 +35,7 @@
 # 📡 INICIO DE LA PLAYLIST
 # ============================================================
 
-# ============ Retro Toons TV ============
+# ============ IPTV Free List ============
 
 # https://dearbulut.github.io/iptv/?category=series&language=spa&all=1
 #EXTINF:-1 group-title="IPTV Free List" tvg-logo="https://i.imgur.com/9LEiQPJ.png",TVN 3 | CL
@@ -218,7 +218,7 @@ https://unlimited1-cl-isp.dps.live/isb/isb.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="IPTV Free List" tvg-logo="https://127.0.0.1",VClassicTV | CL
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
 
-# ============ Retro Toons TV ============
+# ============ Retro Toons ============
 
 # https://serenotv.com/canal/retro-toons/
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2026/03/209343-150x84.png" group-title="Retro Toons TV",Retro Toons - [No 24/7]
