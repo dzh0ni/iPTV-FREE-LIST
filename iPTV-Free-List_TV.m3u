@@ -652,6 +652,9 @@ https://w1.mediastreaming.it/deltainternational/livestream/chunklist_w1146403839
 
 # ============ Canales de Musica ============
 
+#EXTINF:-1 tvg-logo="https://retrovisionmia.com/assets/retrovision-logo-BHToA3lv.png",Retro vision TV (720p)
+https://5790d294af2dc.streamlock.net/retrovision/retrovision/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xZSz9Yt.png" group-title="Canales de Musica", Retro TV | SD
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
