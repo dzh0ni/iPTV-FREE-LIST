@@ -451,28 +451,35 @@ http://animezonetv.net:81/live_hls/animetest/index.m3u8
 http://146.19.49.197:81/live/animextv_hi/index.m3u8
 
 # ----- Retro / Música -----
+# https://m3u.cl/canal-iptv/518_TVS_Maracay
 #EXTINF:-1 tvg-logo="https://duckduckgo.com/i/a070cd75afadad24.png" group-title="Retro Toons",TVS
 https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8
 
+# https://dearbulut.github.io/iptv/?category=series&language=spa&all=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jdnHci0.png" group-title="Retro Toons",TVS Retro
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/21_Retro_Music_Television.png" group-title="Retro Toons",Retro Music Television
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3UCL
 
+# https://dearbulut.github.io/iptv/?category=series&language=spa&all=1
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1765_Retromusica_Television.png" group-title="Retro Toons",Retromusica Television
 https://vdochile.com:3864/stream/play.m3u8
 
 # ----- Otros -----
+#https://chiletvapp.com
 #EXTINF:-1 tvg-logo="https://www.chiletvapp.com/panel/uploads/tv_6a8277aeb3765.jpg" group-title="Retro Toons",El Chavo Animado
 https://hls.chiletvapp.com/elchavo/stream.m3u8
 
+#https://ssh101.com/
 #EXTINF:-1 tvg-logo="https://ssh101.com/img/tvwxfxxgo.jpg" group-title="Retro Toons",Wepa tv
 https://183.giatvcdn.com/ssh101/ssh101/tvwxfxxgo/playlist.m3u8
 
+# https://ssh101.com/
 #EXTINF:-1 tvg-logo="https://ssh101.com/img/simptestnews.jpg" group-title="Retro Toons",Simp Test News
 https://183.giatvcdn.com/ssh101/ssh101/simptestnews/playlist.m3u8
 
+# https://dearbulut.github.io/iptv/?category=series&language=spa&all=1
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/2d/fa/25/2dfa25f5d2e4d5c19886a3a263706317.jpg" group-title="Retro Toons",LAMIL35 TV
 https://vtm2.msinteractiva.com/lamil35/lamil35/playlist.m3u8
 
