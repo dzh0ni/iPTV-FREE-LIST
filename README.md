@@ -41,9 +41,8 @@ Puedes cargar cualquier lista M3U en un reproductor web:
 | :--- | :--- | :--- |
 | IPTVnator | M3U/M3U8 | [Descargar](https://4gray.github.io/iptvnator/download/) |
 | IPTV Smarters Pro | xTream Codes | [Descargar](https://iptv-smarters-pro.en.uptodown.com/windows) |
-| IPTV Stream Player 3.0.0 | xTream Codes | [Descargar 3.0.0](https://iptv-stream-player.en.uptodown.com/windows) | [Descargar 3.1.3.0](https://www.mediafire.com/file/rao8wv6lux8cgxq/IPTV_Stream_Player_v3.1.3.0.rar/file) |
-
-
+| IPTV Stream Player 3.0.0 | xTream Codes | [Descargar 3.0.0](https://iptv-stream-player.en.uptodown.com/windows) | 
+| IPTV Stream Player 3.0.0 | xTream Codes | [Descargar 3.1.3.0](https://www.mediafire.com/file/rao8wv6lux8cgxq/IPTV_Stream_Player_v3.1.3.0.rar/file) |
 
 ## 🤖 Android
 
