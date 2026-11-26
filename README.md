@@ -60,7 +60,7 @@ Puedes cargar cualquier lista M3U en un reproductor web:
 
 | App | Acceso | Enlace |
 | :--- | :--- | :--- |
-| iMPlayer | M3U/M3U8 + Xtream Codes | [Descargar](https://play.google.com/store/apps/details?id=com.myiptvonline.implayerm) |
+| iMPlayer | M3U/M3U8 + Xtream Codes | Google Play](https://play.google.com/store/apps/details?id=com.myiptvonline.implayerm) |
 | IPTV Smarters Pro | M3U/M3U8 + Xtream Codes | [Descargar](https://iptv-smarters-pro.en.uptodown.com/android) |
 | TiviMate | M3U/M3U8 + Xtream Codes | [Google Play](https://play.google.com/store/apps/details?id=ar.tvplayer.tv) |
 | OTT Navigator | M3U/M3U8 + Xtream Codes | [Google Play](https://play.google.com/store/apps/details?id=appnovatica.tv) |
