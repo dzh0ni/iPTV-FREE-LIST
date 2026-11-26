@@ -44,6 +44,8 @@ Puedes cargar cualquier lista M3U en un reproductor web:
 | IPTV Stream Player 3.0.0 | xTream Codes | [Descargar 3.0.0](https://iptv-stream-player.en.uptodown.com/windows) |
 | IPTV Stream Player 3.1.3.0 | xTream Codes | [Descargar 3.1.3.0](https://www.mediafire.com/file/rao8wv6lux8cgxq/IPTV_Stream_Player_v3.1.3.0.rar/file) |
 
+---
+
 ## 🤖 Android
 
 | App | Acceso | Enlace |
@@ -53,6 +55,18 @@ Puedes cargar cualquier lista M3U en un reproductor web:
 | IPTV Smarters Pro | xTream Codes | [Descargar](https://iptv-smarters-pro.en.uptodown.com/android) |
 
 ---
+
+## 📺 Android TV / TV Box
+
+| App | Acceso | Enlace |
+| :--- | :--- | :--- |
+| iMPlayer | M3U/M3U8 + Xtream Codes | [Descargar](https://play.google.com/store/apps/details?id=com.myiptvonline.implayerm) |
+| IPTV Smarters Pro | M3U/M3U8 + Xtream Codes | [Descargar](https://iptv-smarters-pro.en.uptodown.com/android) |
+| TiviMate | M3U/M3U8 + Xtream Codes | [Google Play](https://play.google.com/store/apps/details?id=ar.tvplayer.tv) |
+| OTT Navigator | M3U/M3U8 + Xtream Codes | [Google Play](https://play.google.com/store/apps/details?id=appnovatica.tv) |
+| IPTV Pro | M3U/M3U8 + Xtream Codes (De paga) | [Google Play](https://play.google.com/store/apps/details?id=ru.iptvremote.android.iptv.pro) |
+| Kodi | M3U/M3U8 (Add-on PVR IPTV Simple) | [Descargar](https://kodi.tv/download/android/) |
+| VLC | M3U/M3U8 | [Descargar](https://www.videolan.org/vlc/download-android.html) |
 
 ## 📡 lista github.com/iptv-org
 * [GitHub](https://github.com/iptv-org/iptv) - Proyecto Oficial
