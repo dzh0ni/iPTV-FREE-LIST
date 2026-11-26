@@ -18,7 +18,7 @@ Verificar la disponibilidad de cada enlace corresponde al usuario. Algunos enlac
 
 Lista de reproducción de IPTV para `todo público`
 ```bash
-https://raw.githubusercontent.com/dzh0ni/iPTV-FREE-LIST/master/iPTV-Free-List_TV.m3u
+https://raw.githubusercontent.com/dzh0ni/iPTV-FREE-LIST/master/iptvfreelist.m3u
 ```
 :memo: Pueden usar esta lista en PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
 
