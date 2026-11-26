@@ -377,7 +377,7 @@ https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8
 #EXTINF:-1 tvg-name="MAX Anime" tvg-logo="https://i.imgur.com/Oj3hEBh.jpeg" group-title="Retro Toons", MAX Anime
 https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HQZQyWt.png" group-title="Animation",ADN TV Plus
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HQZQyWt.png" group-title="Retro Toons",ADN TV Plus
 https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8
 
 #https://gia.tv/watchssh101.php?pvod=209474
