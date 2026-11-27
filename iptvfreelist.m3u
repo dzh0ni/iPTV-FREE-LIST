@@ -308,7 +308,7 @@ https://183.giatvcdn.com/ssh101/ssh101/tvretropalmares/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/AMOcgQg.jpg" group-title="Retro Toons",Los Pitufos TV
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/AMOcgQg.jpg" group-title="Retro Toons",TV Los Pitufo
+#EXTINF:-1 tvg-logo="https://imgur.com/AMOcgQg.jpg" group-title="Retro Toons",Los Pitufo TV op2
 https://stream.ads.ottera.tv/cl/261119dbvib8lp7qts739tlhn0/960x540_1927200_1_f.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5OYccJH.png" group-title="Retro Toons",Gogoplay TV
@@ -319,6 +319,12 @@ https://183.giatvcdn.com/giatvplayout7/giatv-210703/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/210702.jpg?1758864551" group-title="Retro Toons",El Hombre Araña - 24/7
 https://183.giatvcdn.com/giatvplayout7/giatv-210702/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/210858.png?1795043759" group-title="Retro Toons",Cuentos de la Cripta 24/7
+https://183.giatvcdn.com/giatvplayout7/giatv-210858/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.chiletvapp.com/panel/uploads/tv_6a8277aeb3765.jpg" group-title="Retro Toons",El Chavo Animado 24/7
+https://hls.chiletvapp.com/elchavo/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLnByb2RzaXMucGFudGFsbGFjbGFzaWNhX3NjcmVlbl8wXzE2NzE4MjM4NzRfMDgy/screen-0.jpg?fakeurl=1&type=.jpg" group-title="Retro Toons",Pantalla Clásica
 https://183.giatvcdn.com/ssh101/ssh101/pantallaclasics/playlist.m3u8
@@ -332,41 +338,32 @@ https://183.giatvcdn.com/giatvplayout7/giatv-209163/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sDTp6BD.png" group-title="Retro Toons",RetroX TV Plus
 https://stream-retroxtv.site/w/QNibZ7nyJCWBSqNgme03EG4r.m3u8
 
+#EXTINF:-1 tvg-logo="http://teleclasica.com/wp-content/uploads/2025/01/OTHER.png" group-title="Retro Toons",Tele Clásica
+https://vtm1.msinteractiva.com/teleclasica/teleclasica/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.mi-television.com/img/logocumplea%C3%B1os.png" group-title="Retro Toons",Mi Televisión Clásica
 https://mitv.getstreamhosting.com:1936/live/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mi-television.com/img/logocumplea%C3%B1os.png" group-title="Retro Toons",Mi Televisión Clásica op2
 https://mitv.getstreamhosting.com:1936/live/ngrp:live_all/chunklist_w1986683452_b2202794.m3u8
 
-#EXTINF:-1 tvg-logo="http://teleclasica.com/wp-content/uploads/2025/01/OTHER.png" group-title="Retro Toons",Tele Clásica
-https://vtm1.msinteractiva.com/teleclasica/teleclasica/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://cncity.live/assets/logo.png" group-title="Retro Toons",CN City
 https://envivo.cncity.live/hls/envivo.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v93TP0W.jpg" group-title="Retro Toons",Retro Plus TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v93TP0W.jpg" group-title="Retro Toons",Retro Plus TV - Musica
 https://srt01.logicahost.com.br/senal1/index.m3u8
 # https://video06.logicahost.com.br/aretroplustv01/aretroplustv01/playlist.m3u8
 # https://video06.logicahost.com.br/aretroplustv01/aretroplustv01/main_stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v93TP0W.jpg" group-title="Retro Toons",Retro Plus TV Señal 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v93TP0W.jpg" group-title="Retro Toons",Retro Plus TV Señal 2 - Musica
 https://srt01.logicahost.com.br/senal2/index.m3u8
 # https://video06.logicahost.com.br/aretroplustv02/aretroplustv02/playlist.m3u8
 # https://video06.logicahost.com.br/aretroplustv02/aretroplustv02/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v93TP0W.jpg" group-title="Retro Toons",Retro Plus TV Señal 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v93TP0W.jpg" group-title="Retro Toons",Retro Plus TV Señal 3 - Cine
 https://srt01.logicahost.com.br/senal3/index.m3u8
 # https://video06.logicahost.com.br/aretroplustv03/aretroplustv03/playlist.m3u8
 # https://video06.logicahost.com.br/aretroplustv03/aretroplustv03/main_stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b22f37_7e1ad23da568470192dd27b54b845681%7Emv2.jpg" group-title="Retro Toons",Zyoon TV
-https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b22f37_7e1ad23da568470192dd27b54b845681%7Emv2.jpg" group-title="Retro Toons",Zyoon TV op2
-https://183.giatvcdn.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/210858.png?1795043759" group-title="Retro Toons",Cuentos de la Cripta
-https://183.giatvcdn.com/giatvplayout7/giatv-210858/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3945-294x165-FFFFFF.jpg" group-title="Retro Toons",Tele Más
 https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8
@@ -407,9 +404,6 @@ http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3UC
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1765_Retromusica_Television.png" group-title="Retro Toons",Retromusica Television
 https://vdochile.com:3864/stream/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.chiletvapp.com/panel/uploads/tv_6a8277aeb3765.jpg" group-title="Retro Toons",El Chavo Animado
-https://hls.chiletvapp.com/elchavo/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://ssh101.com/img/tvwxfxxgo.jpg" group-title="Retro Toons",Wepa tv
 https://183.giatvcdn.com/ssh101/ssh101/tvwxfxxgo/playlist.m3u8
 
@@ -418,6 +412,12 @@ https://183.giatvcdn.com/ssh101/ssh101/simptestnews/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/2d/fa/25/2dfa25f5d2e4d5c19886a3a263706317.jpg" group-title="Retro Toons",LAMIL35 TV
 https://vtm2.msinteractiva.com/lamil35/lamil35/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b22f37_7e1ad23da568470192dd27b54b845681%7Emv2.jpg" group-title="Retro Toons",Zyoon TV
+https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b22f37_7e1ad23da568470192dd27b54b845681%7Emv2.jpg" group-title="Retro Toons",Zyoon TV op2
+https://183.giatvcdn.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
 
 # ============ Anime ============
 
