@@ -241,7 +241,7 @@ https://183.giatvcdn.com/ssh101/ssh101/canalvariado4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/chkybmzX/Janimotion.png" group-title="Retro Toons",Janimotion
 https://janimotion.com/hls/janimotion/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.teleon.tv/180_webp/xtrema-cartoons.webp" group-title="Retro Toons", Xtrema TV
+#EXTINF:-1 tvg-logo="https://assets.teleon.tv/180_webp/xtrema-cartoons.webp" group-title="Retro Toons", Xtrema TV Cartoons
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
 #https://stmv3.voxtvhd.com.br/xtremaretrocartoons/xtremaretrocartoons/playlist.m3u8
 
@@ -272,10 +272,13 @@ https://cl-2.backend.energeek.cl/bkp/egfanweb/index.m3u8?token=D3m0M3UCLWeb
 https://cl-2.backend.energeek.cl/bkp/egradioweb/index.m3u8?token=D3m0M3UCLWeb
 #https://cl-2.backend.energeek.cl/bkp/egradioweb/index.m3u8?token=W3bEnerG33k2026
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bHoFrHs.png" group-title="Retro Toons",El Magic
+https://kali.vdopanel.com:3957/stream/play.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k8hx0C6.png" group-title="Retro Toons",Magic Kids
 https://kiiroilabs.ddns.net/magickids/stream/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aSJxuYm.png" group-title="Retro Toons",Magic Kids TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aSJxuYm.png" group-title="Retro Toons",Magic Kids Ar
 https://183.giatvcdn.com/giatv/giatv-magicplus/magicplus/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qFndbzN.png" group-title="Retro Toons",Retro Mágico
@@ -286,9 +289,6 @@ https://183.giatvcdn.com/giatv/giatv-retromagicochnl/retromagicochnl/playlist.m3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sI2lUuY.png" group-title="Retro Toons",Tigueritos TV
 https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bHoFrHs.png" group-title="Retro Toons",El Magic
-https://kali.vdopanel.com:3957/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/52_Dreiko_TV.png" group-title="Retro Toons",Dreiko TV
 https://cloudvideo.servers10.com:8081/8020/tracks-v1a1/mono.m3u8
