@@ -460,6 +460,9 @@ https://unlimited1-cl-isp.dps.live/sportinghd/sportinghd.smil/playlist.m3u8?Play
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OprRgQN.png" group-title="Canales de Deportes",eSports Max TV
 https://iptv-nexus-xtream.bulutworks.workers.dev/play/10275.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OprRgQN.png" group-title="Canales de Deportes",eSports Max TV (1080p)
+https://cdnlive.klicgo.net/esportsmax/live/playlist_dvr.m3u8
+
 # ============ Radios Chilenas ============
 
 #EXTINF:-1 tvg-logo="" group-title="Radios Chilenas", Radio Nuevo Mundo (88.9 FM Ovalle)
